@@ -24,8 +24,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Girl unDead\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-04-17 14:30 UTC\n"
-"PO-Revision-Date: 2025-04-18 00:07+0900\n"
+"POT-Creation-Date: 2025-04-17 16:04 UTC\n"
+"PO-Revision-Date: 2025-04-18 01:04+0900\n"
 "Last-Translator: \n"
 "Language-Team: tapaboy <tapaboy.shadowmoon@gmail.com>\n"
 "Language: ja\n"
@@ -35,17 +35,17 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:10
+#: Girl_unDead/_main.cfg:25
 msgid "Girl unDead"
 msgstr "死の少女"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:11
+#: Girl_unDead/_main.cfg:26
 msgid "GuD"
 msgstr "GuD"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:23
+#: Girl_unDead/_main.cfg:38
 msgid ""
 "Malica, a young girl who died unexpectedly, has become undead due to "
 "incomplete revival, but somehow Wesnoth has been trying to capture her. "
@@ -65,52 +65,52 @@ msgstr ""
 "（中級レベル、10 シナリオ）"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:32
+#: Girl_unDead/_main.cfg:47
 msgid "Whelp"
 msgstr "チビ"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:32
+#: Girl_unDead/_main.cfg:47
 msgid "Easy"
 msgstr "易しい"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:33
+#: Girl_unDead/_main.cfg:48
 msgid "Marksman"
 msgstr "射撃手"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:33
+#: Girl_unDead/_main.cfg:48
 msgid "Normal"
 msgstr "普通"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:34
+#: Girl_unDead/_main.cfg:49
 msgid "Knight"
 msgstr "騎士"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:34
+#: Girl_unDead/_main.cfg:49
 msgid "Hard"
 msgstr "難しい"
 
 #. [about]
-#: Girl_unDead/_main.cfg:40
+#: Girl_unDead/_main.cfg:55
 msgid "Creator and Original Designer"
 msgstr "制作者・オリジナルデザイナー"
 
 #. [about]
-#: Girl_unDead/_main.cfg:46
+#: Girl_unDead/_main.cfg:61
 msgid "Revision for 1.18"
 msgstr "1.18 向け改訂"
 
 #. [about]
-#: Girl_unDead/_main.cfg:53
+#: Girl_unDead/_main.cfg:68
 msgid "Mentors to English"
 msgstr "英語補助"
 
 #. [about]
-#: Girl_unDead/_main.cfg:65
+#: Girl_unDead/_main.cfg:80
 msgid "Japanese Translators"
 msgstr "日本語翻訳者"
 
@@ -1173,48 +1173,48 @@ msgid ""
 msgstr "聞け、殺されたくなかったら、余計なことするんじゃねェぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_Training.cfg:273
+#: Girl_unDead/scenarios/02_Training.cfg:269
 msgid "He has disappeared..."
 msgstr "どこかに行っちゃったわ・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_Training.cfg:277
+#: Girl_unDead/scenarios/02_Training.cfg:273
 msgid ""
 "I am concerned about what he was saying. But let's go back to the cave now."
 msgstr "彼の言葉が気になるけど。でも、今は洞窟に戻ろうっと。"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/02_Training.cfg:294
+#: Girl_unDead/scenarios/02_Training.cfg:290
 msgid "Dad, Poet, I'm sorry I was not strong."
 msgstr "お父さん、詩人さん、私強くなれなくてごめんなさい。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/02_Training.cfg:298
+#: Girl_unDead/scenarios/02_Training.cfg:294
 msgid "Annoying! Do not say sorry, my Princess."
 msgstr "馬鹿やろう！あやまるんじゃねえ、姫様。"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/02_Training.cfg:302
+#: Girl_unDead/scenarios/02_Training.cfg:298
 msgid "Sorry, sorry..."
 msgstr "ごめんなさい、ごめんなさい・・・"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/02_Training.cfg:316
+#: Girl_unDead/scenarios/02_Training.cfg:312
 msgid "I can't believe I've been defeated."
 msgstr "俺様がやられちまうなんてな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_Training.cfg:320
+#: Girl_unDead/scenarios/02_Training.cfg:316
 msgid "I was too weak to help... I'm sorry."
 msgstr "私が弱すぎたから・・・ ごめんさい。"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/02_Training.cfg:324
+#: Girl_unDead/scenarios/02_Training.cfg:320
 msgid "Do not say sorry, my Princess..."
 msgstr "謝るんじゃねえ。姫様・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_Training.cfg:328 Girl_unDead/utils/deaths.cfg:40
+#: Girl_unDead/scenarios/02_Training.cfg:324 Girl_unDead/utils/deaths.cfg:40
 msgid "Poet! Oh no!"
 msgstr "詩人さん！まって！"
 
