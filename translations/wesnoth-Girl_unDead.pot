@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-04-17 16:04 UTC\n"
+"POT-Creation-Date: 2025-04-17 22:08 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,7 +122,7 @@ msgstr ""
 #: Girl_unDead/scenarios/04_Revenge.cfg:28
 #: Girl_unDead/scenarios/04x_In_the_Forest.cfg:78
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:20
-#: Girl_unDead/scenarios/06_Gulf.cfg:65
+#: Girl_unDead/scenarios/06_Gulf.cfg:60
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:33
 #: Girl_unDead/scenarios/08_A_Long_Day.cfg:31
 #: Girl_unDead/scenarios/09_Intrusion.cfg:37
@@ -341,13 +341,13 @@ msgstr ""
 #: Girl_unDead/scenarios/04_Revenge.cfg:434
 #: Girl_unDead/scenarios/04_Revenge.cfg:668
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:94
-#: Girl_unDead/scenarios/06_Gulf.cfg:283
+#: Girl_unDead/scenarios/06_Gulf.cfg:278
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:245
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:624
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:80
-#: Girl_unDead/scenarios/09_Intrusion.cfg:269
-#: Girl_unDead/scenarios/10_Castle.cfg:268
-#: Girl_unDead/scenarios/10_Castle.cfg:700
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:626
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:81
+#: Girl_unDead/scenarios/09_Intrusion.cfg:274
+#: Girl_unDead/scenarios/10_Castle.cfg:277
+#: Girl_unDead/scenarios/10_Castle.cfg:719
 msgid "Destruction of Malica"
 msgstr ""
 
@@ -761,12 +761,12 @@ msgstr ""
 #: Girl_unDead/scenarios/04_Revenge.cfg:496
 #: Girl_unDead/scenarios/04_Revenge.cfg:785
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:228
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:333
-#: Girl_unDead/scenarios/10_Castle.cfg:426
-#: Girl_unDead/scenarios/10_Castle.cfg:501
-#: Girl_unDead/scenarios/10_Castle.cfg:534
-#: Girl_unDead/scenarios/10_Castle.cfg:622
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:146
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:334
+#: Girl_unDead/scenarios/10_Castle.cfg:433
+#: Girl_unDead/scenarios/10_Castle.cfg:519
+#: Girl_unDead/scenarios/10_Castle.cfg:553
+#: Girl_unDead/scenarios/10_Castle.cfg:641
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:163
 msgid "..."
 msgstr ""
 
@@ -783,7 +783,7 @@ msgstr ""
 #. [message]: speaker=Malica
 #. [message]: speaker=Poet
 #: Girl_unDead/scenarios/01x_Cave_of_the_Undead.cfg:222
-#: Girl_unDead/scenarios/10_Castle.cfg:650
+#: Girl_unDead/scenarios/10_Castle.cfg:669
 msgid "Thank you..."
 msgstr ""
 
@@ -861,14 +861,14 @@ msgstr ""
 #: Girl_unDead/scenarios/04_Revenge.cfg:438
 #: Girl_unDead/scenarios/04_Revenge.cfg:672
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:98
-#: Girl_unDead/scenarios/06_Gulf.cfg:287
+#: Girl_unDead/scenarios/06_Gulf.cfg:282
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:249
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:628
-#: Girl_unDead/scenarios/09_Intrusion.cfg:273
-#: Girl_unDead/scenarios/10_Castle.cfg:272
-#: Girl_unDead/scenarios/10_Castle.cfg:704
-#: Girl_unDead/scenarios/10_Castle.cfg:867
-#: Girl_unDead/scenarios/10_Castle.cfg:1040
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:630
+#: Girl_unDead/scenarios/09_Intrusion.cfg:278
+#: Girl_unDead/scenarios/10_Castle.cfg:281
+#: Girl_unDead/scenarios/10_Castle.cfg:723
+#: Girl_unDead/scenarios/10_Castle.cfg:886
+#: Girl_unDead/scenarios/10_Castle.cfg:1059
 msgid "Destruction of Poet"
 msgstr ""
 
@@ -1428,15 +1428,15 @@ msgstr ""
 #: Girl_unDead/scenarios/04_Revenge.cfg:442
 #: Girl_unDead/scenarios/04_Revenge.cfg:676
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:102
-#: Girl_unDead/scenarios/06_Gulf.cfg:291
+#: Girl_unDead/scenarios/06_Gulf.cfg:286
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:253
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:632
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:84
-#: Girl_unDead/scenarios/09_Intrusion.cfg:277
-#: Girl_unDead/scenarios/10_Castle.cfg:276
-#: Girl_unDead/scenarios/10_Castle.cfg:708
-#: Girl_unDead/scenarios/10_Castle.cfg:871
-#: Girl_unDead/scenarios/10_Castle.cfg:1044
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:634
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:85
+#: Girl_unDead/scenarios/09_Intrusion.cfg:282
+#: Girl_unDead/scenarios/10_Castle.cfg:285
+#: Girl_unDead/scenarios/10_Castle.cfg:727
+#: Girl_unDead/scenarios/10_Castle.cfg:890
+#: Girl_unDead/scenarios/10_Castle.cfg:1063
 msgid "Death of Cyclos"
 msgstr ""
 
@@ -1544,14 +1544,14 @@ msgstr ""
 #. [objective]: condition=lose
 #: Girl_unDead/scenarios/04_Revenge.cfg:680
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:106
-#: Girl_unDead/scenarios/06_Gulf.cfg:295
+#: Girl_unDead/scenarios/06_Gulf.cfg:290
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:257
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:636
-#: Girl_unDead/scenarios/09_Intrusion.cfg:281
-#: Girl_unDead/scenarios/10_Castle.cfg:280
-#: Girl_unDead/scenarios/10_Castle.cfg:712
-#: Girl_unDead/scenarios/10_Castle.cfg:875
-#: Girl_unDead/scenarios/10_Castle.cfg:1048
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:638
+#: Girl_unDead/scenarios/09_Intrusion.cfg:286
+#: Girl_unDead/scenarios/10_Castle.cfg:289
+#: Girl_unDead/scenarios/10_Castle.cfg:731
+#: Girl_unDead/scenarios/10_Castle.cfg:894
+#: Girl_unDead/scenarios/10_Castle.cfg:1067
 msgid "Death of Stella"
 msgstr ""
 
@@ -1668,7 +1668,7 @@ msgstr ""
 #. [message]: speaker=Stella
 #. [message]: speaker=Poet
 #: Girl_unDead/scenarios/04_Revenge.cfg:920
-#: Girl_unDead/scenarios/10_Castle.cfg:550
+#: Girl_unDead/scenarios/10_Castle.cfg:569
 msgid "Ah..."
 msgstr ""
 
@@ -1958,18 +1958,18 @@ msgstr ""
 #. [side]: id=Kingdom 5, type=Iron Mauler
 #. [side]: id=Kingdom 6, type=Mage of Light
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:32
-#: Girl_unDead/scenarios/06_Gulf.cfg:77
+#: Girl_unDead/scenarios/06_Gulf.cfg:72
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:77
 #: Girl_unDead/scenarios/09_Intrusion.cfg:50
-#: Girl_unDead/scenarios/09_Intrusion.cfg:188
-#: Girl_unDead/scenarios/09_Intrusion.cfg:224
-#: Girl_unDead/scenarios/09_Intrusion.cfg:248
-#: Girl_unDead/scenarios/10_Castle.cfg:113
-#: Girl_unDead/scenarios/10_Castle.cfg:134
-#: Girl_unDead/scenarios/10_Castle.cfg:146
-#: Girl_unDead/scenarios/10_Castle.cfg:158
-#: Girl_unDead/scenarios/10_Castle.cfg:210
-#: Girl_unDead/scenarios/10_Castle.cfg:252
+#: Girl_unDead/scenarios/09_Intrusion.cfg:189
+#: Girl_unDead/scenarios/09_Intrusion.cfg:226
+#: Girl_unDead/scenarios/09_Intrusion.cfg:252
+#: Girl_unDead/scenarios/10_Castle.cfg:117
+#: Girl_unDead/scenarios/10_Castle.cfg:139
+#: Girl_unDead/scenarios/10_Castle.cfg:152
+#: Girl_unDead/scenarios/10_Castle.cfg:165
+#: Girl_unDead/scenarios/10_Castle.cfg:217
+#: Girl_unDead/scenarios/10_Castle.cfg:260
 msgid "Wesnothians"
 msgstr ""
 
@@ -2012,14 +2012,14 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:110
-#: Girl_unDead/scenarios/06_Gulf.cfg:299
+#: Girl_unDead/scenarios/06_Gulf.cfg:294
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:261
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:640
-#: Girl_unDead/scenarios/09_Intrusion.cfg:285
-#: Girl_unDead/scenarios/10_Castle.cfg:284
-#: Girl_unDead/scenarios/10_Castle.cfg:716
-#: Girl_unDead/scenarios/10_Castle.cfg:879
-#: Girl_unDead/scenarios/10_Castle.cfg:1052
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:642
+#: Girl_unDead/scenarios/09_Intrusion.cfg:290
+#: Girl_unDead/scenarios/10_Castle.cfg:293
+#: Girl_unDead/scenarios/10_Castle.cfg:735
+#: Girl_unDead/scenarios/10_Castle.cfg:898
+#: Girl_unDead/scenarios/10_Castle.cfg:1071
 msgid "Death of Runt"
 msgstr ""
 
@@ -2051,8 +2051,8 @@ msgstr ""
 #. [message]: speaker=Malica
 #. [message]: speaker=Mermaid Princess
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:192
-#: Girl_unDead/scenarios/06_Gulf.cfg:427
-#: Girl_unDead/scenarios/06_Gulf.cfg:525
+#: Girl_unDead/scenarios/06_Gulf.cfg:422
+#: Girl_unDead/scenarios/06_Gulf.cfg:520
 msgid "No!"
 msgstr ""
 
@@ -2209,218 +2209,218 @@ msgstr ""
 
 #. [effect]
 #. [object]
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:442
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:436
 #: Girl_unDead/scenarios/05_Puppeteer.cfg:426
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:664
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:648
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:652
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:642
 msgid "cursed bow"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:456
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:450
 msgid "You have been cursed during this battle. Now you must be careful when you attack anyone."
 msgstr ""
 
 #. [message]: speaker=$second_unit.id
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:479
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:473
 msgid "Oh! It revived!"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:483
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:477
 msgid "That is his strength. As long as he lives, the corpses will revive."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:487
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:481
 msgid "Hmmm... his losses are not losses."
 msgstr ""
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:515
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:509
 msgid "Alas! I should have been bringing the eivish shamans from the sanctuary..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
 #. [message]: speaker=Malica
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:519
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:576
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:134
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:513
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:570
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:151
 msgid "What?"
 msgstr ""
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:524
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:518
 msgid "Our mages are experimenting using elvish shamans in the sanctuary near here."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:528
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:522
 msgid "What a terrible thing it is!"
 msgstr ""
 
 #. [message]: speaker=Bandit
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:540
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:534
 msgid "The Wesnothians has lost. Let's get out of here!"
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:556
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:550
 msgid "Now, I'm free from the Kingdom. And it is no use to battle each other we undead. Don't you think so, lady lich?"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:560
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:554
 msgid "Yes, I think so, too."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:564
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:558
 msgid "You must be Malica, daughter of Veronica and niece of Varas."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:568
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:562
 msgid "How do you know my name? My mother, however, was Nina and Varas was my father."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:572
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:566
 msgid "Veronica was the real name of your mother. She was Varas's sister."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:580
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:574
 msgid "Yes, it is true. I shall tell you what I know about it ..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:585
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:579
 msgid "Puppeteer explained that when he was young, there were three white mages with the potential to become the king's high mage: Varas, Veronica, and Maltos."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:590
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:584
 msgid "Randolf, the great mage of Wesnoth, was their teacher."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:595
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:589
 msgid "One day, Varas and Veronica experimented with a magical spell suggested by Randolf. It went wrong and Veronica became immortal while Varas became undead. The two then disappeared. Maltos, who had loved Veronica, then turned to dark mage and became the Puppeteer."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:600
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:594
 msgid "Randolf desired immortality. He searched for Veronica, your mother Nina, many years and when finally he believed he found her, he caused the daughter to die because he knew that Veronica's clan had the secret of how to revive the dead. Randolf then misled Puppeteer into thinking that all the people of the village must be killed if Veronica was to be safe."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:605
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:599
 msgid "Randolf did regain youthfulness through the power of Veronica, but this was not yet immortality. Randolf then discovered that Malica was with Varas and he paid some orcs to seize her. As part of his plan he felt he needed the healing power of elvish shamans, so he seized some and began to experiment. In time Puppeteer figured out that Randolf had deceived him and had turned all the white mages against him."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:609
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:603
 msgid "The elvish shamans are imprisoned in a sanctuary near here. Malica, your mother is in the king's castle."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:613
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:607
 msgid "My mother alive! Thank you... Thank you so much. First we'll rescue the shamans, then we go to Weldyn."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:617
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:611
 msgid "I shall bestow a special skill on an archer."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:621
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:615
 msgid "I am... an excellent archer."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:625
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:619
 msgid "This skill is meant for neither human nor elf. It is cursed with spells of the chaos."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:629
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:623
 msgid "I care not. Please give me it."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:633
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:627
 msgid "Stella? Think about this..."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:637
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:631
 msgid "I think this skill will not be good for you."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:641
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:635
 msgid "I gladly take this risk to help Cyclos... and our tribe."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:645
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:639
 msgid "I see. I'll give it to you. But be aware that it will erode both mind and body over time."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:678
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:666
 msgid "I really want to get to Weldyn, but since the sanctuary is near, we'll go there first."
 msgstr ""
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:682
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:670
 msgid "Pray for good fortune in this war."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:754
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:742
 msgid "What's that?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:762
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:750
 msgid "Oh! It's the legendary ring of the Gold Angel."
 msgstr ""
 
 #. [message]: type=Gold Chocobone
 #. [message]: type=Silver Chocobone
 #. [message]: type=Dread Bat
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:770
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:789
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:808
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:758
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:777
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:796
 msgid "I'll follow you forever."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:774
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:762
 msgid "You should be very useful in battle."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:781
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:769
 msgid "Ah! It's the legendary ring of the Silver Angel."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:793
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:781
 msgid "You should be useful in battle."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:800
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:788
 msgid "Hum, it's a ordinary ring."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_Puppeteer.cfg:812
+#: Girl_unDead/scenarios/05_Puppeteer.cfg:800
 msgid "I doubt you will be much help..."
 msgstr ""
 
@@ -2436,159 +2436,154 @@ msgid ""
 "<span font='16'>S6</span>"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Girl_unDead/scenarios/06_Gulf.cfg:26
-msgid "Ah, help me!"
-msgstr ""
-
 #. [side]: id=Merman King, type=Merman Triton
 #. [side]: id=Mermaid Princess, type=Mermaid Enchantress
 #. [side]
-#: Girl_unDead/scenarios/06_Gulf.cfg:120
-#: Girl_unDead/scenarios/06_Gulf.cfg:133
-#: Girl_unDead/scenarios/09_Intrusion.cfg:237
+#: Girl_unDead/scenarios/06_Gulf.cfg:115
+#: Girl_unDead/scenarios/06_Gulf.cfg:128
+#: Girl_unDead/scenarios/09_Intrusion.cfg:240
 msgid "Merfolk"
 msgstr ""
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/06_Gulf.cfg:279
+#: Girl_unDead/scenarios/06_Gulf.cfg:274
 msgid "Reach Malica to the signpost"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:335
+#: Girl_unDead/scenarios/06_Gulf.cfg:330
 msgid "My Princess, we must cross this gulf to reach the sanctuary."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_Gulf.cfg:342
+#: Girl_unDead/scenarios/06_Gulf.cfg:337
 msgid "All right... How do you know so much about these lands?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:346
+#: Girl_unDead/scenarios/06_Gulf.cfg:341
 msgid "Uh... I can't hear you because of the wind... Look! There are enemies in our way!"
 msgstr ""
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/06_Gulf.cfg:350
+#: Girl_unDead/scenarios/06_Gulf.cfg:345
 msgid "Fight these undead with us."
 msgstr ""
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/06_Gulf.cfg:354
+#: Girl_unDead/scenarios/06_Gulf.cfg:349
 msgid "Yes, we will. We have long been your allies."
 msgstr ""
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/06_Gulf.cfg:358
+#: Girl_unDead/scenarios/06_Gulf.cfg:353
 msgid "But this woman leading the undead hasn't harmed us, my father. It is strange she fights against the mighty Kingdom with a small army. I think there might be a reason she shuld get to Weldyn..."
 msgstr ""
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/06_Gulf.cfg:362
+#: Girl_unDead/scenarios/06_Gulf.cfg:357
 msgid "All undead are evil and must be destroyed."
 msgstr ""
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/06_Gulf.cfg:366
+#: Girl_unDead/scenarios/06_Gulf.cfg:361
 msgid "I see."
 msgstr ""
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/06_Gulf.cfg:370
+#: Girl_unDead/scenarios/06_Gulf.cfg:365
 msgid "Good. I'm counting on you."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:374
+#: Girl_unDead/scenarios/06_Gulf.cfg:369
 msgid "Ha, let's kill all of them!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_Gulf.cfg:378
+#: Girl_unDead/scenarios/06_Gulf.cfg:373
 msgid "No! We need only cross the gulf. Don't kill too much."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_Gulf.cfg:394
+#: Girl_unDead/scenarios/06_Gulf.cfg:389
 msgid "Great! I'm far more accurate with a bow now."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:398
+#: Girl_unDead/scenarios/06_Gulf.cfg:393
 msgid "Don't celebrate. You will soon see the curse's effect."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_Gulf.cfg:412
+#: Girl_unDead/scenarios/06_Gulf.cfg:407
 msgid "No! I killed him, yet he walks..."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:416
+#: Girl_unDead/scenarios/06_Gulf.cfg:411
 msgid "I warned you of the curse. Now you know the cost."
 msgstr ""
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/06_Gulf.cfg:438
+#: Girl_unDead/scenarios/06_Gulf.cfg:433
 msgid "Ah! My daughter! Undead, I will never forgive you!"
 msgstr ""
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/06_Gulf.cfg:521
+#: Girl_unDead/scenarios/06_Gulf.cfg:516
 msgid "Ugh!"
 msgstr ""
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/06_Gulf.cfg:535
+#: Girl_unDead/scenarios/06_Gulf.cfg:530
 msgid "Undead... please don't kill my dauther."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:539
+#: Girl_unDead/scenarios/06_Gulf.cfg:534
 msgid "Hah! I like fishing too much to stop now."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_Gulf.cfg:544
+#: Girl_unDead/scenarios/06_Gulf.cfg:539
 msgid "Stop your joking, Poet. We will allow your daughter to live if she stops fighting."
 msgstr ""
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/06_Gulf.cfg:549
+#: Girl_unDead/scenarios/06_Gulf.cfg:544
 msgid "Thank you."
 msgstr ""
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/06_Gulf.cfg:553
+#: Girl_unDead/scenarios/06_Gulf.cfg:548
 msgid "I have no reason to fight you. I am leaving."
 msgstr ""
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/06_Gulf.cfg:564
-#: Girl_unDead/scenarios/06_Gulf.cfg:651
+#: Girl_unDead/scenarios/06_Gulf.cfg:559
+#: Girl_unDead/scenarios/06_Gulf.cfg:646
 msgid "Mermen! Don't run!"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_Gulf.cfg:568
-#: Girl_unDead/scenarios/06_Gulf.cfg:655
+#: Girl_unDead/scenarios/06_Gulf.cfg:563
+#: Girl_unDead/scenarios/06_Gulf.cfg:650
 msgid "Ha! Of course, mermen don't run, they swim!"
 msgstr ""
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/06_Gulf.cfg:586
+#: Girl_unDead/scenarios/06_Gulf.cfg:581
 msgid "Lady lich, you don't seem evil. I see no reason to fight you... Bye."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_Gulf.cfg:619
+#: Girl_unDead/scenarios/06_Gulf.cfg:614
 msgid "We got through. Now to the sanctuary."
 msgstr ""
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/06_Gulf.cfg:628
+#: Girl_unDead/scenarios/06_Gulf.cfg:623
 msgid "Lady lich, you don't look so wrong. We have no reason to battle each other... Bye."
 msgstr ""
 
@@ -2618,7 +2613,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Girl_unDead/scenarios/07_Sanctuary.cfg:241
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:620
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:622
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -2713,144 +2708,144 @@ msgid "Damm, do it on your own."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:397
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:399
 msgid "The shroud is cleared."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:401
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:403
 msgid "It is certainly thanks to Hendrich."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:405
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:407
 msgid "Sometimes even a mage can be useful.."
 msgstr ""
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:409
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:411
 msgid "I will do my best and I will be more helpful."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:425
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:427
 msgid "Oh, it's dazzling! Withdraw the previous word!"
 msgstr ""
 
 #. [unit]: id=Loana, type=Elvish Shyde
 #. [unit]: type=Soulless, id=Loana Dead
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:598
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1144
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1257
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:600
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1146
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1259
 msgid "Loana"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:610
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:612
 msgid "Loana! I've come to save you!"
 msgstr ""
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:615
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:617
 msgid "Cyclos! Thank you, I have hoped to see you for quite some time. Unfortunately, we cannot now return with you. The hideous experiments we have suffered have made that impossible. We will, however, fight alongside you so long as we can."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:644
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:646
 msgid "Death of Loana"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:756
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:881
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1006
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:758
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:883
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1008
 msgid "Why there are so many corpses?"
 msgstr ""
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:767
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:892
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1017
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:769
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:894
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1019
 msgid "They once were shamans as me..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:774
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:899
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1024
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:776
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:901
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1026
 msgid "... No, they were elvish shamans! Why?"
 msgstr ""
 
 #. [message]: speaker=$shaman_stored.id
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1078
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1080
 msgid "Ugh, sore..."
 msgstr ""
 
 #. [message]: speaker=$shaman_stored.name
 #. [message]: speaker=Loana Dead
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1102
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1154
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1267
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1104
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1156
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1269
 msgid "Uuh... Uuh... Uuh..."
 msgstr ""
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1114
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1227
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1116
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1229
 msgid "Cyclos, thank you again for coming. I love you... but I must now say good bye."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1118
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1231
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1120
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1233
 msgid "Loana! Think! There must be some cure. We'll go back home and figure this out!"
 msgstr ""
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1122
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1235
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1124
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1237
 msgid "I thank you, but my time is over. Good bye, Cyclos... Ugh!"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1158
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1271
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1160
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1273
 msgid "Loana... Why did it have to be you..."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1162
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1275
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1164
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1277
 msgid "Be gone! All corpses by my hand!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1195
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1197
 msgid "Was what I did necessary? I'm sorry, Cyclos, but corpses lose the memories of their former life. They exist only in pain."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1199
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1201
 msgid "I know... Poet, our agreement is fulfilled. Kill me... please!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1203
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1205
 msgid "No! Your life is now mine. I will decide when you die. You elves need rest and I need to rebuild my army. Is there a place nearby where we can hide?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1207
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1209
 msgid "At the foot of the Heart Mountains there is a place which human will not go. They believe dangerous creatures exist there."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1211
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1213
 msgid "Poet, lead the way."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_Sanctuary.cfg:1306
+#: Girl_unDead/scenarios/07_Sanctuary.cfg:1308
 msgid "Loana, no!"
 msgstr ""
 
@@ -2865,219 +2860,219 @@ msgid "Snow Monsters"
 msgstr ""
 
 #. [part]
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:57
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:58
 msgid "Because Cyclos was sad from the loss of Loana and the other elves were tired from the fighting, they retreated into the mountains."
 msgstr ""
 
 #. [part]
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:61
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:62
 msgid "The freed shamans, strange to say, had ceased turning into undead. It was thought that Malica's magical powers had cured them."
 msgstr ""
 
 #. [part]
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:65
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:66
 msgid ""
 "<span font='24'>A Long Day</span>\n"
 "<span font='16'>S8</span>"
 msgstr ""
 
 #. [part]
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:67
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:68
 msgid "Although the shamans had been cured, their magical gift had turned toward something darkness."
 msgstr ""
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:76
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:77
 msgid "Kill the animals"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:119
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:120
 msgid "Are you sure this is a safe place to hide?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:123
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:124
 msgid "People fear this place, so few come. But we may face some monsters."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:127
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:128
 msgid "We will rest here, but station guards at the entrance of this valley just in case."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:131
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:132
 msgid "Cyclos, the elves need food and I see a bear over there."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:144
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:145
 msgid "We do not butcher animals for food."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:148
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:149
 msgid "You look like you have no energy. Better to hunt so you can regain your vigor."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:152
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:153
 msgid "I will go. Stella, join me."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:156
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:157
 msgid "Yes I will, glad..."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:160
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:161
 msgid "<small>Stella! Wait!</small>"
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:164
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:165
 msgid "Ah... I better stay here to guard this magical bow."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:168
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:169
 msgid "Stella! Thank you! Cyclos, let's go."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:172
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:173
 msgid "Stella, you did the right thing. Malica knows that you love Cyclos. He is the only who who doesn't know. She has an idea and wanted to be alone with him."
 msgstr ""
 
 #. [message]: speaker=Runt
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:176
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:101
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:177
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:118
 msgid "???"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:180
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:181
 msgid "Now, let's take a break in the ruin."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:217
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:218
 msgid "I feel some wonderful power arises when we are together. Don't you?"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:221
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:222
 msgid "I feel it too. Odd that we are attracted to each other although there is nothing in common between us."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:225
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:226
 msgid "Do you think that? Consider that the decoration on your sword is very similar to my..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:229
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:230
 msgid "Wait. Let's attack the bear together. I feel somthing will happen then."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:233
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:234
 msgid "Sigh... All right."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:243
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:244
 msgid "Malica and Cyclos have a coordinated attack that occurs only if the two are adjacent."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:269
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:294
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:270
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:295
 msgid "Oh, a yeti!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:273
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:298
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:274
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:299
 msgid "Oh, how much meat can we get from the yeti?"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:277
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:302
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:278
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:303
 msgid "Don't be stupid! It is very dangerous!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:313
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:314
 msgid "We have killed the big beast..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:317
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:318
 msgid "Yes, but how do we take it back to our camp?"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:321
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:322
 msgid "My soldiers will carry it later. Ah, this is a beautiful place, isn't it?"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:325
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:326
 msgid "Yes. I would not have thought there was a place like this at the foot of such a steep mountain..."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:329
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:330
 msgid "I may forget the terrible battle..."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:337
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:338
 msgid "You are thinking of Loana. You would be with her now if we could have rescued her a little earlier... I'm sorry."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:341
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:342
 msgid "Malica, don't worry. I apologize that I was upset at the time. I still grieve about losing her, yet my heart becomes calm in your presence."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:345
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:346
 msgid "It is strange that we talk to one another, instead of being enemies."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:349
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:350
 msgid "Sure. I dwell in darkness while you belong to a noble race."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:353
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:354
 msgid "Sometimes I forget you are undead. And sometimes I feel I have long known you."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:357
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:358
 msgid "Yes, I feel we have some sort of connection..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:361
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:362
 msgid "The sun will soon go down. We must return to camp."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:365
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:366
 msgid "... Sorry, I speak too much. Let's go."
 msgstr ""
 
 #. [message]: speaker=Cyclos
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/08_A_Long_Day.cfg:384
+#: Girl_unDead/scenarios/08_A_Long_Day.cfg:385
 #: Girl_unDead/utils/deaths.cfg:57
 msgid "Loana... forgive me..."
 msgstr ""
@@ -3100,109 +3095,109 @@ msgid "Because the guards at the king's castle were numerous and strong, Malica 
 msgstr ""
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/09_Intrusion.cfg:261
+#: Girl_unDead/scenarios/09_Intrusion.cfg:266
 msgid "Get as many units as possible through the castle's gate"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_Intrusion.cfg:265
+#: Girl_unDead/scenarios/09_Intrusion.cfg:270
 msgid "Malica and the other heros fail to reach the gate"
 msgstr ""
 
 #. [note]
-#: Girl_unDead/scenarios/09_Intrusion.cfg:297
+#: Girl_unDead/scenarios/09_Intrusion.cfg:302
 msgid "Malica must enter last."
 msgstr ""
 
 #. [note]
-#: Girl_unDead/scenarios/09_Intrusion.cfg:300
+#: Girl_unDead/scenarios/09_Intrusion.cfg:305
 msgid "Maximum 23 units, including Malica, can enter the gate."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_Intrusion.cfg:351
+#: Girl_unDead/scenarios/09_Intrusion.cfg:356
 msgid "My Princess, we must enter the gate of the castle before morning."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_Intrusion.cfg:358
+#: Girl_unDead/scenarios/09_Intrusion.cfg:363
 msgid "All right... How do you know about this castle."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_Intrusion.cfg:362
+#: Girl_unDead/scenarios/09_Intrusion.cfg:367
 msgid "Ah... I can't hear you say because it is too cold..."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_Intrusion.cfg:366
+#: Girl_unDead/scenarios/09_Intrusion.cfg:371
 msgid "Anyway the lighthouse lights are dazzling."
 msgstr ""
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_Intrusion.cfg:375
+#: Girl_unDead/scenarios/09_Intrusion.cfg:380
 msgid "The great mage is protecting the castle with the fire of that lighthouse."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_Intrusion.cfg:379
+#: Girl_unDead/scenarios/09_Intrusion.cfg:384
 msgid "How?"
 msgstr ""
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_Intrusion.cfg:383
+#: Girl_unDead/scenarios/09_Intrusion.cfg:388
 msgid "... Sorry, I've forgotten."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_Intrusion.cfg:387
+#: Girl_unDead/scenarios/09_Intrusion.cfg:392
 msgid "Damm. Poor mage is useless!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_Intrusion.cfg:419
-#: Girl_unDead/scenarios/09_Intrusion.cfg:749
+#: Girl_unDead/scenarios/09_Intrusion.cfg:424
+#: Girl_unDead/scenarios/09_Intrusion.cfg:784
 msgid "Sorry! I can't enter the gate!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_Intrusion.cfg:450
+#: Girl_unDead/scenarios/09_Intrusion.cfg:455
 msgid "Poet! Don't disappear!"
 msgstr ""
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_Intrusion.cfg:492
+#: Girl_unDead/scenarios/09_Intrusion.cfg:497
 #: Girl_unDead/utils/macros.cfg:646
 msgid "Oh, I remember! We must put out the fire of all the lighthouses."
 msgstr ""
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_Intrusion.cfg:496
-#: Girl_unDead/utils/macros.cfg:650
+#: Girl_unDead/scenarios/09_Intrusion.cfg:501
+#: Girl_unDead/utils/macros.cfg:651
 msgid "The undead that entered the castle will be burnt out by the sacred fire."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_Intrusion.cfg:538
-#: Girl_unDead/scenarios/09_Intrusion.cfg:550
-#: Girl_unDead/scenarios/09_Intrusion.cfg:562
+#: Girl_unDead/scenarios/09_Intrusion.cfg:548
+#: Girl_unDead/scenarios/09_Intrusion.cfg:565
+#: Girl_unDead/scenarios/09_Intrusion.cfg:582
 msgid "It's midnight now."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_Intrusion.cfg:575
-#: Girl_unDead/scenarios/09_Intrusion.cfg:587
-#: Girl_unDead/scenarios/09_Intrusion.cfg:599
+#: Girl_unDead/scenarios/09_Intrusion.cfg:600
+#: Girl_unDead/scenarios/09_Intrusion.cfg:617
+#: Girl_unDead/scenarios/09_Intrusion.cfg:634
 msgid "Hurry! The sun rises."
 msgstr ""
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/09_Intrusion.cfg:640
+#: Girl_unDead/scenarios/09_Intrusion.cfg:675
 msgid "Lady lich, do you remember me? I shall build a magical bridge to the castle. You may cross the bridge."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_Intrusion.cfg:649
+#: Girl_unDead/scenarios/09_Intrusion.cfg:684
 msgid "Mermaid Princess, thank you."
 msgstr ""
 
@@ -3214,512 +3209,514 @@ msgstr ""
 #. [part]
 #: Girl_unDead/scenarios/10_Castle.cfg:25
 msgid ""
-"<span font='24'>Castle</span>\n"
+"<span font='24'>Castle <small>(Epilogue)</small></span>\n"
 "<span font='16'>S10</span>"
 msgstr ""
 
 #. [side]: id=Royal Mage, type=Royal Mage
 #. [unit]: type=Ghast, id=Rotten Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:48
-#: Girl_unDead/scenarios/10_Castle.cfg:50
-#: Girl_unDead/scenarios/10_Castle.cfg:973
+#: Girl_unDead/scenarios/10_Castle.cfg:49
+#: Girl_unDead/scenarios/10_Castle.cfg:51
+#: Girl_unDead/scenarios/10_Castle.cfg:992
 msgid "Randolf"
 msgstr ""
 
 #. [unit]: type=Free Mage, id=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:60
+#: Girl_unDead/scenarios/10_Castle.cfg:62
 msgid "Mother"
 msgstr ""
 
 #. [side]: id=King, type=Royal Warrior
-#: Girl_unDead/scenarios/10_Castle.cfg:72
+#: Girl_unDead/scenarios/10_Castle.cfg:75
 msgid "Vikren VII"
 msgstr ""
 
 #. [side]: id=King, type=Royal Warrior
-#: Girl_unDead/scenarios/10_Castle.cfg:74
+#: Girl_unDead/scenarios/10_Castle.cfg:77
 msgid "King of Wesnoth"
 msgstr ""
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/10_Castle.cfg:264
-#: Girl_unDead/scenarios/10_Castle.cfg:1036
+#: Girl_unDead/scenarios/10_Castle.cfg:273
+#: Girl_unDead/scenarios/10_Castle.cfg:1055
 msgid "Defeat Randolf"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:362
+#: Girl_unDead/scenarios/10_Castle.cfg:369
 msgid "My Lord, undead have come."
 msgstr ""
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/10_Castle.cfg:366
+#: Girl_unDead/scenarios/10_Castle.cfg:373
 msgid "Ha, they are stupid. When I capture her, I shall be able to gain perpetual youth and immortality."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:370
+#: Girl_unDead/scenarios/10_Castle.cfg:377
 msgid "Yes, my Lord. <small>Ha, you are the stupid one as well.</small>"
 msgstr ""
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/10_Castle.cfg:374
+#: Girl_unDead/scenarios/10_Castle.cfg:381
 msgid "And as we gain more immortal mages, our plan will be fulfilled faster. Then we can eradicate all creatures of darkness."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:378
+#: Girl_unDead/scenarios/10_Castle.cfg:385
 msgid "Yes, my Lord. <small>But you won't live to see it.</small>"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:382
+#: Girl_unDead/scenarios/10_Castle.cfg:389
 msgid "<i>It was not easy to keep that annoying advisor away for the creation of Naia and the execution of this plot. But soon my wish shall be granted.</i>"
 msgstr ""
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:386
+#: Girl_unDead/scenarios/10_Castle.cfg:393
 msgid "<small>Ah, Malica has come! Disaster awaits her, but I can't help her. Sorry, sorry Malica...</small>"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:398
+#: Girl_unDead/scenarios/10_Castle.cfg:405
 msgid "I've reached the castle, but I'm afraid to meet Mom because I am too ugly."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:402
+#: Girl_unDead/scenarios/10_Castle.cfg:409
 msgid "Don't worry. Your soul is very beautiful. And I think your mother must be very gentle and she loves you yet."
 msgstr ""
 
 #. [message]: speaker=Malica
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:406
-#: Girl_unDead/scenarios/10_Castle.cfg:646
+#: Girl_unDead/scenarios/10_Castle.cfg:413
+#: Girl_unDead/scenarios/10_Castle.cfg:665
 msgid "Thank you, Cyclos."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:410
+#: Girl_unDead/scenarios/10_Castle.cfg:417
 msgid "There is nothing more beautiful than a bare skull."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:414
+#: Girl_unDead/scenarios/10_Castle.cfg:421
 msgid "My Princess, be careful. This castle is a labyrinth."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:418
+#: Girl_unDead/scenarios/10_Castle.cfg:425
 msgid "I see. Poet, why are you familiar with this castle?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:422
+#: Girl_unDead/scenarios/10_Castle.cfg:429
 msgid "What? I can't hear you because of the noise."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:489
+#: Girl_unDead/scenarios/10_Castle.cfg:507
 msgid "Oh no! Our race has been burnt out by the sacred fire."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:493
+#: Girl_unDead/scenarios/10_Castle.cfg:511
 msgid "Even so... why were you not burned?"
 msgstr ""
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/10_Castle.cfg:497
+#: Girl_unDead/scenarios/10_Castle.cfg:515
 msgid "I don't know why. But I feel you are closer to humans than undead."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:505
+#: Girl_unDead/scenarios/10_Castle.cfg:523
 msgid "Anyhow now we have to move forward, my Princess."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:522
+#: Girl_unDead/scenarios/10_Castle.cfg:541
 msgid "Oh, Mom!"
 msgstr ""
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:526
+#: Girl_unDead/scenarios/10_Castle.cfg:545
 msgid "Malica! I've dreamed of you seeing you again."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:530
+#: Girl_unDead/scenarios/10_Castle.cfg:549
 msgid "Ha ha ha... Such an impressive reunion. But listen, undead girl, your mother is now on our side. What are you going to do?"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:538
+#: Girl_unDead/scenarios/10_Castle.cfg:557
 msgid "Gilgant, or Poet, you did a good job to bring the undead girl here."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:542
+#: Girl_unDead/scenarios/10_Castle.cfg:561
 msgid "Damn! I did it not for you. It's Malica's wish to come here."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:546
+#: Girl_unDead/scenarios/10_Castle.cfg:565
 msgid "What? Pleace explain for me, Poet."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:554
+#: Girl_unDead/scenarios/10_Castle.cfg:573
 msgid "I will explain in his place. It was easy to find Varas, after he had disappeared. But, I don't catch him, but I've send a most faithful, most talented, and most brutal soldier as a spy to Varas. Because I wanted to not Varas but Veronica. The name of the spy is Gilgant, he is now called Poet. Come here, I will return you to original form."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:558
+#: Girl_unDead/scenarios/10_Castle.cfg:577
 msgid "No! It isn't truth, Poet!"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:562
+#: Girl_unDead/scenarios/10_Castle.cfg:581
 msgid "Yes... It's truth."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:566
+#: Girl_unDead/scenarios/10_Castle.cfg:585
 msgid "Oh..."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:570
+#: Girl_unDead/scenarios/10_Castle.cfg:589
 msgid "Gilgant, Why did you stop report after we annihilated the village?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:574
+#: Girl_unDead/scenarios/10_Castle.cfg:593
 msgid "I noticed that you were wrong, when I knew what happened the village. The King who must protect his people, harmed his people."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:578
+#: Girl_unDead/scenarios/10_Castle.cfg:597
 msgid "Little evil is unavoidable for the greater good."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:582
+#: Girl_unDead/scenarios/10_Castle.cfg:601
 msgid "I can't understand highly political things, but I know you did it only for your interest."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:586
+#: Girl_unDead/scenarios/10_Castle.cfg:605
 msgid "Do you against me? You shuld never return to human."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:590
+#: Girl_unDead/scenarios/10_Castle.cfg:609
 msgid "It's good!"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:594
+#: Girl_unDead/scenarios/10_Castle.cfg:613
 msgid "So be it, then!"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:598
+#: Girl_unDead/scenarios/10_Castle.cfg:617
 msgid "Young elf."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:602
+#: Girl_unDead/scenarios/10_Castle.cfg:621
 msgid "Me?"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:606
+#: Girl_unDead/scenarios/10_Castle.cfg:625
 msgid "Yes, I teach you a good news. The undead who killed your father is in front of you."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:610
+#: Girl_unDead/scenarios/10_Castle.cfg:629
 msgid "What do you mean?"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:614
+#: Girl_unDead/scenarios/10_Castle.cfg:633
 msgid "Gilgant, no Poet is the undead! Take revenge of your father with me."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:618
+#: Girl_unDead/scenarios/10_Castle.cfg:637
 msgid "Um..."
 msgstr ""
 
 #. [message]: speaker=Malica
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10_Castle.cfg:626
-#: Girl_unDead/scenarios/10_Castle.cfg:630
+#: Girl_unDead/scenarios/10_Castle.cfg:645
+#: Girl_unDead/scenarios/10_Castle.cfg:649
 msgid "Cyclos..."
 msgstr ""
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:634
+#: Girl_unDead/scenarios/10_Castle.cfg:653
 msgid "Cyclos, please help my daughter. Defeat Randolf. Never mind for me."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:638
-#: Girl_unDead/scenarios/10_Castle.cfg:766
+#: Girl_unDead/scenarios/10_Castle.cfg:657
+#: Girl_unDead/scenarios/10_Castle.cfg:785
 msgid "Mom!"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:642
+#: Girl_unDead/scenarios/10_Castle.cfg:661
 msgid "Randolf, I defeat you with Malica. I never lose whom I love any more."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:654
-#: Girl_unDead/scenarios/10_Castle.cfg:666
+#: Girl_unDead/scenarios/10_Castle.cfg:673
+#: Girl_unDead/scenarios/10_Castle.cfg:685
 msgid "You are fool to fight against me!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/10_Castle.cfg:676
+#: Girl_unDead/scenarios/10_Castle.cfg:695
 msgid "My attack has no effect."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:680
+#: Girl_unDead/scenarios/10_Castle.cfg:699
 msgid "Fool, I am invincible so long as the woman lives."
 msgstr ""
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:684
+#: Girl_unDead/scenarios/10_Castle.cfg:703
 msgid "Malica, you must kill me! The King intends to make a second sun! If he does so, the balance of the world will be shattered."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:688
+#: Girl_unDead/scenarios/10_Castle.cfg:707
 msgid "No! I can't kill you!"
 msgstr ""
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:692
+#: Girl_unDead/scenarios/10_Castle.cfg:711
 msgid "Only a kinsman of mine is able to kill me. That is you and no one else. Now, be quick about it!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/10_Castle.cfg:696
+#: Girl_unDead/scenarios/10_Castle.cfg:715
 msgid "Defeat Mother by Malica"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:733
+#: Girl_unDead/scenarios/10_Castle.cfg:752
 msgid "Ha, no one can hurt me!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:751
+#: Girl_unDead/scenarios/10_Castle.cfg:770
 msgid "Ah, sorry, sorry Mom..."
 msgstr ""
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/10_Castle.cfg:755
+#: Girl_unDead/scenarios/10_Castle.cfg:774
 msgid "Malica, it's alright. I thank you. Good bye, Malica."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:770
+#: Girl_unDead/scenarios/10_Castle.cfg:789
 msgid "Mage Randolf, you are no longer immortal. Surrender or die!"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:774
+#: Girl_unDead/scenarios/10_Castle.cfg:793
 msgid "Ha ha ha! The heads of undead are certainly empty. Haven't you noticed, little girl, that you are already mine?"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:778
+#: Girl_unDead/scenarios/10_Castle.cfg:797
 msgid "What? Oh! I can't move my body..."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:819
+#: Girl_unDead/scenarios/10_Castle.cfg:838
 msgid "Argh! My Princess no longer belongs to the night. Randolf, what did you do to Malica?"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:823
+#: Girl_unDead/scenarios/10_Castle.cfg:842
 msgid "She is now my captive, as her mother was. Her gift of life is just as strong as her mother's was. And since she has no family, no one can kill her. Now I am immortal too."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:827
+#: Girl_unDead/scenarios/10_Castle.cfg:846
 msgid "Ah, you Great Mage, although you appear young, your head is empty because you have lived too long."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:831
+#: Girl_unDead/scenarios/10_Castle.cfg:850
 msgid "Did I mishear you? It sounded like my Princess just spoke out her venomous tongue."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:835
+#: Girl_unDead/scenarios/10_Castle.cfg:854
 msgid "Huh? What do you mean?"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:839
+#: Girl_unDead/scenarios/10_Castle.cfg:858
 msgid "My heart is bleeding because of you. But I do have a brother... Cyclos, kill me!"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:843
+#: Girl_unDead/scenarios/10_Castle.cfg:862
 msgid "Malica?!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:847
+#: Girl_unDead/scenarios/10_Castle.cfg:866
 msgid "Your father was my father. Look at this earring. I know you possess its match."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:851
+#: Girl_unDead/scenarios/10_Castle.cfg:870
 msgid "I have been wondering... But I cannot kill my sister!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:855
+#: Girl_unDead/scenarios/10_Castle.cfg:874
 msgid "My body was destroyed long ago. It is fated that my life disappear completely, just as it was for my mother. Cyclos, please!"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:859
+#: Girl_unDead/scenarios/10_Castle.cfg:878
 msgid "All... right..."
 msgstr ""
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/10_Castle.cfg:863
+#: Girl_unDead/scenarios/10_Castle.cfg:882
 msgid "Defeat Malica by Cyclos"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:935
+#: Girl_unDead/scenarios/10_Castle.cfg:954
 msgid "Ah, Malica! My sister! Sorry, sorry..."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_Castle.cfg:939
+#: Girl_unDead/scenarios/10_Castle.cfg:958
 msgid "Cyclos. It's alright. Now, I can be with Mom again. Bye Cyclos, I love you."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:950
+#: Girl_unDead/scenarios/10_Castle.cfg:969
 msgid "Malica!"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:954
+#: Girl_unDead/scenarios/10_Castle.cfg:973
 msgid "Randolf! I kill you. I never forgive you."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:958
+#: Girl_unDead/scenarios/10_Castle.cfg:977
 msgid "Ha, you are ridiculous, boy... Uh! What is happening to my body?"
 msgstr ""
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:980
+#: Girl_unDead/scenarios/10_Castle.cfg:999
 msgid "No! No..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:984
+#: Girl_unDead/scenarios/10_Castle.cfg:1003
 msgid "He has become repulsive to look at."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:988
+#: Girl_unDead/scenarios/10_Castle.cfg:1007
 msgid "That is because his soul was eaten by desire."
 msgstr ""
 
 #. [message]: role=mage
-#: Girl_unDead/scenarios/10_Castle.cfg:1012
+#: Girl_unDead/scenarios/10_Castle.cfg:1031
 msgid "Oh, there is a monster!"
 msgstr ""
 
 #. [message]: role=Kingdom
-#: Girl_unDead/scenarios/10_Castle.cfg:1022
+#: Girl_unDead/scenarios/10_Castle.cfg:1041
 msgid "Kill it quickly!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/10_Castle.cfg:1072
-msgid "I can't go no more... I'm sorry, good bye."
+#: Girl_unDead/scenarios/10_Castle.cfg:1091
+#: Girl_unDead/utils/deaths.cfg:15
+msgid "I can no more go... I'm sorry, good bye."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:1076
-msgid "My Princess, don't say sorry! Don't say good bye! Don't die!"
+#: Girl_unDead/scenarios/10_Castle.cfg:1095
+#: Girl_unDead/utils/deaths.cfg:19
+msgid "My Princess, don't say sorry! Don't say good bye..."
 msgstr ""
 
 #. [message]: speaker=$unit.id
-#: Girl_unDead/scenarios/10_Castle.cfg:1109
+#: Girl_unDead/scenarios/10_Castle.cfg:1128
 msgid "Die, monster!"
 msgstr ""
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:1113
+#: Girl_unDead/scenarios/10_Castle.cfg:1132
 msgid "No! I'm Randolf, your Royal Mage!"
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:1117
+#: Girl_unDead/scenarios/10_Castle.cfg:1136
 msgid "Stop! I will kill him myself!"
 msgstr ""
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:1129
+#: Girl_unDead/scenarios/10_Castle.cfg:1148
 msgid "Alas! I was meant to be filled with the light of all the world, not this..."
 msgstr ""
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:1133
+#: Girl_unDead/scenarios/10_Castle.cfg:1152
 msgid "But you are too late... Naia has already..."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_Castle.cfg:1143
+#: Girl_unDead/scenarios/10_Castle.cfg:1162
 msgid "He is dead, the one who took from me all whom I loved. He died too easily... You, the men who aided him! I will kill all of you!"
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10_Castle.cfg:1147
+#: Girl_unDead/scenarios/10_Castle.cfg:1166
 msgid "Cyclos! Stop! Stop!"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_Castle.cfg:1151
+#: Girl_unDead/scenarios/10_Castle.cfg:1170
 msgid "He is dangerous, deranged. We must move away from him!"
 msgstr ""
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/10_Castle.cfg:1197
+#: Girl_unDead/scenarios/10_Castle.cfg:1216
 msgid "Randolf, why aren't you helping me?"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:1201
+#: Girl_unDead/scenarios/10_Castle.cfg:1220
 msgid "Stupid Vikren, many men can take your place, but I am special."
 msgstr ""
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/10_Castle.cfg:1205
+#: Girl_unDead/scenarios/10_Castle.cfg:1224
 msgid "Guards, kill Randolf!"
 msgstr ""
 
 #. [message]: speaker=Royal Mage
-#: Girl_unDead/scenarios/10_Castle.cfg:1209
+#: Girl_unDead/scenarios/10_Castle.cfg:1228
 msgid "Do you forget I am immortal? Stupid one..."
 msgstr ""
 
@@ -3729,127 +3726,127 @@ msgid "Epilogue"
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:54
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:63
 msgid "Thank you, Poet. I now look kindly upon you."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:58
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:67
 msgid "I did only what I wanted to do. I did not do it for you."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:62
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:71
 msgid "We shall reach our home tomorrow, but you must not accompany us to the village."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:66
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:75
 msgid "I understand. To tell the truth, I don't like elves."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:70
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:79
 msgid "Ha ha ha, to tell the truth, it is difficult to spend time with you. Still, I will feel lonely without you. Where will you go?"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:74
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:83
 msgid "Somewhere desolate."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:93
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:110
 msgid "I believe this troll will follow you."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:97
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:114
 msgid "I do not think he will. It was Malica he followed."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:118
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:135
 msgid "What are you going to do now?"
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:122
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:139
 msgid "I will take care of Cyclos."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:126
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:143
 msgid "Indeed, he needs help, but that may be difficult."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:130
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:147
 msgid "I know. So, I have a request of you before you depart."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:138
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:155
 msgid "Please cut off my cursed right arm. I cannot return home with it."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:142
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:159
 msgid "No! I can't! You will need both arms to help. But you must hide the secret until you die."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:150
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:167
 msgid "Sorry. I have come to hate killing and maiming. Being with Malica has changed me. I'm now of no use to the undead."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:170
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:195
 msgid "Stella! Come! Stella!"
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:187
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:212
 msgid "Oh, he acts like a baby. Stella, you will have a hard life."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:191
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:216
 msgid "I know."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:195
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:220
 msgid "Cry when you feel the need to cry. Seek not to defeat weakness, but love weakness."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:199
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:224
 msgid "I cannot understand what you say."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:203
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:228
 msgid "Then forget it. I am a philosopher, not a poet."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:207
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:232
 msgid "Ha ha ha, thank you anyway."
 msgstr ""
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:211
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:236
 msgid "Night has fallen. You must go to the baby Cyclos. I say... good bye."
 msgstr ""
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:228
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:253
 msgid "Good bye."
 msgstr ""
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10x_Epilogue.cfg:258
+#: Girl_unDead/scenarios/10x_Epilogue.cfg:283
 msgid "Stella! Where are you?"
 msgstr ""
 
@@ -3962,16 +3959,6 @@ msgid "This unit darkens the surrounding area, making chaotic units fight better
 msgstr ""
 
 #. [message]: speaker=unit
-#: Girl_unDead/utils/deaths.cfg:15
-msgid "I can no more go... I'm sorry, good bye."
-msgstr ""
-
-#. [message]: speaker=Poet
-#: Girl_unDead/utils/deaths.cfg:19
-msgid "My Princess, don't say sorry! Don't say good bye..."
-msgstr ""
-
-#. [message]: speaker=unit
 #: Girl_unDead/utils/deaths.cfg:36
 msgid "Damn, what did! I can't follow you no more together..."
 msgstr ""
@@ -4063,27 +4050,27 @@ msgid "unison"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/utils/macros.cfg:679
+#: Girl_unDead/utils/macros.cfg:682
 msgid "$count_empty units can enter after."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/utils/macros.cfg:696
+#: Girl_unDead/utils/macros.cfg:699
 msgid "Failed some hero enter the castle!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Girl_unDead/utils/macros.cfg:706
+#: Girl_unDead/utils/macros.cfg:709
 msgid "No more units can enter the castle!"
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/utils/macros.cfg:726
+#: Girl_unDead/utils/macros.cfg:729
 msgid "Lastly, I have to enter the gate..."
 msgstr ""
 
 #. [message]: speaker=Malica
-#: Girl_unDead/utils/macros.cfg:744
+#: Girl_unDead/utils/macros.cfg:747
 msgid "Sorry... I can't enter the gate!"
 msgstr ""
 
