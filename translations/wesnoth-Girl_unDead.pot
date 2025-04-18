@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-04-17 22:08 UTC\n"
+"POT-Creation-Date: 2025-04-18 08:02 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3555,7 +3555,7 @@ msgstr ""
 
 #. [message]: speaker=Poet
 #: Girl_unDead/scenarios/10_Castle.cfg:850
-msgid "Did I mishear you? It sounded like my Princess just spoke out her venomous tongue."
+msgid "Did I mishear it? It sounded like my Princess just spoke out her venomous tongue."
 msgstr ""
 
 #. [message]: speaker=Royal Mage
