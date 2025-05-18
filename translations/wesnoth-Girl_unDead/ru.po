@@ -1,0 +1,5218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-05-18 18:16 UTC\n"
+"PO-Revision-Date: \n"
+"Last-Translator: iven, olga_flox, marat <maratelektron@rambler.ru>\n"
+"Language-Team: \n"
+"Language: ll\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:10
+msgid "Girl unDead"
+msgstr "Девочка-мертвец"
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:16
+msgid ""
+"A girl living in the land of the frontier was involved in a wicked "
+"conspiracy and became undead.  But that was only the beginning of her trials."
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:17
+msgid "Walking Corpse"
+msgstr "Ходячий Труп"
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:17
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:18
+msgid "Lich"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:18
+msgid "Normal"
+msgstr "нормально"
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:19
+msgid "Ancient Lich"
+msgstr "древний лич"
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:19
+msgid "Hard"
+msgstr ""
+
+#. [about]
+#: Girl_unDead/_main.cfg:26
+msgid "Campaign Designer"
+msgstr "Автор и создатель кампании"
+
+#. [about]
+#: Girl_unDead/_main.cfg:33
+msgid "Current Maintainer"
+msgstr "Текущие правки"
+
+#. [about]
+#: Girl_unDead/_main.cfg:40
+msgid "Mentor to English Translation"
+msgstr "Куратор английского перевода"
+
+#. [about]
+#: Girl_unDead/_main.cfg:47
+msgid "Translation to Japanese"
+msgstr "Японский перевод"
+
+#. [about]
+#: Girl_unDead/_main.cfg:57
+msgid "Translation to Czech"
+msgstr "Чешский перевод"
+
+#. [about]
+#: Girl_unDead/_main.cfg:64
+msgid "Translation to Russian"
+msgstr ""
+
+#. [scenario]: id=01_death
+#: Girl_unDead/scenarios/01_death.cfg:6
+msgid "Death"
+msgstr "Смерть"
+
+#. [scenario]: id=01_death
+#: Girl_unDead/scenarios/01_death.cfg:12
+msgid "Why have you come? Go away!"
+msgstr "Зачем ты пришла? Поди прочь!"
+
+#. [scenario]: id=01_death
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:12 Girl_unDead/scenarios/01_death.cfg:13
+#: Girl_unDead/scenarios/01_death.cfg:14 Girl_unDead/scenarios/01_death.cfg:15
+#: Girl_unDead/scenarios/02_escape.cfg:579
+#: Girl_unDead/scenarios/04_training.cfg:182
+#: Girl_unDead/scenarios/04_training.cfg:198
+#: Girl_unDead/scenarios/06_revenge.cfg:364
+#: Girl_unDead/scenarios/sandbox.cfg:167 Girl_unDead/scenarios/sandbox.cfg:183
+msgid "I'm sorry."
+msgstr "Мне жаль."
+
+#. [scenario]: id=01_death
+#: Girl_unDead/scenarios/01_death.cfg:13
+msgid "Kid, you are strange and troubling."
+msgstr "Девочка, ты выглядишь странно, с тобой всё в порядке?"
+
+#. [scenario]: id=01_death
+#: Girl_unDead/scenarios/01_death.cfg:14
+msgid "Hey, you are dangerous! Get lost!"
+msgstr "Эй, от тебя опасностью за милю несёт. Сгинь отседова!"
+
+#. [scenario]: id=01_death
+#: Girl_unDead/scenarios/01_death.cfg:15
+msgid ""
+"We won't play with you because my Mom says you are not a normal human.  Go "
+"home!"
+msgstr ""
+"Мы с тобой играть не будем. Моя мама говорит, что ты ненормальный человек. "
+"Иди домой!"
+
+#. [side]: type=Malica, gender=female, id=Malica
+#. [side]: type=Harfdead Child, gender=female, id=Malica
+#. [side]: id=Malica, type=Lady Prelich
+#. [side]: id=Malica, type=Harfdead Child
+#. [side]: id=Malica, type=Lady Lich
+#. [side]
+#. [side]: id=Malica
+#. [unit_type]: id=Malica, race=human, gender=female
+#: Girl_unDead/scenarios/01_death.cfg:29 Girl_unDead/scenarios/01_death.cfg:33
+#: Girl_unDead/scenarios/02_escape.cfg:51
+#: Girl_unDead/scenarios/02_escape.cfg:55
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:19
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:20
+#: Girl_unDead/scenarios/04_training.cfg:25
+#: Girl_unDead/scenarios/04_training.cfg:29
+#: Girl_unDead/scenarios/05_invasion.cfg:34
+#: Girl_unDead/scenarios/05_invasion.cfg:38
+#: Girl_unDead/scenarios/06_revenge.cfg:21
+#: Girl_unDead/scenarios/07_along_the_way.cfg:79
+#: Girl_unDead/scenarios/08.5_gulf.cfg:64
+#: Girl_unDead/scenarios/08_puppeteer.cfg:20
+#: Girl_unDead/scenarios/09_sanctuary.cfg:21
+#: Girl_unDead/scenarios/10_a_long_day.cfg:43
+#: Girl_unDead/scenarios/11_intrusion.cfg:31
+#: Girl_unDead/scenarios/12_castle.cfg:25
+#: Girl_unDead/scenarios/13_epilogue.cfg:22
+#: Girl_unDead/scenarios/sandbox.cfg:25 Girl_unDead/scenarios/sandbox.cfg:29
+#: Girl_unDead/units/humans/Malica.cfg:7
+msgid "Malica"
+msgstr "Малика"
+
+#. [unit]: type=Free Mage, gender=female, id=Mother
+#. [side]
+#: Girl_unDead/scenarios/01_death.cfg:51 Girl_unDead/scenarios/01_death.cfg:45
+#: Girl_unDead/scenarios/02_escape.cfg:72
+#: Girl_unDead/scenarios/02_escape.cfg:66
+msgid "Mom"
+msgstr "Мама"
+
+#. [side]
+#: Girl_unDead/scenarios/01_death.cfg:61
+#: Girl_unDead/scenarios/02_escape.cfg:128
+msgid "beasts"
+msgstr "животные"
+
+#. [side]
+#: Girl_unDead/scenarios/01_death.cfg:81
+msgid "villeger"
+msgstr "крестьянин"
+
+#. [part]
+#. [unit_type]: id=Free Mage, race=human, gender=female
+#: Girl_unDead/scenarios/01_death.cfg:98
+#: Girl_unDead/units/humans/Free_Mage.cfg:20
+msgid ""
+"Among mages there are those who choose the way of love for freedom.  And "
+"these live quietly alone or live as travelers belonging nowhere."
+msgstr ""
+"У каждого мага своё понимание любви к свободе. И своё воплощение этой любви. "
+"Одни выбирают покой уединения, а другие странствуют всю жизнь, ни к чему не "
+"привязываясь и ничему не принадлежа."
+
+#. [part]
+#: Girl_unDead/scenarios/01_death.cfg:101
+msgid ""
+"They earn a livelihood solely by treating illness or injury.  But people do "
+"not respect them as they do white mages.  They are feared as black magicians "
+"and regarded with contempt.  Therefore, people usually ignore their "
+"existence, except when they need healing."
+msgstr ""
+"На пропитание они зарабатывают излечивая болезни и заживляя раны. Но ни "
+"капли уважения, которое питают люди к белым магам, не выказывают они к их "
+"скитающимся собратьям. Их боятся, как темнокожих фокусников и презирают, как "
+"обычных бродяг. Потому зачастую люди стараются не замечать бредущих через "
+"города и сёла людей в странных одеждах, в чьих глазах временами проскакивают "
+"загадочные искры, кроме, разумеется, тех случаев, когда нужна помощь, а "
+"родные целители разводят руками."
+
+#. [part]
+#: Girl_unDead/scenarios/01_death.cfg:104
+msgid ""
+"So these mages don't live in one place for long, and the inhabitants usually "
+"are unaware what they are because they had moved on before being discovered."
+msgstr ""
+"Вот так, переходя от селения к селению, и проходит жизнь избравших свободу "
+"магов. Они не засиживаются на одном месте, и те, с кем пересечётся их путь, "
+"обычно не успевают понять, кто же именно повстречался им."
+
+#. [part]
+#: Girl_unDead/scenarios/01_death.cfg:107
+msgid ""
+"Such a life was difficult, but from such freedom they might attain magic far "
+"beyond that of the ordinary mage."
+msgstr ""
+"Такая жизнь трудна, но обретённая свобода позволяет открыть недоступные "
+"другим волшебникам грани магического мастерства. "
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/01_death.cfg:115
+msgid "Search the village."
+msgstr "Отыщите деревню"
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/01_death.cfg:119
+msgid "Do nothing."
+msgstr "Ничего не делайте."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:129
+msgid "Mom I'm going out to play."
+msgstr "Мам, я пойду погуляю."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/01_death.cfg:133
+msgid ""
+"Have a nice time, but avoid the eastern swamps because I sense danger there."
+msgstr ""
+"Погуляй, доченька, но к восточным болотам не ходи: чувствую — притаилась там "
+"опасность."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/01_death.cfg:146
+msgid ""
+"Oh, back already.  You can play outside because the sun is still bright."
+msgstr "О, ты уже вернулась? Можешь ещё побегать, пока солнышко не село."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:150
+msgid "Okay, Mom."
+msgstr "Хорошо, мам."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:154
+msgid ""
+"I am curious about the swamp.  I have heard there is a mysterious old shrine "
+"over there."
+msgstr ""
+"Мне так хочется попасть на болота. Мальчишки шепчутся, что там есть "
+"таинственная древняя святыня."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:158
+msgid "But Mom will be angry if she catches me.  What should I do?"
+msgstr "Но мама будет сердиться, если узнает... Что же мне делать?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:221
+msgid "Oh!  Venomous creatures!  I better run!"
+msgstr "Ой! Ядовитые чудища! Лучше убегу подальше!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:242
+msgid ""
+"I've reached the shrine, but there is not much here.  I can get back before "
+"dark."
+msgstr ""
+"А вот это, наверное, та самая древняя святыня. И ничего тут нет интересного. "
+"Пойду лучше домой, успею, пока солнце не спряталось."
+
+#. [unit]: type=Red Mage, id=Oldman
+#: Girl_unDead/scenarios/01_death.cfg:270
+msgid "Oldman"
+msgstr "Старик"
+
+#. [message]: speaker=Oldman
+#: Girl_unDead/scenarios/01_death.cfg:274
+msgid "Hi.  Little girl."
+msgstr "Здравствуй, маленькая девочка."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:278
+msgid "Hi.  I do not know you."
+msgstr "Здравствуй, дедушка. А я тебя не знаю."
+
+#. [message]: speaker=Oldman
+#: Girl_unDead/scenarios/01_death.cfg:282
+msgid ""
+"I have traveled here from afar.  I seem, however, to have lost my way.  Is "
+"there not an old shrine nearby?"
+msgstr ""
+"Долгий путь я проделал сюда, и кажется мне теперь, что заблудился. А скажи-"
+"ка дедушке, нет ли тут поблизости какой-нибудь древней святыни?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:286
+msgid "There is."
+msgstr "Есть."
+
+#. [message]: speaker=Oldman
+#: Girl_unDead/scenarios/01_death.cfg:290
+msgid "Good to hear.  Will you please guide me there?"
+msgstr "Как же это замечательно! Не проведёшь ли меня к ней, умница ты моя?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:294
+msgid "But, my mom forbid me to go there... "
+msgstr "Моя мама запретила мне туда ходить..."
+
+#. [message]: speaker=Oldman
+#: Girl_unDead/scenarios/01_death.cfg:298
+msgid "Even so, you cannot resist my wish."
+msgstr "Даже при таком серьёзном запрете ты не сможешь противиться моей воле."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:306
+msgid "My body is moving on its own!"
+msgstr "Ой! Мои ноги сами идут!"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/01_death.cfg:318
+msgid "What now?  I felt strong magic."
+msgstr "Что случилось? Я чувствую сильную магию."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:323
+msgid ""
+"I've reached the shrine.  What do we do? Oh, the old man is not here ...."
+msgstr "Я опять пришла к святыне. И зачем? Ой, старик куда-то пропал..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:327
+msgid "It is getting dark.  Mom will be angry."
+msgstr "Темнеет. Как же мама рассердится."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/01_death.cfg:341
+msgid "Mom!  Help!"
+msgstr "Мамочка! Помоги!"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/01_death.cfg:345
+msgid "Malica!  Something bad has happened to her!"
+msgstr "Малика! С ней точно что-то дурное случилось!"
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/01_death.cfg:350
+msgid "So, it is as I suspected."
+msgstr "Так... Всё как я и подозревал."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/01_death.cfg:363
+msgid "There is a smelly human smell here. Who made me awake?"
+msgstr ""
+
+#. [scenario]: id=02_escape
+#: Girl_unDead/scenarios/02_escape.cfg:5
+msgid "Escape"
+msgstr "Спасение"
+
+#. [side]
+#: Girl_unDead/scenarios/02_escape.cfg:83
+msgid "Villager"
+msgstr "Крестьянин"
+
+#. [side]
+#: Girl_unDead/scenarios/02_escape.cfg:104
+msgid "Strange Mage"
+msgstr "Странный Волшебник"
+
+#. [side]
+#. [unit]: type=Revenant, id=undead
+#. [side]: id=Varas, type=Ancient Lich
+#: Girl_unDead/scenarios/02_escape.cfg:121
+#: Girl_unDead/scenarios/02_escape.cfg:506
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:29
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:67
+msgid "undead"
+msgstr "мертвецы"
+
+#. [part]
+#: Girl_unDead/scenarios/02_escape.cfg:139
+msgid ""
+"Malica did not know how long she had slept.  She felt as if she could look "
+"within a nightmare, one that was painful enough to make her wonder whether "
+"it really occurred, although she could not remember anything about it."
+msgstr ""
+"Малика не знала, сколько времени пробыла она в забытьи. Иногда ей виделись "
+"кошмары, до того жуткие, что случись они на самом деле, девочка умерла бы со "
+"страху. Но что было сном, а что явью, Малика вспомнить не могла."
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/02_escape.cfg:147
+msgid "Malica reaches northern signpost"
+msgstr "Малика приходит к северному указателю"
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/02_escape.cfg:151
+#: Girl_unDead/scenarios/04_training.cfg:145
+#: Girl_unDead/scenarios/05_invasion.cfg:187
+#: Girl_unDead/scenarios/06_revenge.cfg:330
+#: Girl_unDead/scenarios/06_revenge.cfg:515
+#: Girl_unDead/scenarios/06_revenge.cfg:753
+#: Girl_unDead/scenarios/08.5_gulf.cfg:285
+#: Girl_unDead/scenarios/08_puppeteer.cfg:95
+#: Girl_unDead/scenarios/09_sanctuary.cfg:220
+#: Girl_unDead/scenarios/10_a_long_day.cfg:91
+#: Girl_unDead/scenarios/11_intrusion.cfg:282
+#: Girl_unDead/scenarios/12_castle.cfg:262
+#: Girl_unDead/scenarios/12_castle.cfg:686
+#: Girl_unDead/scenarios/sandbox.cfg:130
+msgid "Death of Malica"
+msgstr "Смерть Малики"
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/02_escape.cfg:155
+#: Girl_unDead/scenarios/04_training.cfg:153
+#: Girl_unDead/scenarios/05_invasion.cfg:195
+#: Girl_unDead/scenarios/06_revenge.cfg:338
+#: Girl_unDead/scenarios/06_revenge.cfg:527
+#: Girl_unDead/scenarios/06_revenge.cfg:769
+#: Girl_unDead/scenarios/08.5_gulf.cfg:305
+#: Girl_unDead/scenarios/08_puppeteer.cfg:115
+#: Girl_unDead/scenarios/09_sanctuary.cfg:240
+#: Girl_unDead/scenarios/10_a_long_day.cfg:99
+#: Girl_unDead/scenarios/11_intrusion.cfg:306
+#: Girl_unDead/scenarios/sandbox.cfg:138
+msgid "Turns run out"
+msgstr "Закончились ходы"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:179
+msgid "Mom..."
+msgstr "Мама..."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:183
+msgid "You are awake.  Good."
+msgstr "Ты проснулась. Это хорошо."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:187
+msgid "Mom, what happened?  You look sad."
+msgstr "Мамочка, что случилось? Ты выглядишь такой грустной."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:191
+msgid "I am just a little tired."
+msgstr "Я просто немного устала, доченька."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:195
+msgid "Mom, I'm sorry that I went to the swamp."
+msgstr "Мама, мне так жаль, что я обманула тебя и пошла на болота."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:199
+msgid "All that happens, must happen.  I cannot blame you."
+msgstr "Всё, что случается, должно было случиться. Я не виню тебя."
+
+#. [event]
+#: Girl_unDead/scenarios/02_escape.cfg:202
+msgid "Village Chief"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:209
+msgid "Villagers are coming.  I wonder how they know already?"
+msgstr ""
+"Из деревни сюда идут крестьяне. Интересно, как они так быстро прознали?"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:213
+msgid ""
+"Malica, go hide in the shade of the forest.  And then escape to the north. "
+"The villagers are afraid and will think you are a demon."
+msgstr ""
+"Малика, укройся в лесной тени, а потом, не мешкая, иди на север. Крестьяне "
+"боятся тебя, они думают, что ты страшное чудовище."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:225
+msgid "I'm confused.  I'm not a scary monster! "
+msgstr "Как это? Я не страшная! И не чудовище!"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:229
+msgid ""
+"Sorry, but I do not have time to explain everything.  Just escape through "
+"the shadows and avoid the sunlight."
+msgstr ""
+"Увы, нет у меня времени всё тебе объяснить. Беги, родная, и старайся не "
+"выходить на солнечный свет."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:233
+msgid "You are little. So, you can hide yourself in bush."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:250
+msgid "I do not understand.  I cannot escape by myself!"
+msgstr "Я ничегошеньки не понимаю. И никуда одна не побегу!"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:259
+msgid ""
+"(The villagers have come.) Yes, I hear you.  I am coming. (Please stay "
+"hidden and be quiet.)"
+msgstr ""
+"(Крестьяне уже здесь.) Да-да, я слышу вас. Сейчас выйду. (Пожалуйста, "
+"спрячься и сиди тихо.)"
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/02_escape.cfg:265
+msgid "Hey, it seems your daughter has recovered.  Where is she?"
+msgstr "Эй, твоя дочь, кажется, уже выздоровела? Где она?"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:269
+msgid "I will not give her up."
+msgstr "Я не оставлю её."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/02_escape.cfg:274
+msgid ""
+"It smells of corruption and rot here.  I was not mistaken in suspecting "
+"you.  Search the woods and the house thoroughly."
+msgstr ""
+"Отсюда несёт гнилью и колдовством. Я не зря подозревал тебя, ведьма поганая. "
+"Обыщите дом, и лес не забудьте."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:278
+msgid "You are wrong."
+msgstr "Вы поступаете неправильно."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/02_escape.cfg:286
+msgid ""
+"Wrong?  I don't think so!  Such women should be burned at the stake.  Search "
+"quickly and then we'll cleanse this place."
+msgstr ""
+"Неправильно? А я так не думаю! Таких как ты, должно палить на кострах. Ищите "
+"быстрее, нам надо ещё очистить это место от скверны."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:290
+msgid "Mom!  I should go to her.  But, she told me to escape.  I'm sorry, Mom."
+msgstr ""
+"Мама! Я должна пойти к ней. Но она наказала мне убегать. Прости, мамочка..."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/02_escape.cfg:294
+msgid "Malica,  run!"
+msgstr "Беги, Малика!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:313
+msgid "It hurts!  The sun melts my skin."
+msgstr "Как больно! Солнце обжигает мою кожу."
+
+#. [message]: speaker=Village Chief
+#: Girl_unDead/scenarios/02_escape.cfg:351
+msgid "The girl is running away.  Pursue and kill her."
+msgstr "Вон, смотрите, девчонка побежала. Догоните и убейте её!"
+
+#. [unit]: type=Red Mage, gender=male, id=Old Mage
+#: Girl_unDead/scenarios/02_escape.cfg:390
+msgid "Old Mage"
+msgstr "Старый маг"
+
+#. [message]: speaker=Old Mage
+#: Girl_unDead/scenarios/02_escape.cfg:396
+msgid ""
+"I was able to get the art of resurrection revealed thanks to that girl.  "
+"This is good, but with her half-hearted body she will not last long."
+msgstr ""
+"Благодаря этой девочке я познал искусство воскрешения. Всё это хорошо, но с "
+"таким хрупким телом ей долго не протянуть."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:409
+msgid "Oh, they're burning my house!  Mom!!"
+msgstr "Ой, они подожгли наш дом! Мамочка!!!"
+
+#. [message]: speaker=Old Mage
+#: Girl_unDead/scenarios/02_escape.cfg:440
+msgid "Well, my powers were not enough, but I will soon rise again."
+msgstr "Сейчас мои силы на исходе, но вскоре я вновь восстану."
+
+#. [message]: speaker=Old Mage
+#: Girl_unDead/scenarios/02_escape.cfg:445
+msgid "Villagers know too much, so I must get rid of all of them by Puppeteer."
+msgstr "Крестьяне слишком много знают. Надо бы Кукловоду от них избавиться."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:465
+msgid "What happened to me?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/02_escape.cfg:469
+msgid "Even in woods, Malica's skin and flesh melted by sun light."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:484
+msgid "Why did I have to be killed?"
+msgstr "Почему вы хотите меня убить?"
+
+#. [message]: speaker=Village Chief
+#: Girl_unDead/scenarios/02_escape.cfg:499
+msgid "Beyond here there are monsters.  We won't go on."
+msgstr "Потому что ты — чудовище. И трепаться тут больше не о чем."
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/02_escape.cfg:510
+msgid ""
+"What has happened?  Strange that a farmer would come to a place like this.  "
+"Kid, rotting in a place like this is not good for us."
+msgstr ""
+"Что происходит? Странно, что земледельцы забрались так далеко от своих "
+"полей, да ещё в такое место. Похоже, они пришлю вслед за гниющим ребёнком. "
+"Для нас это может плохо закончиться."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:514
+msgid "Oh no!  Undead!!"
+msgstr "О нет! Мертвяки!!!"
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/02_escape.cfg:518
+msgid "Huh?  You are undead, too.  Do you not know? "
+msgstr "Ха? Ты такая же мертвячка, как и мы. Разве не знаешь?"
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/02_escape.cfg:522
+msgid ""
+"There is no answer, she has fainted.  She is undead, yet she somehow still "
+"seems human.  Interesting, I think I'll take her home to our leader.  Her "
+"ear has melted and fallen off.  I'll take this earring, but I don't see the "
+"other one."
+msgstr ""
+"И никакого ответа. В обморок, что ли, упала? Она — мертва, но воспринимает "
+"себя как живого человека. Любопытно. Думаю, стоит отвести девочку к "
+"старшему, пусть посмотрит. О, её ухо отвалилось. Возьму-ка я себе серёжку. А "
+"где вторая?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:537
+msgid "Oh no!"
+msgstr "О нет!"
+
+#. [message]: speaker=second_unit
+#: Girl_unDead/scenarios/02_escape.cfg:541
+msgid "Do you dare fight us humans!"
+msgstr "Да как ты смеешь бороться с нами!"
+
+#. [message]: speaker=unit
+#: Girl_unDead/scenarios/02_escape.cfg:551
+msgid "Rest in peace!  You must die!"
+msgstr "Покойся с миром! Ты должна умереть!"
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Mermaid Princess
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/02_escape.cfg:555
+#: Girl_unDead/scenarios/08.5_gulf.cfg:425
+#: Girl_unDead/scenarios/08.5_gulf.cfg:527
+#: Girl_unDead/scenarios/08.5_gulf.cfg:593
+msgid "No!"
+msgstr "Нет!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:565
+msgid "What happened?"
+msgstr "Что случилось?"
+
+#. [message]: speaker=second_unit
+#: Girl_unDead/scenarios/02_escape.cfg:569
+msgid "This kid used some kind of magic."
+msgstr "Это исчадие пустило в ход какое-то колдовство."
+
+#. [message]: speaker=Village Chief
+#: Girl_unDead/scenarios/02_escape.cfg:583
+msgid "This kid is dangerous!  Kill her!"
+msgstr "Эта девчонка опасна. Убейте её!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/02_escape.cfg:595
+#: Girl_unDead/scenarios/02_escape.cfg:607
+#: Girl_unDead/scenarios/02_escape.cfg:619
+msgid "Mom sorry. I can't go any more."
+msgstr ""
+
+#. [scenario]: id=03_cave_of_undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:5
+msgid "Cave of the Undead"
+msgstr "Пещера мертвецов"
+
+#. [side]: id=Varas, type=Ancient Lich
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:31
+msgid "Boss of the Undead"
+msgstr "Старший мертвец"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:49
+#: Girl_unDead/scenarios/07_along_the_way.cfg:93
+#: Girl_unDead/scenarios/13_epilogue.cfg:31
+msgid "Only conversation"
+msgstr "Только диалоги"
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:71
+msgid "Boss.  I have brought something unusual."
+msgstr "Старший, я принёс кое-что необычное."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:75
+msgid "Huh?  Did you pick up a dead cat?  Show me anyway."
+msgstr ""
+"Ха? Ты подобрал дохлую кошку? Ну, раз притащил сюда, так показывай уже."
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:79
+msgid "It's not a dead cat.  Take a look."
+msgstr "Это не дохла кошка. Взгляни."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:87
+msgid "Where am I?"
+msgstr "Где я?"
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:91
+msgid "Oh, this child is unusual."
+msgstr "О, это и в самом деле необычный ребёнок."
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:95
+msgid "Yeah.  I think she ran away from villagers at the Swamp of No Return."
+msgstr "Да. Полагаю, она сбежала в Погибельные Болота от крестьян."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:99
+msgid "Girl, who are you?"
+msgstr "Девочка, кто ты?"
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:103
+msgid "Don't be afraid.  He looks scary, but won't eat you."
+msgstr "Не бойся. Он только выглядит страшным, но тебя не съест."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:107
+msgid "SHUT UP!  Let her speak."
+msgstr "ЗАМОЛЧИТЕ! И дайте же ей сказать."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:111
+msgid "My name is Malica.  I am the daughter of Nina."
+msgstr "Меня зовут Малика. Я дочь Нины."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:115
+msgid "Well, daughter of Nina.  How did you die?"
+msgstr "Хорошо, Малика, дочь Нины. Как ты умерла?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:119
+msgid ""
+"I was attacked by monsters in the swamp.  When I woke up, I was chased by "
+"the villagers.  And my mother...Oh Mama!!"
+msgstr ""
+"На меня на болоте напали страшные чудища. А когда я проснулась, за мной "
+"погнались крестьяне. И моя мама... О, мамочка!.."
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:123
+msgid "Oh, she is crying.  I don't like children.  Undead shouldn't cry."
+msgstr ""
+"О, посмотрите, она плачет. Терпеть не могу детей. Мертвецы не должны кричать "
+"и лить слёзы."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:127
+msgid "...Mom! ...Mom..."
+msgstr "...Маааама!.. Мамочка!.."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:131
+msgid ""
+"She can't talk now.  I can see that magic made her undead.  I wish to "
+"observe her for a while.  You will take care of her."
+msgstr ""
+"Теперь она уже не сможет нам ничего поведать. Но я вижу, что причиной её "
+"смерти стала магия. Мне будет интересно некоторое время понаблюдать за ней. "
+"А ты позаботишься о девочке."
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:135
+msgid "I?  Heck no!  I can't take care of her!"
+msgstr "Я? Ну уж нет! Я не стану ходить за ней."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:139
+msgid ""
+"Ha!  Haven't you brought her here?  You will take care of her.  I need to "
+"know your name in order to summon you.  Do you remember your name before you "
+"died?"
+msgstr ""
+"Ха! Разве не ты привёл её сюда? Вот и доведи до конца начатое. И мне нужно "
+"узнать твоё имя, чтобы я мог в дальнейшем призывать тебя. Ты помнишь, как "
+"тебя звали, прежде чем ты умер?"
+
+#. [message]: speaker=undead
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:144
+msgid "My name?  I have no memory of being alive."
+msgstr "Моё имя? Я ничего не помню о том времени, когда был живым."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:148
+msgid "Well then, I will call you Poet because you talk too much."
+msgstr ""
+"Хорошо, я дам тебе имя. Отныне тебя будут звать Поэтом, потому что ты "
+"слишком много болтаешь."
+
+#. [event]
+#. [unit]: type=Revenant Loyal, id=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:151
+#: Girl_unDead/scenarios/04_training.cfg:162
+#: Girl_unDead/scenarios/sandbox.cfg:147
+msgid "Poet"
+msgstr "Поэт"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:155
+msgid "Oh, I feel tears of joy because I have a good name."
+msgstr ""
+"О, похоже на моих глазах появились слёзы. Теперь у меня такое хорошее имя."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:159
+msgid ""
+"It is you who said the undead don't cry.  And after Malica falls asleep, I "
+"want you to explore the village."
+msgstr ""
+"И это тот, кто недавно упорствовал, что 'мертвецы не плачут'. После того, "
+"как Малика уснёт, я хочу, чтобы ты прогулялся в деревню."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:163
+msgid "You speak of her as if she is your daughter."
+msgstr "Ты говоришь так, будто она твоя дочь."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:167
+msgid "That's a good idea.  I am adopting her."
+msgstr "А это хорошая мысль. Я удочерю девочку."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:171
+msgid "I cannot believe this!"
+msgstr "Не могу поверить этому!"
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:175
+msgid "That's not important.  Remember to search the village."
+msgstr "Не важно. Не забудь о моём поручении, узнай, что и как там, в деревне."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:179
+msgid "Yes sir.  Oh, I forgot.  Here is a dirty earring."
+msgstr "Да, господин. Чуть не забыл. Вот серёжка, только грязная."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:183
+msgid "It's mine.  Please return it to me!"
+msgstr "Она моя! Пожалуйста, верните мне её!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:187
+msgid "Oh, so you do speak."
+msgstr "О, да ты опять заговорила?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:191
+msgid "My mother gave me that.  There was only one."
+msgstr "Мне дала её моя мама. Только одну."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:195
+msgid "Show me that earring."
+msgstr "Покажи-ка мне эту серёжку."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:199
+msgid "I didn't know you like jewels."
+msgstr "Я не знал, что тебе нравятся драгоценности."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:203
+msgid "I don't ... Return it to Malica."
+msgstr "Они мне не нравятся... Верни украшение Малике."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:207
+msgid ""
+"But she does not have ears anymore.  We could use string ... make a "
+"necklace ... you still have a neck."
+msgstr ""
+"Но у неё нет больше ушей. Хотя, если продеть нитку, то её можно носить на "
+"шее... Как ожерелье... Шея-то у тебя ещё есть."
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Merman King
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:211
+#: Girl_unDead/scenarios/08.5_gulf.cfg:548
+msgid "Thank you."
+msgstr "Спасибо."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:215
+msgid "That's the first time in my undead life I've been thanked."
+msgstr "В первый раз за всю мою бытность мертвецом меня благодарят."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:219
+msgid "I doubt you were ever thanked while alive."
+msgstr "Сомневаюсь, что и при жизни тебя часто благодарили."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:223
+msgid "Sure.  Oh, I'm going now to explore the village."
+msgstr "Так оно и было. О, теперь я наведаюсь в деревню."
+
+#. [scenario]: id=04_training
+#: Girl_unDead/scenarios/04_training.cfg:7
+msgid "Training"
+msgstr "Обучение"
+
+#. [side]: id=Garak, type=Great Troll
+#: Girl_unDead/scenarios/04_training.cfg:41
+#: Girl_unDead/scenarios/sandbox.cfg:46
+msgid "dessart troll"
+msgstr "пустынный тролль"
+
+#. [side]
+#: Girl_unDead/scenarios/04_training.cfg:72
+#: Girl_unDead/scenarios/sandbox.cfg:77
+msgid "Beasts"
+msgstr "Животные"
+
+#. [part]
+#: Girl_unDead/scenarios/04_training.cfg:118
+msgid "Poet searched the village and reported a surprising fact."
+msgstr "Поэт прокрался в деревню и возвратился с нежданными новостями."
+
+#. [part]
+#: Girl_unDead/scenarios/04_training.cfg:121
+msgid ""
+"There were no villagers, and soldiers of the Kingdom were burning down every "
+"building."
+msgstr ""
+"Крестьян в деревне уже не было, да и от самой деревни мало что осталось. "
+"Королевские солдаты сжигали всё дотла."
+
+#. [part]
+#: Girl_unDead/scenarios/04_training.cfg:124
+msgid ""
+"That night, he captured a soldier to find out what was going on.  The "
+"soldier said every villager had become a walking corpse, so the corpses and "
+"village were being burned up."
+msgstr ""
+"В темноте Поэт захватил солдата, чтобы узнать причину происходящего. Дрожа "
+"от страха, тот рассказал, что каждый житель деревни обернулся вдруг ходячим "
+"трупом, а мертвяков и их жилища приказали уничтожить и сжечь."
+
+#. [part]
+#: Girl_unDead/scenarios/04_training.cfg:127
+msgid ""
+"Poet asked about Malica's mother, but the soldier knew nothing about her.  "
+"There was only a field where the house had stood."
+msgstr ""
+"Поэт спрашивал о матери Малики, но солдат ничего о её судьбе не знал. А на "
+"месте, где был их дом, остался лишь пепел."
+
+#. [part]
+#: Girl_unDead/scenarios/04_training.cfg:130
+msgid "The village was never rebuilt."
+msgstr "Деревня так никогда и не возродилась."
+
+#. [part]
+#: Girl_unDead/scenarios/04_training.cfg:133
+msgid ""
+"When Malica heard this, she became inconsolable.  But slowly, she got used "
+"to her new life among the undead.  Although the undead lacked human "
+"feelings, Varas and Poet were kind in comparison to how the villagers had "
+"treated her."
+msgstr ""
+"Когда Малика услышала это, то горе её стало безутешным. Но постепенно "
+"девочка привыкла к новой жизни среди мертвецов. Хоть мёртвые и испытывали "
+"недостаток в человеческих чувствах, Варас и Поэт относились к ней куда "
+"добрее, чем бывшие односельчане. "
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/04_training.cfg:141
+#: Girl_unDead/scenarios/sandbox.cfg:126
+msgid "Leave the valley"
+msgstr "Покиньте долину"
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/04_training.cfg:149
+#: Girl_unDead/scenarios/05_invasion.cfg:191
+#: Girl_unDead/scenarios/06_revenge.cfg:334
+#: Girl_unDead/scenarios/06_revenge.cfg:519
+#: Girl_unDead/scenarios/06_revenge.cfg:757
+#: Girl_unDead/scenarios/08.5_gulf.cfg:289
+#: Girl_unDead/scenarios/08_puppeteer.cfg:99
+#: Girl_unDead/scenarios/09_sanctuary.cfg:224
+#: Girl_unDead/scenarios/11_intrusion.cfg:290
+#: Girl_unDead/scenarios/12_castle.cfg:266
+#: Girl_unDead/scenarios/12_castle.cfg:690
+#: Girl_unDead/scenarios/12_castle.cfg:860
+#: Girl_unDead/scenarios/12_castle.cfg:1036
+#: Girl_unDead/scenarios/sandbox.cfg:134
+msgid "Death of Poet"
+msgstr "Смерть Поэта"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:174
+#: Girl_unDead/scenarios/sandbox.cfg:159
+msgid "I miss the cave.  With only you in a place like this I feel lonely."
+msgstr "Я уйду из пещеры. Вокруг только вы и стены. Мне так одиноко."
+
+#. [message]: speaker=Poet
+#. [message]: type=Vampire Bat
+#: Girl_unDead/scenarios/04_training.cfg:178
+#: Girl_unDead/scenarios/sandbox.cfg:163
+msgid ""
+"Sorry I can't help, but because you are weak the Boss said we must train"
+msgstr ""
+"Увы, я не могу тебе в этом помочь, но лишь потому, что ты ещё слаба. Старший "
+"сказал, что ты должна тренироваться."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:186
+#: Girl_unDead/scenarios/sandbox.cfg:171
+msgid "No need to apologize."
+msgstr "Не за что просить прощения."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:190
+#: Girl_unDead/scenarios/sandbox.cfg:175
+msgid "I wonder if I can do this? ..."
+msgstr "Интересно, смогу ли я сделать это?.."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:194
+#: Girl_unDead/scenarios/sandbox.cfg:179
+msgid ""
+"Are you crying again?  Where do you keep tears in a dry skull?  We have no "
+"time for crying as we must rid this valley of the monsters."
+msgstr ""
+"Ты снова плачешь? Откуда же ты берешь столько слёз из сухого-то черепа? У "
+"нас нет времени лить солёную воду, нам нужно избавить долину от чудовищ."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:202
+#: Girl_unDead/scenarios/sandbox.cfg:187
+msgid ""
+"Stop apologizing!  Let's do what we are here for and then we can go home."
+msgstr ""
+"Прекрати извиняться! Давай сделаем то, зачем мы сюда пришли, а потом можно "
+"будет и домой пойти."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:206
+#: Girl_unDead/scenarios/sandbox.cfg:191
+msgid "I'm so... Yes, I should become stronger for Dad."
+msgstr "Я так... Да, я буду стараться для папы."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:213
+#: Girl_unDead/scenarios/sandbox.cfg:198
+msgid ""
+"Trolls!  No one said that dirty trolls were here.  We must get to the "
+"fortress to the north or we will be overpowered."
+msgstr ""
+"Тролли! Никто не сказал, что здесь шляются грязные тролли. Нужно добраться "
+"до крепости на севере, иначе нам крышка."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:228
+#: Girl_unDead/scenarios/sandbox.cfg:213
+msgid "Good!  There is the old fort.  My Princess, summon your minions there."
+msgstr ""
+"Отлично! Вот остатки древних укреплений. Моя принцесса, призови своих верных "
+"слуг."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:232
+#: Girl_unDead/scenarios/sandbox.cfg:217
+msgid "I don't know if I can?"
+msgstr "Я не знаю, получится ли у меня?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:236
+#: Girl_unDead/scenarios/sandbox.cfg:221
+msgid "You can, and we need help to win this fight."
+msgstr "Ты сможешь, и без твоей помощи нам не справиться."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:248
+#: Girl_unDead/scenarios/sandbox.cfg:233
+msgid "You did well, my Princess."
+msgstr "Ты делаешь успехи, моя принцесса."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:263
+#: Girl_unDead/scenarios/sandbox.cfg:248
+msgid "We did it."
+msgstr "Мы сделали это."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:267
+#: Girl_unDead/scenarios/sandbox.cfg:252
+msgid "Thank you.  I needed your help."
+msgstr "Спасибо. Мне нужна была твоя помощь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:271
+#: Girl_unDead/scenarios/sandbox.cfg:256
+msgid "But you haven't grown much stronger."
+msgstr "Но ты стала намного сильнее."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:275
+#: Girl_unDead/scenarios/sandbox.cfg:260
+msgid "I'm so..."
+msgstr "Мне так..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:279
+#: Girl_unDead/scenarios/sandbox.cfg:264
+msgid "Do not say sorry!"
+msgstr "Не проси прощения!"
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/04_training.cfg:291
+msgid ""
+"Stupid girl, You had better keep yourself locked in a dark cave rather than "
+"beating the troll I threw."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:295
+msgid "Who are you. For what purpose did you disturb me?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/04_training.cfg:300
+msgid ""
+"Listen. If you do not want to be destroyed, you better not do unnecessary "
+"things."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:304
+msgid "She has disappeared."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:308
+msgid ""
+"I am concerned about what she was saying. But let's go back to the cave now."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:330
+#: Girl_unDead/scenarios/sandbox.cfg:280
+msgid "Dad, Poet, I'm sorry I was not strong."
+msgstr "Папа, Поэт, простите, что я так и не стала сильной."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:334
+#: Girl_unDead/scenarios/sandbox.cfg:284
+msgid "Annoying!  Do not say sorry, my Princess."
+msgstr "Как это раздражает! Не извиняйся, моя принцесса."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:338
+#: Girl_unDead/scenarios/sandbox.cfg:288
+msgid "Sorry, sorry... "
+msgstr "Прости, прости..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:352
+#: Girl_unDead/scenarios/sandbox.cfg:302
+msgid "I can not believe I've been defeated."
+msgstr "Не могу поверить, что побеждён."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:356
+#: Girl_unDead/scenarios/sandbox.cfg:306
+msgid "I was too weak to help ... I'm sorry."
+msgstr "Я слишком слаба, чтобы помочь... Прости."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/04_training.cfg:360
+#: Girl_unDead/scenarios/sandbox.cfg:310
+msgid "Do not say sorry, my Princess..."
+msgstr "Не проси прощения, моя принцесса..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/04_training.cfg:364
+#: Girl_unDead/scenarios/sandbox.cfg:314
+msgid "Poet! Do no die!"
+msgstr "Поэт! Не умирай!"
+
+#. [scenario]: id=05_invasion
+#: Girl_unDead/scenarios/05_invasion.cfg:6
+msgid "Invasion from Orcs"
+msgstr "Вторжение орков"
+
+#. [part]
+#: Girl_unDead/scenarios/05_invasion.cfg:20
+msgid ""
+"Malica's training continued, but her progress was slow and disappointed "
+"Varas and Poet.  Still, she was the adopted daughter of Varas and so, for "
+"good or bad, the other undead never doubted her abilities to lead."
+msgstr ""
+"Обучение Малики шло своим чередом, но успехи девочки были скромными и "
+"разочаровывали не только её наставника Поэта, но и Вараса. Однако, она была "
+"приёмной дочерью старшего мертвеца, и несмотря на её слабые стороны, мертвый "
+"народ никогда не сомневался в праве Малики вести их за собой."
+
+#. [part]
+#: Girl_unDead/scenarios/05_invasion.cfg:23
+msgid ""
+"Soon, Malica was ordered by Varas to explore the Northern Valley.  She "
+"departed with Poet and her soldiers."
+msgstr ""
+"Вскоре её приёмный отец Варас приказал свой дочери исследовать Северную "
+"Долину. Малика тотчас отбыла туда вместе с верными солдатами и Поэтом."
+
+#. [part]
+#: Girl_unDead/scenarios/05_invasion.cfg:26
+msgid ""
+"She had a foreboding feeling about this mission.  Ignoring the advice and "
+"pleadings of Poet who insisted that they finish their mission there first, "
+"she returned to the cave."
+msgstr ""
+"Всю дорогу Малику терзали дурные предчувствия. Оставив без внимания советы и "
+"уговоры Поэта, который настаивал на окончании порученной работы, она "
+"вернулась в пещеру."
+
+#. [side]: id=Orcs, type=Orcish Sovereign
+#: Girl_unDead/scenarios/05_invasion.cfg:55
+msgid "Orc"
+msgstr "Орк"
+
+#. [side]: id=Varas, type=Ancient Lich
+#: Girl_unDead/scenarios/05_invasion.cfg:104
+msgid "Undead"
+msgstr "Мертвец"
+
+#. [side]: id=Varas, type=Ancient Lich
+#: Girl_unDead/scenarios/05_invasion.cfg:106
+msgid "Varas"
+msgstr "Варас"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/05_invasion.cfg:183
+#: Girl_unDead/scenarios/06_revenge.cfg:326
+#: Girl_unDead/scenarios/06_revenge.cfg:511
+#: Girl_unDead/scenarios/06_revenge.cfg:749
+msgid "Defeat enemy leader"
+msgstr "Победите вражеского лидера"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:211
+msgid "Orcs here?  What is happening?  Is that a portal behind the throne?"
+msgstr "Орки? Здесь? Что происходит? Позади трона - портал?"
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:215
+msgid "Poet, what are you doing here?  You were to escape North with Malica."
+msgstr ""
+"Поэт, что ты тут делаешь? Ты же должен был уйти на север вместе с Маликой."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:219
+msgid "I am sorry.  She wouldn't listen to me."
+msgstr "Ну уж извини. Она не послушала меня."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:223
+msgid "Dad!  What is happening here?"
+msgstr "Папа! Что здесь происходит?"
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/05_invasion.cfg:227
+msgid "There she is!  The one we've been looking for."
+msgstr "Вот она! Её-то мы и искали."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:231
+msgid "...Me?"
+msgstr "...Меня?"
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/05_invasion.cfg:235
+msgid "Lady, come to us and we will leave and do no further harm."
+msgstr "Юная леди, пойдём с нами, тогда мы больше никому вреда не причиним."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:239
+msgid "Malica, don't believe them.  They are lying.  Just run..."
+msgstr "Не верь им, Малика. Они лгут. Бегите..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:243
+msgid ""
+"We don't have a much of a chance fighting.  Listen to your father, escape "
+"with us."
+msgstr ""
+"У нас нет и шанса выиграть этот бой. Послушай своего отца, спасайся с нами."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:247
+msgid ""
+"No!  I can't just leave him here.  Run away if you want, but I'll save "
+"Father or die trying."
+msgstr ""
+"Нет! Я не могу оставить его здесь. Беги, если хочешь, но я спасу отца или "
+"погибну."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:251
+msgid "You're going to die here with him then, damn it!"
+msgstr "Ты собираешься умереть вместе с ним, проклятье!"
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:255
+msgid "Malica, run!  Poet, force her to leave."
+msgstr "Беги, Малика! Поэт, заставь её убежать отсюда."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:259
+msgid "I'm sorry, Dad.  But I can't leave you here!"
+msgstr "Прости, папа. Но я не могу оставить тебя!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:263
+msgid ""
+"This is foolishness, Malica.  But I am still her minion, not yours, Lord.  I "
+"must follow her orders."
+msgstr ""
+"Это глупо, Малика. Но, мой господин, я служу вашей дочери, а не вам. Я не "
+"могу ослушаться её приказов."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:271
+msgid ""
+"Human mages along side orcs?  These are strange times.  Worse yet, from "
+"their robes, I think they are in service to the throne!"
+msgstr ""
+"Маги людей прикрывают орков? Ох и странные нынче времена. А если судить по "
+"их одеждам, то они состоят на службе у королевского трона!"
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:282
+#: Girl_unDead/scenarios/05_invasion.cfg:338
+msgid "So this is my end?"
+msgstr "Вот и настал мой конец?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:286
+#: Girl_unDead/scenarios/05_invasion.cfg:342
+msgid "Dad... I couldn't save you..."
+msgstr "Папа... Я не смогла спасти тебя..."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:290
+msgid ""
+"Malica, don't worry.  Destruction for our kind is repose.  Show me your "
+"earring; I would have that as my final vision."
+msgstr ""
+"Не переживай так, Малика. Смерть для нас, мертвецов, несёт лишь долгожданный "
+"покой. Покажи мне свою серёжку, я хотел бы взглянуть на неё напоследок."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:294
+#: Girl_unDead/scenarios/05_invasion.cfg:350
+msgid "Here."
+msgstr "Вот."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:298
+#: Girl_unDead/scenarios/05_invasion.cfg:354
+msgid "Veronica... "
+msgstr "Вероника..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:302
+msgid "Dad!!  Orcs!  I will have my revenge!"
+msgstr "Папа!!! Орки! Я отомщу!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:306
+msgid "Oh, this would be birth of a new queen, but she lacks the strength."
+msgstr ""
+"О, из неё получилась бы отличная королева. Но сил ей для этого явно не "
+"хватает."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:323
+msgid "What is your purpose here?"
+msgstr "Что вы тут делаете?"
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/05_invasion.cfg:327
+msgid "Human has gived us gold.  I don't know more..."
+msgstr "Человек даст нам золото. Больше ничего не знаю..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:331
+#: Girl_unDead/scenarios/05_invasion.cfg:379
+msgid "He died...."
+msgstr "Он умер..."
+
+#. [message]: speaker=Varas
+#: Girl_unDead/scenarios/05_invasion.cfg:346
+msgid ""
+"Malica, don't worry.  Destruction for our kind is repose. Show me your "
+"earring; I would have that as my final vision."
+msgstr ""
+"Не переживай так, Малика. Смерть для нас, мертвецов, несёт лишь долгожданный "
+"покой. Покажи мне свою серёжку, я хотел бы взглянуть на неё напоследок."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:361
+msgid "Dad!!"
+msgstr "Папа!!!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:368
+msgid "You came here for me and slew my father.  What is your purpose here?"
+msgstr "Вы явились сюда и убили моего отца. Зачем всё это? "
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/05_invasion.cfg:372
+msgid "Human has gived us gold. I don't know more..."
+msgstr "Человек даст нам золото. Больше ничего не знаю..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:385
+msgid ""
+"My Princess, what shall we do?  If we stay here, they will come back with "
+"greater numbers.  We must escape to the western valley, and rebuild the camp."
+msgstr ""
+"Моя принцесса, что нам делать? Если останемся здесь, то враги вернутся и "
+"приведут с собою подмогу. Нам нужно скрыться в западной долине и основать "
+"там новый дом."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:389
+msgid "I cannot run away."
+msgstr "Я не могу убежать."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:393
+msgid ""
+"From what?  There are few of us here and nothing we can do will bring your "
+"father back.  I do not want to die in vain."
+msgstr ""
+"И что дальше? Нас здесь очень мало. И мы не в силах возвратить твоего отца. "
+"Я не хочу погибать понапрасну."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:397
+msgid ""
+"You're barely alive. Run away, if you want.  I don't care. I am going to "
+"take the fight to them.  I want to know why they want me.  Besides, I do not "
+"think any escape would last for long."
+msgstr ""
+"Ты едва уцелел. Я тебя понимаю. Если хочешь — уходи, плакать не стану. Я "
+"буду бороться с ними. Я хочу узнать, почему они не оставят меня в покое. И "
+"кроме того, думаю, любое бегство будет недолгим."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:401
+msgid ""
+"Alas!  You are as stubborn as your old father.  I will follow where you lead."
+msgstr ""
+"Увы! Ты столь же упряма, как и твой старый отец. Я последую за тобой, моя "
+"принцесса."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/05_invasion.cfg:405
+msgid "Thank you Poet!  I did not want to have to do this alone."
+msgstr "Спасибо, Поэт! Мне так не хотелось это делать одной."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/05_invasion.cfg:409
+msgid "Very well!"
+msgstr "Очень хорошо!"
+
+#. [scenario]: id=06_revenge
+#: Girl_unDead/scenarios/06_revenge.cfg:6
+msgid "Revenge"
+msgstr "Месть"
+
+#. [side]: id=Orcs, type=Orcish Sovereign
+#: Girl_unDead/scenarios/06_revenge.cfg:36
+msgid "Orcs"
+msgstr "Орки"
+
+#. [side]
+#: Girl_unDead/scenarios/06_revenge.cfg:208
+msgid "Elves"
+msgstr "Эльфы"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:352
+msgid "We have arrived, and from somewhere the smell of humans arises."
+msgstr "Мы на месте, и откуда-нибудь запах людей да учуем."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:356
+msgid "We must go forward."
+msgstr "Пойдём перёд."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:360
+msgid ""
+"You've seem to have become our leader, my Princess, but I wish you were "
+"stronger..."
+msgstr ""
+"Мне кажется, ты стала нашим предводителем, моя принцесса, но жаль, что в "
+"тебе так мало сил..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:368
+msgid "Do not apologize!  You must lead us. I will conceal your weakness."
+msgstr "Не извиняйся! Ты должна возглавить нас. А я прикрою твои слабости."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:372
+msgid "I'm so... Yes. I will!"
+msgstr "Мне жа... Да. Я поведу вас!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:388
+msgid "Oh, here is a poor elf."
+msgstr "О, вот бедный эльф."
+
+#. [unit]: id=Cyclos, type=Elvish Hero
+#: Girl_unDead/scenarios/06_revenge.cfg:396
+msgid "Cyclos"
+msgstr "Циклос"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:406
+msgid "You undead.  Are you with the orcs?"
+msgstr "Мертвецы? Вы заодно с орками?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:410
+msgid "Oh, a bandit!"
+msgstr "Ой, разбойник!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:414
+msgid "... This is the first time I have been mistaken for a bandit."
+msgstr "…Впервые меня принимают за разбойника."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:418
+msgid ""
+"Mmm... Please forget what she said.  Still, we shall kill you, then go kill "
+"these orcs."
+msgstr ""
+"Ммм... Пожалуйста, забудь то, что сказала моя госпожа. Однако мы убьем тебя, "
+"а затем уже отправимся убивать орков."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:422
+msgid ""
+"Kill me!  I came here prepared for death.  but, orcs are my enemies too. How "
+"about make a trade between us?"
+msgstr ""
+"Убьёте меня? Я прибыл сюда готовым к смерти, но орки и мои враги. Как бы нам "
+"договориться к взаимной выгоде?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:426
+msgid ""
+"A trade? You are joking.  There is nothing you, a captive, have that we want."
+msgstr ""
+"Договориться? Шутишь. У тебя, пленника собственного тела, нет ничего, что "
+"пригодилось бы нам."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:430
+msgid ""
+"You are fighting the orcs, aren't you?  Their defense at the front is strong "
+"and will be difficult to break.  I know a secret passage."
+msgstr ""
+"Вы сражаетесь с орками, не так ли? У них здесь хорошие укрепления, их трудно "
+"будет взять лобовым ударом. А я знаю тайный проход."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:434
+msgid "Hm... The orcs like secret passages.  What do you want in return?"
+msgstr "Гм... Орки любят тайные проходы... Что ты хочешь взамен?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:438
+msgid ""
+"The orcs have kidnapped the shamans of my village and have imprisoned them "
+"somewhere in this cave.  Help me free them."
+msgstr ""
+"Орки похитили шаманок моей деревни и засадили их в глубокие подземелья где-"
+"то в этих пещерах. Помогите мне освободить их."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:442
+msgid ""
+"It would be ridiculous to try to rescue the shamans.  No, your life is at an "
+"end."
+msgstr ""
+"Было бы смешно мертвецам пытаться спасать шаманок. Нет, ты расплатишься "
+"своей жизнью. Но в конце."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:446
+msgid ""
+"My life is unimportant compared to theirs.  If you hurt one of them, I will "
+"kill you all."
+msgstr ""
+"По сравнению с их жизнями моя - ничего не стоит. Если вы хоть пальцем "
+"тронете их, то я всех вас прикончу."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:450
+msgid "Another joke!  You have balls.  I shall kill you now!"
+msgstr "Ещё одна шутка! Храбрости тебе не занимать. А теперь умри!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:454
+msgid "Do so if you can, but you will never defeat the orcs."
+msgstr "Сделай так, если сил хватит. Но орков вам не победить!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:458
+msgid ""
+"Poet!  You elf!  Stop!!  The orcs are certainly stronger than us and a "
+"frontal attack will not succeed.  I promise we will not hurt your shamans.  "
+"Now lead us to the secret passage."
+msgstr ""
+"Поэт! И ты, эльф! Прекратите!!! Орки, конечно, сильнее нас, и если мы просто "
+"нападём на них, то ничего не добьёмся. Обещаю, мы не причиним вреда твоим "
+"шаманкам. А теперь веди нас к тайному проходу."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:462
+msgid "And I still demand your life."
+msgstr "Мне всё ещё нужна твоя жизнь."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:466
+msgid "Agreed.  My life is worth their rescue."
+msgstr "Согласен. Моя жизнь взамен на их спасение."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:470
+msgid ""
+"You underestimate the value of your life.  And what is your name?  I am "
+"Malica and this is Poet."
+msgstr ""
+"Ты слишком низко оцениваешь свою. И как тебя зовут? Я — Малика, а это — Поэт."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:474
+msgid "My name is Cyclos."
+msgstr "Меня зовут Циклос."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:478
+msgid ""
+"Cyclos.  Fitting name.  Sorry I mistook you for a bandit.  By the way, why "
+"are you looking at me so seriously?"
+msgstr ""
+"Циклос. Годное имя. Жаль, что я приняла тебя за разбойника. Между прочим, "
+"почему ты так серьёзно на меня смотришь?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:482
+msgid ""
+"Sorry.  I saw woman undead for the first time.  And you're wearing a rare "
+"necklace."
+msgstr ""
+"Прости. Впервые я увидел женщину-мертвеца. И у тебя украшение редкой красоты."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:486
+msgid ""
+"Ah, it's my mother's earring.  But I have no longer ears.  So, Poet made it "
+"to necklace.  Oh, we must harry!  Let's go."
+msgstr ""
+"Ах, это серёжка моей матери. Но у меня больше нет ушей. И Поэт сделал из "
+"серёжки кулон... Ой, нам нужно спешить! Идём скорее."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/06_revenge.cfg:491
+msgid "And thus Cyclos joined Malica's fighters."
+msgstr "И вот так Циклос присоединился к армии Малики."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/06_revenge.cfg:523
+#: Girl_unDead/scenarios/06_revenge.cfg:761
+#: Girl_unDead/scenarios/08.5_gulf.cfg:293
+#: Girl_unDead/scenarios/08_puppeteer.cfg:103
+#: Girl_unDead/scenarios/09_sanctuary.cfg:228
+#: Girl_unDead/scenarios/10_a_long_day.cfg:95
+#: Girl_unDead/scenarios/11_intrusion.cfg:294
+#: Girl_unDead/scenarios/12_castle.cfg:270
+#: Girl_unDead/scenarios/12_castle.cfg:694
+#: Girl_unDead/scenarios/12_castle.cfg:864
+#: Girl_unDead/scenarios/12_castle.cfg:1040
+msgid "Death of Cyclos"
+msgstr "Смерть Циклоса"
+
+#. [message]: speaker=Cyclos
+#. [message]: speaker=unit
+#. [message]: speaker=second_unit
+#: Girl_unDead/scenarios/06_revenge.cfg:540
+#: Girl_unDead/scenarios/06_revenge.cfg:830
+#: Girl_unDead/scenarios/06_revenge.cfg:901
+msgid "Here is the secret passage."
+msgstr "Вот тайный проход."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:563
+#: Girl_unDead/scenarios/06_revenge.cfg:841
+msgid "I have found you!...  But, where is Loana?  Loana?"
+msgstr "Я отыскал вас!.. Но где же Луанна? Луанна!"
+
+#. [message]: role=Shaman
+#: Girl_unDead/scenarios/06_revenge.cfg:571
+#: Girl_unDead/scenarios/06_revenge.cfg:849
+msgid ""
+"Oh, Cyclos.  The higher shamans like Loana have been taken away by soldiers "
+"of the Kingdom."
+msgstr ""
+"О, Циклос. Самых лучших наших шаманок, таких как Луанна, увели солдаты "
+"королевской гвардии."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:575
+#: Girl_unDead/scenarios/06_revenge.cfg:853
+msgid "No!!..."
+msgstr "Нет!!!..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:579
+#: Girl_unDead/scenarios/06_revenge.cfg:857
+msgid "......"
+msgstr "....."
+
+#. [message]: speaker=unit
+#: Girl_unDead/scenarios/06_revenge.cfg:598
+msgid "Here! chief of the enemy!"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/06_revenge.cfg:605
+msgid "Ha ha ha! Poor undeads!"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/06_revenge.cfg:609
+msgid "Can you catch me?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:613
+msgid "Damn! We must find another way."
+msgstr ""
+
+#. [unit]: id=Troll Child, type=Trollo Whelpo
+#: Girl_unDead/scenarios/06_revenge.cfg:645
+#: Girl_unDead/scenarios/06_revenge.cfg:1064
+msgid "Runt"
+msgstr "Карлик"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:654
+#: Girl_unDead/scenarios/06_revenge.cfg:1074
+msgid "There is a troll runt in a cage."
+msgstr "Тут в клетке держат маленького тролля."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:658
+msgid "That is sad.  Free him."
+msgstr "Какие у него печальные глаза. Освободите его."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:666
+msgid ""
+"Oh, it's going to join us.  Well, it needs a name, so let's call it Runt"
+msgstr ""
+"О, он собирается идти с нами. Ну, троллю особое имя без надобности, давайте "
+"звать его Карликом."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/06_revenge.cfg:671
+#: Girl_unDead/scenarios/06_revenge.cfg:1091
+msgid "And thus Runt joined Malica's fighters."
+msgstr "И вот так Карлик присоединился к армии Малики."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/06_revenge.cfg:676
+msgid "(notice) If Troll Child dies, you lose."
+msgstr "(внимание) Если троллёнок погибнет, то вы проиграете."
+
+#. [unit]: id=Stella, type=Elvish Marksman, gender=female
+#: Girl_unDead/scenarios/06_revenge.cfg:694
+msgid "Stella"
+msgstr "Стелла"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/06_revenge.cfg:724
+msgid "Cyclos!  I'm glad you are safe and sound."
+msgstr "Циклос! Я так рада видеть тебя живым и здоровым!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:728
+msgid "Stella!"
+msgstr "Стелла!"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/06_revenge.cfg:732
+msgid "Why are you acting in concert with these undead?"
+msgstr "Но почему ты идёшь вместе с мертвецами?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:736
+msgid "I will tell you later.  Let's first slaughter these orcs."
+msgstr "Я расскажу тебе позже. Сначала расправимся с этими орками."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/06_revenge.cfg:740
+msgid "I'm ready."
+msgstr "Я готова."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/06_revenge.cfg:765
+#: Girl_unDead/scenarios/08.5_gulf.cfg:297
+#: Girl_unDead/scenarios/08_puppeteer.cfg:107
+#: Girl_unDead/scenarios/09_sanctuary.cfg:232
+#: Girl_unDead/scenarios/11_intrusion.cfg:298
+#: Girl_unDead/scenarios/12_castle.cfg:274
+#: Girl_unDead/scenarios/12_castle.cfg:698
+#: Girl_unDead/scenarios/12_castle.cfg:868
+#: Girl_unDead/scenarios/12_castle.cfg:1044
+msgid "Death of Stella"
+msgstr "Смерть Стеллы"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:785
+msgid "What luck!  The orc's gold."
+msgstr "Какая удача! Золото орков."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:803
+msgid "Good fortune! Gold."
+msgstr "Удача! Золото."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:866
+msgid "I think there might be a secret passage, but I cann't find."
+msgstr "Я думаю, тут мог бы быть тайный проход, но я ничего не могу найти."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:885
+msgid "Why have the orcs hidden this sword here?"
+msgstr "Почему орки спрятали здесь этот меч?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:889
+msgid ""
+"It has a power of darkness.  It is useful to those who dwell in the dark, "
+"but it harms those who live in light.  Perhaps human mages hate it and so "
+"have hidden it."
+msgstr ""
+"Этот клинок обладает силою тьмы. Он предназначен для тех, чей удел скитаться "
+"во мраке, и несёт погибель поклонникам света. Может быть, маги людей из "
+"ненависти сокрыли меч под землёй."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:918
+msgid "Tell me why you killed my Dad, and pursued me."
+msgstr "Почему вы убили моего папу, и почему не оставите в покое меня?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:922
+msgid "Tell me where you have taken Loa.. the shamans."
+msgstr "Говори, куда ты дел Луа.. шаманок."
+
+#. [message]: speaker=Orcs
+#: Girl_unDead/scenarios/06_revenge.cfg:926
+msgid "I cannot answer because I have sworn to secrecy."
+msgstr "Я не отвечу, я поклялся хранить тайну."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:936
+msgid "He has died...  Again I have failed to find the answer."
+msgstr "Он умер... Опять не смогла получить ответ."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:940
+msgid "Secrecy?  Ha!  My Princess, what do we do now?"
+msgstr "Тайна? Ха! Моя принцесса, и что нам теперь делать?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:944
+msgid ""
+"All I know is that the King is involved.  There is no alternative; we must "
+"go to the Capital."
+msgstr ""
+"Всё что я знаю, это то, что за всем стоит король. У нас нет выбора, мы "
+"должны идти в столицу."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:948
+msgid ""
+"Don't you think to escape somewhere to live in peace?  Good, I'll follow you "
+"anywhere."
+msgstr ""
+"Разве ты не хочешь убежать куда-нибудь, чтобы жить в мире и спокойствии? Ну "
+"что ж, я последую за тобой куда угодно."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:952
+msgid "Oh, I forgot.  Hey, elvish kid."
+msgstr "О, чуть не забыл. Эй, юный эльф!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:956
+msgid "I know.  My life is yours."
+msgstr "Я знаю. Моя жизнь принадлежит тебе."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:960
+msgid "Yeah!  It has been too long since I last killed an elf."
+msgstr "Да! Я слишком долго ждал, чтобы убить одного эльфа."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:964
+msgid ""
+"Stop.  Poet, such jesting is unseemly.  Cyclos, do you really not regret "
+"dying now?"
+msgstr ""
+"Остановись. Поэт, такие шутки невежливы. Циклос, ты и в самом деле не "
+"жалеешь о утрате жизни?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:968
+msgid "I made the agreement."
+msgstr "Я заключил соглашение."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:972
+msgid ""
+"By this agreement, we cannot kill you until we save all the elvish shamans.  "
+"And you are still obligated to aid us."
+msgstr ""
+"И по этому соглашению мы не убьём тебя, пока не спасём всех эльфийских "
+"шаманок. И ты, кстати, всё ещё обязан помогать нам."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:976
+msgid "I will be your shield...  Good."
+msgstr "Я стану твоим мечом и щитом... Хорошо."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:980
+msgid "Damn!"
+msgstr "Проклятье!"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/06_revenge.cfg:984
+msgid "Cyclos!  I will follow you."
+msgstr "Циклос! Я пойду с тобой."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/06_revenge.cfg:988
+msgid "Stella.  You must return with these shamans so our village will endure."
+msgstr ""
+"Стелла, пожалуйста, вернись домой с шаманками, ведь только так сможет дальше "
+"существовать наша деревня."
+
+#. [message]: speaker=Stella
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:992
+#: Girl_unDead/scenarios/12_castle.cfg:533
+msgid "Ah..."
+msgstr "Ах..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:996
+msgid "... Stella, come with us.  It never hurts to have more allies."
+msgstr "…Стелла, пойдём с нами. Союзники никогда не бывают лишними."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/06_revenge.cfg:1000
+msgid "I will go not for you, but for Cyclos!"
+msgstr "Я иду не с вами, а с Циклосом!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:1004
+msgid "All right."
+msgstr "Ну и хорошо."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:1028
+msgid "Elves have joined us, a troll runt comes with us.  What next?"
+msgstr ""
+"К нам присоединились эльфы, за нами топает карликовый тролль. Кто следующий?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:1034
+msgid "Elves have joined us.  What next?"
+msgstr "К нам присоединились эльфы. Кто следующий?"
+
+#. [message]: role=Shaman
+#: Girl_unDead/scenarios/06_revenge.cfg:1046
+msgid ""
+"Cyclos, Stella, we are returning to our village.  We hope you are successful "
+"and come back safely."
+msgstr ""
+"Циклос, Стелла, мы возвращаемся в нашу деревню. Надеюсь, что и вы вернётесь "
+"благополучно."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/06_revenge.cfg:1078
+msgid "That is sad. Free him."
+msgstr "Так печально. Выпустите его."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/06_revenge.cfg:1086
+msgid ""
+"Oh, it's going to join us.  Well, it needs a name, so let's call it Runt."
+msgstr ""
+"О, он собирается идти с нами. Ну, троллю особое имя без надобности, давайте "
+"звать его Карликом."
+
+#. [scenario]: id=07_along_the_way
+#: Girl_unDead/scenarios/07_along_the_way.cfg:63
+msgid "In the Forest"
+msgstr "В лесу"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:124
+msgid "Ah, Dad..."
+msgstr "Ах, папа..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:128
+msgid "Oh, she is thinking about Varas again."
+msgstr "Ох... Она снова думает о Варасе."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:132
+msgid "Malica.  A sad leader lowers the morale of all."
+msgstr "Малика, от грусти предводителя тоскует всё войско."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:136
+msgid "I'm sorry.  But, I am ...  Ah,Dad!..."
+msgstr "Извини. Но я... Ах, папочка!.."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:140
+msgid ""
+"I need earplugs.  Cyclos, you are right, but it only makes things worse."
+msgstr ""
+"Чем бы заткнуть уши? Ты прав, Циклос, но твои слова ей только хуже делают."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:144
+msgid "Sorry."
+msgstr "Прости."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:149
+msgid "Malica, I lost my father twice in battle."
+msgstr "Малика, я тоже потерял в битве своего отца. Дважды."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:153
+msgid "Twice?"
+msgstr "Дважды?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:157
+msgid "The first time, however, he continued to live."
+msgstr "В первый раз он выжил."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:161
+msgid ""
+"When I was little child, there was a fierce battle against the undead in the "
+"Dark Forest.  Only a few soldiers returned.  My father was not among them."
+msgstr ""
+"Когда я ещё был маленьким, в Тёмном Лесу произошла жестокая битва с "
+"мертвецами. Домой вернулось лишь несколько солдат. Моего отца среди них не "
+"было."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:166
+msgid "(Maybe I was in that fight.)"
+msgstr "(Может быть, и я бился там.)"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:171
+msgid ""
+"Everyone thought he had died.  And because my mother was already dead, I was "
+"raised by my aunt."
+msgstr ""
+"Все считали его погибшим. Моя мать к тому времени уже оставила этот мир, и "
+"моим воспитанием занялась тётя."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:175
+msgid "Did that make you sad?"
+msgstr "Ты грустил?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:179
+msgid "Of course."
+msgstr "Конечно."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:183
+msgid "Did you cry?"
+msgstr "И плакал?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:187
+msgid "A little ... because I was so young."
+msgstr "Немного... Я был ещё несмышлёным."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:191
+msgid "Several years later he came back.  But he never spoke of what happened."
+msgstr ""
+"Но спустя несколько лет отец вернулся. Правда, о случившемся никогда не "
+"рассказывал."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:195
+msgid "It was good to have your father return home safely."
+msgstr "Это так здорово, что твой отец вернулся домой."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:199
+msgid "I returned to live with him and he taught me how to wield a sword."
+msgstr "Я снова стал жить с ним, и он научил меня владеть мечом."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:203
+msgid ""
+"It was a battle against the undead at Thirsty Mountain.  And it became a "
+"fight more fierce than we anticipated."
+msgstr ""
+"А потом состоялось ещё одно сражение против мертвецов у Жаждущей Горы. И оно "
+"оказалось невиданно жестоким."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:208
+msgid "(Maybe I was there.)"
+msgstr "(Возможно, и там я был.)"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:213
+msgid ""
+"I wanted to prove myself.  I took an opportunity to attack, but instead of "
+"success that undead warrior cut my eye."
+msgstr ""
+"Я хотел показать себя. Ринулся в атаку при первой же возможности, но не "
+"рассчитал сил — мертвяк лишил меня глаза."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:217
+msgid "I grieve for you!"
+msgstr "Мне так жаль тебя!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:222
+msgid "(Oh, ... I remember cutting a young elf.)"
+msgstr "(Ох... Я не забуду прикончить юного эльфа)"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:227
+msgid ""
+"Before that undead could kill me, my father intervened.  I survived, but "
+"that cruel undead monster killed him."
+msgstr ""
+"Прежде, чем мертвецы успели расправиться со мной, вмешался отец. Я выжил, но "
+"его убило жестокое чудовище."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:231
+msgid "Oh, how terrible!"
+msgstr "Как ужасно!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:236
+msgid "(Surely I have killed his father!)"
+msgstr "(Это же я убил его отца!)"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:241
+msgid ""
+"My hatred for that undead warrior exists still.  If I find that undead, I "
+"will avenge my father!"
+msgstr ""
+"Во мне до сих пор кипит ненависть к тому мёртвому воину. Если где его "
+"повстречаю, то отомщу за смерть папы!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:245
+msgid "If you find him, then I will help!"
+msgstr "Если ты найдёшь его, то я тебе помогу!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:250
+msgid ""
+"(This boy is really stupid!  And Malica forgets that she herself is undead!  "
+"I shall not reveal that I killed his father.  It is fortunate that elves "
+"cannot discern between the faces of the undead.)"
+msgstr ""
+"(Этот юнец и в самом деле глуп! И Малика забывает, что она сама — мертвец! Я "
+"не стану выдавать себя. Как же здорово, что эльфы не способны различать наши "
+"гнилые лица.)"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:255
+msgid ""
+"Since that day, I have never shown weakness to others, Neither to enemies, "
+"nor to friends."
+msgstr ""
+"С того дня я никогда не показывал ни жалости, ни слабости. Ни врагам, ни "
+"друзьям."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:259
+msgid "(I wonder if I can ever become strong like him?)"
+msgstr "(Интересно, смогу ли я когда-нибудь стать такой же сильной?)"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/07_along_the_way.cfg:264
+msgid "(Whispering) Malica?"
+msgstr "(шепотом) Малика?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:268
+msgid "Stella.  What?"
+msgstr "Что, Стелла?"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/07_along_the_way.cfg:272
+msgid "The fact is that Cyclos was a terrible crybaby."
+msgstr "Верно то, что Циклос и в самом деле был ужасной плаксой."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:276
+msgid "Really?"
+msgstr "В самом деле?"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/07_along_the_way.cfg:280
+msgid ""
+"Yes.  We were childhood friends, so I know him well.  He would immediately "
+"start crying whenever we teased him.  It was funny, and he was very cute."
+msgstr ""
+"Да. Мы с детства дружили, и потому я хорошо его знаю. Он пускал слёзу сразу "
+"же, как только мы начинали дразниться. Но это выглядело забавно. А Циклос, "
+"не смотря на сопли, чем-то мне тогда нравился."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:284
+msgid "Well, Cyclos is.  And you were a bad girl."
+msgstr "Ну ладно Циклос. А ты, получается, была плохой девочкой."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/07_along_the_way.cfg:288
+msgid "Hahaha..."
+msgstr "Ха-ха-ха..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:293
+msgid "Hey, what are you two whispering and laughing about?"
+msgstr "Эй, о чём вы там шепчетесь, а?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/07_along_the_way.cfg:297
+msgid "Sorry, Cyclos, but it is not your business... HeeHee..."
+msgstr "Прости, Циклос, но это не твоё дело... Хе-хе-хе..."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/07_along_the_way.cfg:301
+msgid "Yes, Cyclos, never mind... Hahaha..."
+msgstr "Да, Циклос, не бери в голову... Ха-ха-ха..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/07_along_the_way.cfg:305
+msgid ""
+"I can understand men and the creatures of the forest, but women are veiled."
+msgstr ""
+"Я понимаю мужчин и лесных тварей могу понять, но женщины, наверное, самые "
+"загадочные существа."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/07_along_the_way.cfg:310
+msgid "Malica no longer cried from that day on, at least in public."
+msgstr "С того дня Малика больше не плакала. Во всяком случае при других."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/07_along_the_way.cfg:315
+msgid "Hey, we're out of the forest."
+msgstr "Вот мы и вышли из леса."
+
+#. [scenario]: id=08.5_gulf
+#: Girl_unDead/scenarios/08.5_gulf.cfg:7
+msgid "Gulf"
+msgstr "Залив"
+
+#. [message]: speaker=unit
+#: Girl_unDead/scenarios/08.5_gulf.cfg:33
+msgid "Oh, help me!"
+msgstr ""
+
+#. [side]: id=Kingdom, type=Grand Marshal
+#. [side]: id=Kingdom, type=Grand Knight
+#. [side]: id=Kingdom, type=Halberdier
+#. [side]: id=Kingdom1, type=Royal Guard
+#. [side]: id=Kingdom2, type=Iron Mauler
+#. [side]: id=Kindom3, type=Mage of Light
+#. [side]: id=Kingdom4, type=Paladin
+#. [side]: id=Kingdom3, type=Mage of Light
+#. [side]: id=Kingdom4, type=Royal Guard
+#. [side]: id=Kingdom5, type=Iron Mauler
+#. [side]: id=Kingdom6, type=Mage of Light
+#: Girl_unDead/scenarios/08.5_gulf.cfg:77
+#: Girl_unDead/scenarios/08_puppeteer.cfg:32
+#: Girl_unDead/scenarios/09_sanctuary.cfg:36
+#: Girl_unDead/scenarios/11_intrusion.cfg:46
+#: Girl_unDead/scenarios/11_intrusion.cfg:189
+#: Girl_unDead/scenarios/11_intrusion.cfg:232
+#: Girl_unDead/scenarios/11_intrusion.cfg:262
+#: Girl_unDead/scenarios/12_castle.cfg:100
+#: Girl_unDead/scenarios/12_castle.cfg:123
+#: Girl_unDead/scenarios/12_castle.cfg:138
+#: Girl_unDead/scenarios/12_castle.cfg:153
+#: Girl_unDead/scenarios/12_castle.cfg:203
+#: Girl_unDead/scenarios/12_castle.cfg:244
+msgid "Royal Army"
+msgstr "Королевская армия"
+
+#. [side]: id=Merman King, type=Merman Triton
+#. [side]: id=Mermaid Princess, type=Mermaid Enchantress
+#: Girl_unDead/scenarios/08.5_gulf.cfg:122
+#: Girl_unDead/scenarios/08.5_gulf.cfg:136
+msgid "Merman"
+msgstr "Водяной"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/08.5_gulf.cfg:281
+msgid "Malica reaches signpost"
+msgstr "Малика приходит к указателю"
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/08.5_gulf.cfg:301
+#: Girl_unDead/scenarios/08_puppeteer.cfg:111
+#: Girl_unDead/scenarios/09_sanctuary.cfg:236
+#: Girl_unDead/scenarios/11_intrusion.cfg:302
+#: Girl_unDead/scenarios/12_castle.cfg:278
+#: Girl_unDead/scenarios/12_castle.cfg:702
+#: Girl_unDead/scenarios/12_castle.cfg:872
+#: Girl_unDead/scenarios/12_castle.cfg:1048
+msgid "Death of Troll Child"
+msgstr "Смерть детёныша тролля"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:334
+msgid "My Princess, we must cross this gulf to reach the sanctuary."
+msgstr ""
+"Моя принцесса, чтобы добраться к святилищу, нам нужно переправиться на "
+"другую сторону залива."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08.5_gulf.cfg:339
+msgid "All right.  How do you know so much about these lands."
+msgstr "Хорошо. Ты лучше знаешь эти земли."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:343
+msgid ""
+"Uh... I can't hear you because of the wind... Look!  There are enemies in "
+"our way!"
+msgstr ""
+"Ммм... Из-за ветра я не могу тебя расслышать... Вон там! На нашем пути "
+"появился враг!"
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08.5_gulf.cfg:347
+msgid "Fight these undead with us."
+msgstr "Сражайтесь вместе с нами против мертвецов."
+
+#. [message]: speaker=Merman King
+#: Girl_unDead/scenarios/08.5_gulf.cfg:351
+msgid "Yes we will.  We have long been your allies. "
+msgstr "Само собою. Мы всегда были вашими союзниками."
+
+#. [message]: speaker=Mermaid Princess
+#: Girl_unDead/scenarios/08.5_gulf.cfg:355
+msgid ""
+"But this woman leading the undead hasn't harmed us, my father.  It is "
+"strange she fights against the big human Kingdom with a small army.  I think "
+"there might be a reason she shuld get to the Weldyn."
+msgstr ""
+"Но эта девушка, что ведёт мертвецов, не причиняла нам никакого вреда, отец "
+"мой. Разве не странно, что она выступила против огромного королевства людей "
+"с такой маленькой армией. Я полагаю, за её стремлением к Велдину кроется "
+"веская причина."
+
+#. [message]: speaker=Merman King
+#: Girl_unDead/scenarios/08.5_gulf.cfg:359
+msgid "All undead are evil and must be destroyed."
+msgstr ""
+"Все мертвецы жестоки и злы по своей натуре, и потому должны быть истреблены."
+
+#. [message]: speaker=Mermaid Princess
+#: Girl_unDead/scenarios/08.5_gulf.cfg:363
+msgid "I see."
+msgstr "Я понимаю."
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08.5_gulf.cfg:367
+msgid "Good.  I'm counting on you."
+msgstr "Отлично. Рассчитываю на вас."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:371
+msgid "Ha, let's kill all of them."
+msgstr "Ха, давайте убьём их всех."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08.5_gulf.cfg:375
+msgid "No!  We need only cross the gulf.  Don't kill too much."
+msgstr ""
+"Нет! Нам нужно лишь переправиться через залив. Не убивайте без надобности."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08.5_gulf.cfg:391
+msgid "Great!  I'm far more accurate with a bow now."
+msgstr "Отлично! Из этого лука я стреляю куда более метко."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:395
+msgid "Don't celebrate.  You will soon see the curse's effect."
+msgstr "Не празднуй. Скоро увидишь плоды проклятия."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08.5_gulf.cfg:409
+msgid "No!  I killed him, yet he walks."
+msgstr "Нет! Я же точно убила его, а он продолжает идти."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:413
+msgid "I warned you of the curse.  Now you know the cost."
+msgstr "Я предупреждал о проклятии. Теперь ты знаешь его цену."
+
+#. [message]: speaker=Merman King
+#: Girl_unDead/scenarios/08.5_gulf.cfg:435
+msgid "Ah! My daughter! Undead, I will never forgive you!"
+msgstr "О! Дочь моя! Мертвецы, я вам не прощу этого никогда!"
+
+#. [message]: speaker=Merman King
+#: Girl_unDead/scenarios/08.5_gulf.cfg:523
+msgid "Ugh!"
+msgstr "Тьфу!"
+
+#. [message]: speaker=Merman King
+#: Girl_unDead/scenarios/08.5_gulf.cfg:536
+msgid "Undead, please don't kill my dauther."
+msgstr "Мертвецы, прошу вас, оставьте в живых мою дочь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:540
+msgid "Hah!  I like fishing too much to stop now."
+msgstr "Ха!Мне слишком понравилась рыбалка, чтобы вот так вот останавливаться."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08.5_gulf.cfg:544
+msgid ""
+"Stop your joking, Poet.  We will allow your daughter to live if she stops "
+"fighting."
+msgstr ""
+"Прекрати свои шутки, Поэт. Мы сохраним жизнь твоей дочери, если она не "
+"станет биться с нами."
+
+#. [message]: speaker=Mermaid Princess
+#: Girl_unDead/scenarios/08.5_gulf.cfg:552
+msgid "I have no reason to fight you.  I am leaving."
+msgstr "У меня нет причины поднимать на тебя оружие. Я уплываю."
+
+#. [message]: speaker=Kingdom
+#. [message]: role=Grand Marshal
+#: Girl_unDead/scenarios/08.5_gulf.cfg:573
+#: Girl_unDead/scenarios/08.5_gulf.cfg:670
+msgid "Mermen! Don't run!"
+msgstr "Водяные! Не убегайте!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:577
+msgid "Ha ha.  Mermen don't run.  They swim!"
+msgstr "Ха-ха. Водяные не бегают. Они плавают!"
+
+#. [message]: speaker=Mermaid Princess
+#: Girl_unDead/scenarios/08.5_gulf.cfg:602
+msgid "Lady Lich, you don't seem evil.  I see no reason to fight you.  Bye."
+msgstr ""
+"Леди Лич, вы мне не кажетесь злой. Я не вижу причин сражаться с вами. До "
+"свидания."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08.5_gulf.cfg:636
+msgid "We got through. Now to the sanctuary."
+msgstr "Мы переправились. Теперь к святилищу."
+
+#. [message]: speaker=Mermaid Princess
+#: Girl_unDead/scenarios/08.5_gulf.cfg:645
+msgid ""
+"Lady Lich, You don't look so wrong.  We have no reason to battle each "
+"other.  Bye."
+msgstr ""
+"Леди Лич, твои дела не кажутся мне страшным преступлением. И у нас нет "
+"повода враждовать. До свидания."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08.5_gulf.cfg:674
+msgid "Ha ha.  Of course, mermen don't run, they swim."
+msgstr "Ха-ха. Конечно же, водяные не бегают, они плывут."
+
+#. [unit]: type=Necromancer, id=Puppeteer
+#. [scenario]: id=08_puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:285
+#: Girl_unDead/scenarios/08_puppeteer.cfg:352
+#: Girl_unDead/scenarios/08_puppeteer.cfg:6
+msgid "Puppeteer"
+msgstr "Кукловод"
+
+#. [side]
+#: Girl_unDead/scenarios/08_puppeteer.cfg:49
+msgid "Puppet"
+msgstr "Марионетка"
+
+#. [side]: id=Bandits, type=Royal Warrior
+#: Girl_unDead/scenarios/08_puppeteer.cfg:63
+msgid "Desperado"
+msgstr "Отчаянный"
+
+#. [part]
+#: Girl_unDead/scenarios/08_puppeteer.cfg:74
+msgid ""
+"Malica had defeated the enemy, but she had failed to find the truth.  She "
+"knew only that the mages of the kingdom wanted elvish shamans and herself."
+msgstr ""
+"Малика победила врага, но оказалась не в состоянии докопаться до истины. Она "
+"знала только, что королевским магам зачем-то понадобились эльфийские шаманки "
+"и она сама."
+
+#. [part]
+#: Girl_unDead/scenarios/08_puppeteer.cfg:77
+msgid ""
+"She and her soldiers traveled toward the capital to rescue the shamans and "
+"to learn why they wanted her."
+msgstr ""
+"Марика и её верные слуги направились к Велдину, чтобы раскрыть стоящую за "
+"всем правду."
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/08_puppeteer.cfg:87
+msgid "Defeat the leader of the royal army"
+msgstr "Одолейте предводителя королевской армии"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/08_puppeteer.cfg:91
+msgid "(bonus)Defeat the leader of desperado"
+msgstr "(премия) Поражение вожака отчаянных"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:180
+msgid "A stench of death has been in the air for quite a while."
+msgstr "Уже долго в воздухе чуется запах смерти."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:184
+msgid "I am aware of it too."
+msgstr "Я заметила."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:188
+msgid "It may be odor of our Princess."
+msgstr "Этот аромат может источать и наша принцесса."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:192
+msgid "Poet!  That's horrible.  Cyclos, you don't think that, do you?"
+msgstr "Поэт! Это ужасно. Циклос, ты же так не думаешь?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:196
+msgid "...Um, you do smell a little after the rain..."
+msgstr "…Гм, от тебя в самом деле немного несёт после дождя..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:200
+msgid "No!!"
+msgstr "Нет!!!"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:204
+msgid "Cyclos, you should be more circumspect when you speak."
+msgstr "Циклос, хоть бы подумал, что говоришь."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:208
+msgid "Yes, I am sorry."
+msgstr "Да, простите меня."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:212
+msgid "Cyclos, you are insensitive.  Stella, you agree, don't you?"
+msgstr "Циклос, ты бесчувственный эгоист. Не правда ли, Стелла?"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:216
+msgid "It's not for me to say."
+msgstr "Я такого не говорила."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:220
+msgid ""
+"There are many corpses about.  These may be the cause of the odor.  "
+"Something has happened here."
+msgstr ""
+"Вокруг полно трупов. И они тоже могут служить источником обратившего на себя "
+"ваше внимание аромата. Что-то здесь пошло не так."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:224
+msgid "They are annoying. I'll breke them."
+msgstr "Это раздражает. Так и хочется прибить кого-нибудь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:228
+msgid "We must be careful around them."
+msgstr "С ними нужно быть поосторожней."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:232
+msgid "I feel unpleasant too."
+msgstr "Я тоже себя неважно чувствую."
+
+#. [message]: speaker=Cyclos
+#. [message]: speaker=Malica
+#. [message]: speaker=Poet
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:236
+#: Girl_unDead/scenarios/12_castle.cfg:412
+#: Girl_unDead/scenarios/12_castle.cfg:517
+#: Girl_unDead/scenarios/12_castle.cfg:605
+#: Girl_unDead/scenarios/13_epilogue.cfg:142
+msgid "..."
+msgstr "..."
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08_puppeteer.cfg:240
+msgid ""
+"Men, look about.  There are many corpses, so the one we seek must be near.  "
+"Oh, and there is the woman lich.  Catch her."
+msgstr ""
+"Мужи, осмотритесь вокруг. Тут много трупов, значит и наша цель должна быть "
+"поблизости. И ещё, женщина-лич. Её нужно взять 'живой'."
+
+#. [message]: speaker=Bandits
+#: Girl_unDead/scenarios/08_puppeteer.cfg:244
+msgid ""
+"Hey, do you still agree to let us join your army if we attack these corpses?"
+msgstr ""
+"Эй, так ты всё ещё согласен принять наше кодло в армию, на трёхразовую пайку "
+"и полное жалование, ну, если мы поможем вернуть эти трупы в могилу?"
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08_puppeteer.cfg:248
+msgid "Yes, but don't kill the woman lich."
+msgstr "Да, договор в силе. Только не убивайте женщину-лича."
+
+#. [message]: speaker=Bandits
+#: Girl_unDead/scenarios/08_puppeteer.cfg:252
+msgid "Okay."
+msgstr "Ну по рукам."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:256
+msgid "We have no choice but to fight this army."
+msgstr "У нас нет иного выбора, кроме как воевать с этой армией."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:260
+msgid "Okey."
+msgstr "Не вопрос."
+
+#. [message]: speaker=unit
+#: Girl_unDead/scenarios/08_puppeteer.cfg:275
+msgid "Corpse, rest in peace!"
+msgstr "Приляг отдохни, трупак!"
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:300
+msgid "One is a fool to touch any of my puppets."
+msgstr "Дурак тот, кто посмеет прикоснуться к моим куклам."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:304
+msgid "Damn it!  That is Puppeteer, a troublesome enemy."
+msgstr "Проклятье! Это Кукловод, неприятный противник."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:308
+msgid "Why is he trouble?"
+msgstr "Почему такое беспокойство?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:312
+msgid "You will soon know.  We must kill him to survive."
+msgstr "Скоро узнаешь. Нам придётся убить его, чтобы самим выжить."
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08_puppeteer.cfg:316
+#: Girl_unDead/scenarios/08_puppeteer.cfg:370
+msgid "There is Puppeteer.  Catch him!"
+msgstr "Это Кукловод. Поймайте его!"
+
+#. [message]: speaker=unit
+#: Girl_unDead/scenarios/08_puppeteer.cfg:334
+msgid "Die, dirty corpse!"
+msgstr "Сдохни, грязный труп!"
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:366
+msgid "So you have found me, but you will regret having done so."
+msgstr "Вот вы и нашли меня. Но только сейчас об этом и пожалеете."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:374
+msgid "That is Puppeteer!  His army is quite troublesome."
+msgstr "Это Кукловод! Его армия доставит нам хлопоты."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:378
+msgid "He does not look so dangerous."
+msgstr "Он не выглядит таким уж опасным."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:382
+msgid "You will quickly learn that he is."
+msgstr "О, погоди немного, погоди."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:397
+msgid "You are Malica, are you not?"
+msgstr "Ты — Малика, или нет?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:401
+msgid "Why do you know me?"
+msgstr "Откуда ты меня знаешь?"
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:405
+msgid ""
+"There is no time to explain, but I will say that you mother is alive.  She "
+"is in the King's castle.  Only I can tell your mother is alive.  Go to the "
+"King's castle."
+msgstr ""
+"Нет времени объяснять. Единственное, что могу сказать — твоя мама жива. Она "
+"сейчас в королевском замке. Только я могу сообщить тебе о её судьбе. "
+"Поспешите в замок."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:409
+msgid "Please tell me more!...  He died..."
+msgstr "Пожалуйста, расскажи мне ещё!.. Он умер..."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:416
+msgid "Ah! My arms hurt!"
+msgstr "Ах! Мои руки болят!"
+
+#. [effect]
+#. [object]
+#: Girl_unDead/scenarios/08_puppeteer.cfg:436
+#: Girl_unDead/scenarios/08_puppeteer.cfg:419
+#: Girl_unDead/scenarios/08_puppeteer.cfg:650
+#: Girl_unDead/scenarios/08_puppeteer.cfg:633
+msgid "cursed bow"
+msgstr "проклятый лук"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:448
+msgid ""
+"You have been cursed during this battle.  Now you must be careful when you "
+"attack anyone."
+msgstr ""
+"Во время битвы тебя настигло проклятие. Теперь будь осторожней, когда "
+"попробуешь на кого-нибудь напасть."
+
+#. [message]: speaker=$second_unit.id
+#: Girl_unDead/scenarios/08_puppeteer.cfg:473
+msgid "Oh! It revived!"
+msgstr "О! Он возродился!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:477
+msgid "That is his strength.  As long as he lives, the corpses will revive."
+msgstr "В этом его сила. Пока он жив, трупы будут вновь и вновь подниматься."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:481
+msgid "Hmmm, his losses are not losses."
+msgstr "Хммм, его потери и не потери вовсе."
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08_puppeteer.cfg:513
+msgid ""
+"Alas!  I should have been bringing the eivish shaman from the sanctuary..."
+msgstr ""
+"Увы! Я выполнял приказ. Я должен был доставить эльфийскую шаманку в "
+"святилище..."
+
+#. [message]: speaker=Cyclos
+#. [message]: speaker=Malica
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:517
+#: Girl_unDead/scenarios/08_puppeteer.cfg:567
+#: Girl_unDead/scenarios/13_epilogue.cfg:130
+msgid "What?"
+msgstr "Что?"
+
+#. [message]: speaker=Kingdom
+#: Girl_unDead/scenarios/08_puppeteer.cfg:521
+msgid ""
+"Our mages are experimenting using elvish shamans in the sanctuary near here."
+msgstr ""
+"Наши маги проводят какие-то опыты, и им нужны эльфийские шаманки... Здесь, "
+"недалеко..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:525
+msgid "What a terrible thing it is!"
+msgstr "Какой ужас!"
+
+#. [message]: speaker=Bandits
+#: Girl_unDead/scenarios/08_puppeteer.cfg:535
+msgid "The royal army has lost.  Let's get out of here!"
+msgstr ""
+"Вот же ж хрен! Проиграла хвалёная королевская армия. Давайте убираться "
+"отседова!"
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:547
+msgid ""
+"Now, I'm free from the Kingdom.  And it is no use to battle each other we "
+"undead. Don't you think so, Lady Lich?"
+msgstr ""
+"Теперь я не подвластен королевским силам. И нам, мертвецам, нет никакого "
+"резона убивать друг друга. Разве не так, леди-лич?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:551
+msgid "Yes, I think so, too."
+msgstr "Я тоже так думаю."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:555
+msgid "You must be Malica, daughter of Veronica and niece of Varas."
+msgstr "Ты должно быть Малика, дочь Вероники и племянница Вараса."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:559
+msgid ""
+"How do you know my name? My mother, however, was Nina and Varas was my "
+"father."
+msgstr "Ты знаешь моё имя? Но мою маму звали Нина, а Варас был мне отцом."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:563
+msgid "Veronica was the real name of your mother.  She was Varas's sister."
+msgstr ""
+"Настоящим именем твоей матери было Вероника. И Варасу она приходилась "
+"сестрою."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:571
+msgid "Yes, it is true.  I shall tell you what I know about it ..."
+msgstr "Да-да, это правда. Я расскажу тебе всё, что знаю..."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/08_puppeteer.cfg:576
+msgid ""
+"Puppeteer explained that when he was young, there were three white mages "
+"with the potential to become the King's High Mage: Varas, Veronica, and "
+"Maltos.\n"
+"Randolf, the great mage of the Kingdom, was their teacher.\n"
+"One day, Varas and Veronica experimented with a magical spell suggested by "
+"Randolf.  It went wrong and Veronica became immortal while Varas became "
+"undead.  The two then disappeared. Maltos, who had loved Veronica, then "
+"turned to black mage and became the Puppeteer."
+msgstr ""
+"…Когда Кукловод был молод, жили на свете три волшебника столь искусные, что "
+"каждый из них был достоин должности верховного королевского мага. Звали их "
+"Варас, Вероника и Мальтос. \n"
+" Их наставником был один из самых могущественных волшебников королевства — "
+"Рэндольф Великий. \n"
+" Однажды Варас и Вероника работали над новым заклинанием, сложить которое "
+"поручил им Рэндольф. Никто не знает, что именно пошло не так, но последствия "
+"были печальны: Вероника стала бессмертной, а Варас обернулся ходячим трупом. "
+"Оба они исчезли с глаз людских. А Мальтос, - Мальтос всем сердцем любил "
+"Веронику - обезумел от горя и стал чёрным магом, известным всем под именем "
+"Кукловода."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/08_puppeteer.cfg:583
+msgid ""
+"Randolf desired immortality.  He searched for Veronica (your mother Nina) "
+"many years and when finally he believed he found her, he caused the daughter "
+"to die because he knew that Veronica's clan had the secret of how to revive "
+"the dead.  Randolf then misled Puppeteer into thinking that all the people "
+"of the village must be killed if Veronica was to be safe."
+msgstr ""
+"Рэндольф жаждал обрести бессмертие и все силы отдал на поиски Вероники "
+"(матери Малики, скрывающейся под именем Нины). Когда он отыскал свою "
+"сбежавшую ученицу, то обрёк на смерть её дочь. Старый маг, знал, что мать "
+"Малики владеет тайным знанием, которое способно вернуть к жизни ушедших из "
+"неё. Тогда Рэндольфу, опытному, красноречивому магу, удалось ввести в "
+"заблуждение потерявшему интерес к жизни Кукловода. Он убедил своего бывшего "
+"ученика уничтожить деревню и её жителей ради спасения Вероники."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/08_puppeteer.cfg:588
+msgid ""
+"Randolf did regain youthfulness through the power of Veronica, but this was "
+"not yet immortality.  Randolf then discovered that Malica was with Varas and "
+"he paid some orcs to seize her.  As part of his plan he felt he needed the "
+"healing power of elvish shamans, so he seized some and began to experiment.  "
+"In time Puppeteer figured out that Randolf had deceived him and had turned "
+"all the white mages against him."
+msgstr ""
+"Рэндольф, используя магию Вероники, и в самом деле сумел возвратить себе "
+"молодость, но не бессмертие. Тогда коварный маг принялся разыскивать "
+"уцелевшую Малику и обнаружил её вместе с другой своей пропажей — Варасом. "
+"Нанять алчных до золота орков — дело нехитрое, тем более, если в качестве "
+"работы пообещать им просто схватить мелкую девчёнку. Частью его планов стало "
+"и похищение эльфийских шаманок. В его опытах требовалась целительная "
+"магическая поддержка, но ни один белый маг при своем уме не стал бы "
+"содействовать сомнительным начинаниям Рэндольфа. К тому времени, когда "
+"Кукловод начал подозревать неладное, Рэндольф сумел настроить против него "
+"всех королевских магов."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:592
+msgid ""
+"The elvish shamans are imprisoned in a sanctuary near here.  Malica, your "
+"mother is in the King's castle."
+msgstr ""
+"Эльфийские шаманки сидят под замком в святилище неподалёку. А твоя мама, "
+"Малика, заточена в королевском замке."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:596
+msgid ""
+"My mother alive!  Thank you.  Thank you so much.  First we'll rescue the "
+"shamans, then we go to Weldyn."
+msgstr ""
+"Моя мама жива! Спасибо. Огромное спасибо! Тогда... Тогда сначала мы спасём "
+"шаманок, а потом пойдём в Велдин."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:600
+msgid "I shall bestow a special skill on an archer."
+msgstr "Я мог одарить лучника особым мастерством."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:605
+msgid "I am an excellent archer."
+msgstr "Я — неплохая лучница, но стать ещё лучше не откажусь."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:609
+msgid ""
+"This skill is meant for neither human nor elf.  It is cursed with spells of "
+"the Chaos."
+msgstr ""
+"Но это мастерство не предназначено ни для человека, ни для эльфа. Его "
+"источник — в заклятиях Хаоса."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:613
+msgid "I care not. Please give me it."
+msgstr "Не важно. Пожалуйста, сделай меня сильнее."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/08_puppeteer.cfg:617
+msgid "Stella?  Think about this."
+msgstr "Стелла? Подумай хоть минутку, что ты делаешь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:621
+msgid "I think this skill will not be good for you."
+msgstr "Думаю, для тебя этот дар станет отравой."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/08_puppeteer.cfg:625
+msgid "I gladly take this risk to help Cyclos, ...and our tribe."
+msgstr ""
+"Что, Циклос один вправе отдавать свою жизнь ради общего блага?.. Я помогу "
+"ему и нашему народу."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:629
+msgid ""
+"I see.  I'll give it to you.  But be aware that it will erode both mind and "
+"body over time."
+msgstr ""
+"Я понимаю. И вручаю тебе свой дар. Но знай, что постепенно он разрушит и "
+"твой разум и твоё тело."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:663
+msgid ""
+"I really want to get to Weldyn, but since the sanctuary is near, we'll go "
+"there first."
+msgstr ""
+"Я так хочу поскорее добраться до Велдина, но святилище рядом, и сначала мы "
+"зайдём туда."
+
+#. [message]: speaker=Puppeteer
+#: Girl_unDead/scenarios/08_puppeteer.cfg:667
+msgid "Pray for good fortune in this war."
+msgstr "Молитесь, чтобы удача сопутствовала нам."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:739
+msgid "What's that?"
+msgstr "Что это?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:747
+msgid "Oh! It's the legendary ring of Gold Angel."
+msgstr "О! Это легендарное кольцо Золотого Ангела."
+
+#. [message]: type=Gold Chocobone
+#. [message]: type=Silver Chocobone
+#. [message]: type=Dread Bat
+#: Girl_unDead/scenarios/08_puppeteer.cfg:752
+#: Girl_unDead/scenarios/08_puppeteer.cfg:768
+#: Girl_unDead/scenarios/08_puppeteer.cfg:784
+msgid "I'll follow you forever."
+msgstr "Я всегда буду следовать за тобой."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:756
+msgid "You should be very useful in battle."
+msgstr "Ты должно быть очень хороший воин."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:763
+msgid "Oh! It's the legendary ring of Silver Angel."
+msgstr "О! Это - легендарное кольцо Серебряного Ангела."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:772
+msgid "You should be useful in battle."
+msgstr "Ты должно быть хороший воин."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/08_puppeteer.cfg:779
+msgid "Hum, It's a ordinary ring."
+msgstr "Хм, это обычное кольцо."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/08_puppeteer.cfg:788
+msgid " doubt that you will be much help."
+msgstr "Сомневаюсь, что от тебя будет прок."
+
+#. [scenario]: id=09_sanctuary
+#: Girl_unDead/scenarios/09_sanctuary.cfg:6
+msgid "Sanctuary"
+msgstr "Святилище"
+
+#. [side]: id=White Mage, type=Mage of Light
+#. [side]: id=Great Mage, type=Great Mage
+#: Girl_unDead/scenarios/09_sanctuary.cfg:80
+#: Girl_unDead/scenarios/09_sanctuary.cfg:94
+msgid "Royal Mage"
+msgstr "Королевский Маг"
+
+#. [side]
+#: Girl_unDead/scenarios/09_sanctuary.cfg:205
+msgid "Corpse"
+msgstr "Труп"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/09_sanctuary.cfg:216
+msgid "Defeat all the enemies leader"
+msgstr "Победите вражеских лидеров"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:268
+msgid "That structure looks more like a fortress than a temple."
+msgstr "Это строение больше напоминает крепость, чем храм."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:272
+msgid ""
+"This region is as bright as the day though it is not yet dawn.  And, I can "
+"not know the layout of the building."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:276
+msgid "I sense strong magic here.  The Mages may be creating this light."
+msgstr ""
+"Здесь очень сильная магия. И этот свет волшебники черпают прямо из неё."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:280
+msgid "Will it hinder us?"
+msgstr "Нам это помешает?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:284
+msgid "I don't know.  I do know that we will be unwelcome."
+msgstr "Не знаю. Я понимаю только, что рады нам не будут."
+
+#. [event]
+#: Girl_unDead/scenarios/09_sanctuary.cfg:299
+msgid "Hendrich"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/09_sanctuary.cfg:302
+msgid "Not Kill me! Please forgive me!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:306
+msgid "Here is a smelly human mage."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:310
+msgid "Are you hiding yourself from us?"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/09_sanctuary.cfg:314
+msgid "No. I'm escaping from the temple."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:318
+msgid "Why?"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/09_sanctuary.cfg:322
+msgid ""
+"The kingdom is doing abomination experiments with elvish shamans as "
+"materials.  I could not bear it."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:326
+msgid ""
+"Oh! Loana!  I will break the front of the temple even now and go to rescue "
+"you."
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/09_sanctuary.cfg:330
+msgid "The front gate is very solid, but the back door protection is loose."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:346
+msgid "Thank you. What do you do after?"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/09_sanctuary.cfg:350
+msgid ""
+"Despite being undead, you look better than a human being. I want to be your "
+"help."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:354
+msgid "It will be good."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:358
+msgid "Dammit, do it on your own."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:378
+msgid "The shroud is cleared."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:382
+msgid "It is certainly thanks to Hendrich."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:386
+msgid "Sometimes even a mage can be useful.."
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/09_sanctuary.cfg:390
+msgid "I will do my best and I will be more helpful."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:404
+msgid "Oh, it's dazzling!  Withdraw the previous word!"
+msgstr ""
+
+#. [unit]: id=Loana, type=Elvish Shyde
+#. [unit]: type=Soulless, id=Loana_dead
+#: Girl_unDead/scenarios/09_sanctuary.cfg:579
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1057
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1149
+msgid "Loana"
+msgstr "Луанна"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:607
+msgid "Loana!  I've come to save you."
+msgstr "Луанна! Я пришел спасти тебя!"
+
+#. [message]: speaker=Loana
+#: Girl_unDead/scenarios/09_sanctuary.cfg:611
+msgid ""
+"Cyclos! Thank you.  I have hoped to see you for quite some time.  "
+"Unfortunately we cannot now return with you.  The hideous experiments we "
+"have suffered have made that impossible.  We will, however, fight alongside "
+"you so long as we can."
+msgstr ""
+"Циклос! Благодарю за всё. Я так долго мечтала ещё раз увидеть тебя. Но увы, "
+"отвратительные эксперименты, которые мы перенесли, делают невозможным наше "
+"возвращение... Но мы будем сражаться рядом с вами, пока хватит оставленных "
+"нам сил."
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/09_sanctuary.cfg:616
+msgid "Defeat enemies leader."
+msgstr "Победите вражеского лидера."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/09_sanctuary.cfg:620
+msgid "Death of Malica."
+msgstr "Смерть Малики."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/09_sanctuary.cfg:624
+msgid "Death of Poet."
+msgstr "Смерть Поэта."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/09_sanctuary.cfg:628
+msgid "Death of Cyclos."
+msgstr "Смерть Циклоса."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/09_sanctuary.cfg:632
+msgid "Death of Stella."
+msgstr "Смерть Стеллы."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/09_sanctuary.cfg:636
+msgid "Death of Loana."
+msgstr "Смерть Луанны."
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/09_sanctuary.cfg:640
+msgid "Time over."
+msgstr "Врем заканчивается."
+
+#. [message]: speaker=$shaman_stored.id
+#: Girl_unDead/scenarios/09_sanctuary.cfg:691
+msgid "Ugh, sore..."
+msgstr "Ах, рана..."
+
+#. [message]: speaker=$shaman_stored.name
+#. [message]: speaker=Loana_dead
+#: Girl_unDead/scenarios/09_sanctuary.cfg:710
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1066
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1158
+msgid "Uuh...Uuh...Uuh..."
+msgstr "Ах... Ах... Ах..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:801
+#: Girl_unDead/scenarios/09_sanctuary.cfg:905
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1009
+msgid "Why there are so many corpses ?"
+msgstr "Откуда здесь столько трупов?"
+
+#. [message]: speaker=Loana
+#: Girl_unDead/scenarios/09_sanctuary.cfg:810
+#: Girl_unDead/scenarios/09_sanctuary.cfg:914
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1018
+msgid "They once were shamans as me..."
+msgstr "Когда-то они были шаманками, как и наши..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:816
+#: Girl_unDead/scenarios/09_sanctuary.cfg:920
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1024
+msgid "... No! They were elvish shamans! Why?"
+msgstr "...Нет! Нет! Почему?"
+
+#. [message]: speaker=Loana
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1035
+msgid ""
+"Cyclos, thank you again for coming.  I love you, but I must now say good bye."
+msgstr ""
+"Циклос, ещё раз благодарю тебя, что пришел. Я всегда любила и люблю тебя, но "
+"теперь нам пора расстаться."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1039
+msgid ""
+"Loana!  Think!  There must be some cure.  We'll go back home and figure this "
+"out!"
+msgstr ""
+"Луанна! Одумайся! Ведь должно же быть какое-нибудь средство. Мы вернёмся в "
+"родные леса и найдём выход!"
+
+#. [message]: speaker=Loana
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1043
+msgid "I thank you, but my time is over.  Good bye Cyclos...Ugh!!"
+msgstr "Спасибо, Циклос, но моё время здесь закончилось. Прощай... Ах..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1070
+msgid "Loana...Why did it have to be you.."
+msgstr "Луанна... Почему это должно было случиться с тобой..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1074
+msgid "Be gone!  All corpses by my hand!"
+msgstr "Прочь! Все трупы под моей рукой!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1094
+msgid ""
+"Was what I did necessary?  I'm sorry, Cyclos, but corpses lose the memories "
+"of their former life.  They exist only in pain."
+msgstr ""
+"Насколько правильно я поступила? Мне жаль, Циклос, но трупы ничего не помнят "
+"о прежней жизни. Их существование одна лишь боль."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1098
+msgid "I know... Poet, our agreement is fulfilled. Kill me... please!"
+msgstr "Я знаю... Поэт, наш договор выполнен. Убей меня... пожалуйста!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1102
+msgid ""
+"No!  Your life is now mine.  I will decide when you die. You elves need rest "
+"and I need to rebuild my army.  Is there a place nearby where we can hide?"
+msgstr ""
+"Нет! Теперь твоя жизнь принадлежит мне. И только мне решать, когда ты "
+"умрёшь. Твоим эльфам нужно отдохнуть, и мне надо восстановить свою армию. "
+"Есть ли поблизости место, где мы могли бы укрыться?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1106
+msgid ""
+"At the foot of the Northern Mountains there is a place which human will not "
+"go.  They believe dangerous creatures exist there."
+msgstr ""
+"У подножия Северных Гор есть такое местечко, куда люди не сунутся. Они "
+"считают, что там водятся опасные существа."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1110
+msgid "Poet, lead the way."
+msgstr "Веди нас, Поэт."
+
+#. [message]: speaker=Loana
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1127
+msgid ""
+"Cyclos!  Thank you for coming to me.  I love you, but, I must now say good "
+"bye."
+msgstr ""
+"Циклос! Спасибо, что пришел за мной. Я люблю тебя, но настало время "
+"прощаться."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1131
+msgid "Loana!  No!  There must be a cure.  Return home with me!"
+msgstr "Луанна! Нет! Должно же быть средство. Вернёмся домой!"
+
+#. [message]: speaker=Loana
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1135
+msgid "Thank you, but I have no more time.  Good bye, Cyclos...Ugh!!"
+msgstr "Спасибо, но у меня нет больше времени... Прощай, Циклос... Ах..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1162
+msgid "Loana...Why you..."
+msgstr "Луанна... Почему ты..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1166
+msgid "Vanish, all you corpses, by my hand!"
+msgstr "Сгинь! Все вы трупы под моей рукой!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1186
+msgid "Loana!!  No!!"
+msgstr "Луанна!!! Нет!"
+
+#. [scenario]: id=10_a_long_day
+#: Girl_unDead/scenarios/10_a_long_day.cfg:6
+msgid "a long day"
+msgstr "Долгий день"
+
+#. [side]
+#: Girl_unDead/scenarios/10_a_long_day.cfg:55
+msgid "Snow Monster"
+msgstr "Снежный монстр"
+
+#. [part]
+#: Girl_unDead/scenarios/10_a_long_day.cfg:73
+msgid ""
+"Because Cyclos was sad from the loss of Loana and the other elves were tired "
+"from the fighting, they retreated into the mountains."
+msgstr ""
+"Циклос был сражен утратой Луанны, другие эльфы устали от боёв и потому "
+"последовали в горы за мёртвой армией."
+
+#. [part]
+#: Girl_unDead/scenarios/10_a_long_day.cfg:76
+msgid ""
+"The freed shamans, strange to say, had ceased turning into undead.  It was "
+"thought that Malica's magical powers had cured them."
+msgstr ""
+"Освобождённые шаманки, что было странно, перестали превращаться в мертвецов. "
+"Считалось, что такое благотворное воздействие оказывает окружающая Малику "
+"волшебная аура."
+
+#. [part]
+#: Girl_unDead/scenarios/10_a_long_day.cfg:79
+msgid ""
+"Although the shamans had been cured, their magical gift had turned toward "
+"something dark."
+msgstr ""
+"Но хотя шаманки восстанавливали свои силы, их магическое искусство "
+"постепенно приобретало тёмные черты."
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/10_a_long_day.cfg:87
+msgid "Kill the animals"
+msgstr "Убейте животных"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:127
+msgid "Are you sure this is a safe place to hide?"
+msgstr "Ты и в самом деле полагаешь это место надёжным укрытием?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/10_a_long_day.cfg:131
+msgid "People fear this place, so few come.  But we may face some monsters."
+msgstr ""
+"Те немногие, что рискуют уйти на север, сторонятся подножия Северных Гор. "
+"Правда, нам могут повстречаться причины их страха."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:135
+msgid ""
+"We will rest here, but station guards at the entrance of this valley just in "
+"case."
+msgstr ""
+"Ну что ж, здесь и отдохнём. Но дозоры у входа в долину выставить нужно "
+"обязательно."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:139
+msgid "Cyclos, the elves need food and I see a bear over there."
+msgstr "Циклос, вам, живым, нужна пища. Вон, посмотри, там медведь."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:149
+msgid "We do not butcher animals for food."
+msgstr "Мы не убиваем животных ради еды."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/10_a_long_day.cfg:153
+msgid ""
+"You look like you have no energy.  Better to hunt so you can regain your "
+"vigor."
+msgstr ""
+"Но как же тогда вы пополните свои силы? Растений тут нет. Лучше охотиться, "
+"чем умирать с голоду."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:157
+msgid "I will go.  Stella, join me."
+msgstr "Эх... Я пойду. Стелла, давай со мной."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/10_a_long_day.cfg:161
+msgid "Yes I will, glad..."
+msgstr "Да я с удовольствием..."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/10_a_long_day.cfg:165
+msgid "(Stella! Wait!)"
+msgstr "(Стелла! Постой!)"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/10_a_long_day.cfg:169
+msgid "Ah... I better stay here to guard this magic bow."
+msgstr "Ах... Лучше останусь здесь охранять волшебный лук."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:173
+msgid "Stella!  Thank you!  Cyclos, let's go."
+msgstr "Ой, Стелла, спасибо тебе! Пошли, Циклос."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/10_a_long_day.cfg:177
+msgid ""
+"Stella, you did the right thing.  Malica knows that you love Cyclos.  He is "
+"the only who who doesn't know.  She has an idea and wanted to be alone with "
+"him."
+msgstr ""
+"Стелла, ты правильно поступила, что осталась. Малика знает, что ты любишь "
+"Циклоса. А он, похоже, единственный, кто этого не замечает. Мою принцессу "
+"посетила одна интересная мысль, и ей нужно побыть с Циклосом наедине."
+
+#. [message]: speaker=Troll Child
+#: Girl_unDead/scenarios/10_a_long_day.cfg:181
+msgid "???"
+msgstr "???"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/10_a_long_day.cfg:185
+msgid "Now, let's take a break in the ruin."
+msgstr "Теперь можно расслабиться среди руин."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:220
+msgid "I feel some wonderful power arises when we are together.  Don't you?"
+msgstr ""
+"Знаешь, когда ты рядом, я прям чувствую, как между нами возникает какая-то "
+"сила. Ты заметил?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:224
+msgid ""
+"I feel it too.  Odd that we are attracted to each other although there is "
+"nothing in common between us."
+msgstr ""
+"Я тоже чувствую её. Странно, что нас тянет друг к другу, хотя между нами нет "
+"ничего общего."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:228
+msgid ""
+"Do you think that?  Consider that the decoration on your sword is very "
+"similar to my ...... "
+msgstr ""
+"Ты правда так думаешь? Посмотри, узоры на наших мечах так похожи между "
+"собою..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:232
+msgid ""
+"Wait.  Let's attack the bear together.  I feel somthing will happen then."
+msgstr ""
+"Погоди. Давай вместе нападём на медведя? Вот чувствую, что-то тогда "
+"произойдёт необычное."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:236
+msgid "Sigh...All right."
+msgstr "Эх... Хорошо."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/scenarios/10_a_long_day.cfg:242
+msgid ""
+"Malica and Cyclos have a coordinated attack that occurs only if the two are "
+"adjacent."
+msgstr ""
+"Малика и Циклос смогут слаженно напасть на медведя, только если будут рядом "
+"друг с другом."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:269
+#: Girl_unDead/scenarios/10_a_long_day.cfg:294
+msgid "Oh, a yeti!"
+msgstr "Ох, йети!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:273
+#: Girl_unDead/scenarios/10_a_long_day.cfg:298
+msgid "Oh, how much meat can we get from the yeti?"
+msgstr "А сколько мяса можно получить с йети?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:277
+#: Girl_unDead/scenarios/10_a_long_day.cfg:302
+msgid "Don't be stupid!  It is very dangerous!"
+msgstr "Не глупи! Это очень опасно!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:313
+msgid "We have killed the big beast."
+msgstr "Мы убили огромного зверя."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:317
+msgid "Yes, but how do we take it back to our camp?"
+msgstr "Ага. Но как мы его притащим в лагерь?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:321
+msgid ""
+"My soldiers will carry it later. Ah, this is a beautiful place, isn't it?"
+msgstr "Мои солдаты принесут его. Попозже. А здесь красиво, не правда ли?"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:325
+msgid ""
+"Yes. I would not have thought there was a place like this at the foot of "
+"such a steep mountain ..."
+msgstr ""
+"Да. И не подумал бы, что подножия заснеженных гор могут скрывать такую "
+"красоту..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:329
+msgid "I may forget the terrible battle...."
+msgstr "Меня преследуют кошмары последней битвы..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:333
+msgid "....."
+msgstr "....."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:337
+msgid ""
+"You are thinking of Loana.  You would be with her now if we could have "
+"rescued her a little earlier.  I'm sorry."
+msgstr ""
+"Ты и сейчас вспоминаешь о Луанне. Вот здесь вы могли бы гулять с ней, если "
+"бы мы успели её спасти. Мне так жаль."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:341
+msgid ""
+"Malica, don't worry.  I apologize that I was upset at the time. I still "
+"grieve about losing her, yet my heart becomes calm in your presence."
+msgstr ""
+"Не переживай, Малика. И прости меня, что дал волю своим чувствам. Я всё ещё "
+"оплакиваю свою потерю, но моё сердце успокаивается, когда я рядом с тобой."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:345
+msgid "It is strange that we talk to one another, instead of being enemies."
+msgstr ""
+"Странная штука жизнь. Мы говорим друг с другом, вместо того, что друг друга "
+"убить."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:349
+msgid "Sure.  I dwell in darkness while you belong to a noble race."
+msgstr "В самом деле. Моё место во тьме, а ты... а ты из благородного народа."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:353
+msgid ""
+"Sometimes I forget you are undead.  And sometimes I feel I have long known "
+"you."
+msgstr ""
+"Иногда я забываю, что ты — мертвец. У меня такое чувство, что я всегда тебя "
+"знал."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:357
+msgid "Yes, I feel we have some sort of connection..."
+msgstr "Да, я тоже чувствую связь между нами..."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:361
+msgid "The sun will soon go down.  We must return to camp."
+msgstr ""
+"Солнце скоро сядет. Нужно вернуться, чтобы успеть поставить лагерь до "
+"темноты."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/10_a_long_day.cfg:365
+msgid "...Sorry, I speak too much.  Let's go."
+msgstr "...Прости, я, наверное, слишком много говорю... Пойдём в лагерь."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/10_a_long_day.cfg:381
+msgid "Loana...forgive me..."
+msgstr "Луанна... прости меня..."
+
+#. [scenario]: id=11_intrusion
+#: Girl_unDead/scenarios/11_intrusion.cfg:7
+msgid "Intrusion"
+msgstr "Вторжение"
+
+#. [part]
+#: Girl_unDead/scenarios/11_intrusion.cfg:20
+msgid ""
+"Because the guards at the King's castle were numerous and strong, Malica "
+"used the darkness of the night to sneak into the castle."
+msgstr ""
+"Охрана в королевском замке была хорошо обучена и многочисленна, потому "
+"Малика прокралась туда под покровом ночи."
+
+#. [side]
+#: Girl_unDead/scenarios/11_intrusion.cfg:248
+msgid "Mermaid"
+msgstr "Русалка"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/11_intrusion.cfg:278
+msgid ""
+"Get as many units as possible through the castle's gate (Malica must enter "
+"last.)"
+msgstr ""
+"Пропустите как можно больше бойцов через ворота замка (Малика должна пройти "
+"последней.)"
+
+#. [objective]: condition=lose
+#: Girl_unDead/scenarios/11_intrusion.cfg:286
+msgid "Malica and the other heros fail to reach the gate"
+msgstr "Малика и другие герои не доходят к воротам"
+
+#. [note]
+#: Girl_unDead/scenarios/11_intrusion.cfg:310
+msgid "Maximum 23 units can enter the gate (Including Malica)."
+msgstr "Только 23 бойца, включая Малику, могут пройти внутрь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/11_intrusion.cfg:365
+msgid "My Princess, we must enter the gate of the castle before morning."
+msgstr ""
+"Моя принцесса, мы должны успеть оказаться в стенах замка до восхода солнца."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/11_intrusion.cfg:370
+msgid "All right.  How do you know about this castle."
+msgstr "Хорошо, как скажешь. Ты лучше меня знаешь этот замок."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/11_intrusion.cfg:374
+msgid "Ah... I can't hear you say because it is too cold..."
+msgstr "Ах... Из-за жуткого холода я не услышал твои слов."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/11_intrusion.cfg:378
+msgid "Anyway the lighthouse lights are dazzling."
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/11_intrusion.cfg:387
+msgid ""
+"The　great Mage is protecting the castle with the fire of that lighthouse."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/11_intrusion.cfg:391
+msgid "How?"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/11_intrusion.cfg:395
+msgid "...  Sorry, I've forgotten."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/11_intrusion.cfg:399
+msgid "Damm.  Poor mage is useless!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/11_intrusion.cfg:436
+msgid "Sorry!  I cann't enter the gate!"
+msgstr "Увы! Не могу пройти в ворота!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/11_intrusion.cfg:465
+msgid "Poet!  Don't disappear!"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/11_intrusion.cfg:505
+#: Girl_unDead/utils/gud_utils.cfg:689
+msgid "Oh, I remember!  We must put out the fire of all the lighthouses."
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/11_intrusion.cfg:509
+#: Girl_unDead/utils/gud_utils.cfg:693
+msgid ""
+"The undead that entered the castle will be burnt out by the sacred fire."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/11_intrusion.cfg:561
+#: Girl_unDead/scenarios/11_intrusion.cfg:575
+#: Girl_unDead/scenarios/11_intrusion.cfg:589
+msgid "It's midnight now."
+msgstr "Полночь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/11_intrusion.cfg:604
+#: Girl_unDead/scenarios/11_intrusion.cfg:618
+#: Girl_unDead/scenarios/11_intrusion.cfg:632
+msgid "Hurry! The sun rises."
+msgstr "Поспешите! Уже светает."
+
+#. [message]: speaker=Mermaid Princess
+#: Girl_unDead/scenarios/11_intrusion.cfg:665
+msgid ""
+"Lady Lich, do you remember me?  I shall build a magical bridge to the "
+"castle.  You may cross the bridge."
+msgstr ""
+"Леди-лич, ты помнишь меня? Я построю волшебный мост к замку. И ты сможешь "
+"пройти по нему."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/11_intrusion.cfg:674
+msgid "Mermaid Princess, thank you."
+msgstr "Спасибо, принцесса русалок."
+
+#. [effect]
+#: Girl_unDead/scenarios/11_intrusion.cfg:713
+msgid "staff"
+msgstr "посох"
+
+#. [effect]
+#: Girl_unDead/scenarios/11_intrusion.cfg:721
+#: Girl_unDead/scenarios/11_intrusion.cfg:754
+msgid "thorns"
+msgstr "шипы"
+
+#. [effect]
+#: Girl_unDead/scenarios/11_intrusion.cfg:746
+msgid "faerie touch"
+msgstr "волшебное касание"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/11_intrusion.cfg:779
+msgid "Sorry!  I can't enter the gate!"
+msgstr "Увы! Не могу пройти в ворота!"
+
+#. [scenario]: id=12_castle
+#: Girl_unDead/scenarios/12_castle.cfg:7
+msgid "Castle"
+msgstr "Замок"
+
+#. [side]: id=White Elder Mage, type=White Elder Mage
+#. [unit]: type=Necrophage, id=Rotten Mage
+#: Girl_unDead/scenarios/12_castle.cfg:36
+#: Girl_unDead/scenarios/12_castle.cfg:39
+#: Girl_unDead/scenarios/12_castle.cfg:979
+msgid "White Elder Mage"
+msgstr "Старый Белый Маг"
+
+#. [unit]: type=Free Mage, id=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:50
+msgid "Mother"
+msgstr "Мама"
+
+#. [side]: id=King, type=Royal Warrior
+#: Girl_unDead/scenarios/12_castle.cfg:60
+msgid "King"
+msgstr "Король"
+
+#. [side]: id=King, type=Royal Warrior
+#: Girl_unDead/scenarios/12_castle.cfg:63
+msgid "Royal Guard"
+msgstr "Королевская стража"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/12_castle.cfg:258
+#: Girl_unDead/scenarios/12_castle.cfg:1032
+msgid "Defeat the Elder Great Mage"
+msgstr "Одолейте Старого Великого Мага"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:353
+msgid "My Lord, undead have come."
+msgstr "Мой господин, мертвецы уже здесь."
+
+#. [message]: speaker=King
+#: Girl_unDead/scenarios/12_castle.cfg:357
+msgid ""
+"Ha, they are stupid.  When I capture her, I shall be able to gain perpetual "
+"youth and immortality."
+msgstr ""
+"Ха, они глупы. Когда я захвачу ведущую их девчонку, то обрету вечную "
+"молодость и бессмертие."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:361
+msgid "Yes, my Lord. (Ha, you are the stupid one.)"
+msgstr "Да, мой король. (Ха, ты и сам глуп.)"
+
+#. [message]: speaker=King
+#: Girl_unDead/scenarios/12_castle.cfg:365
+msgid ""
+"And as we gain more immortal mages, our plan will be fulfilled faster.  Then "
+"we can eradicate all creatures of darkness."
+msgstr ""
+"И у нас будет достаточно бессмертных магов, чтобы раз и навсегда избавить "
+"мир от исчадий тьмы."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:369
+msgid "Yes, my Lord. (But you won't live to see it.)"
+msgstr "Да, мой король. (Только ты этого уже не увидишь)"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:373
+msgid ""
+"(Ah, Malica has come!  Disaster awaits her, but I can't help her.  Sorry, "
+"sorry Malica...)"
+msgstr ""
+"(Ах, здесь Малика! Она явилась прямиком в ловушку, а я ничем не могу ей "
+"помочь...)"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:384
+msgid ""
+"I've reached the castle, but I'm afraid to meet Mom because I am too ugly."
+msgstr ""
+"Я пробралась в замок, но теперь мне страшно встретить свою маму. Я слишком "
+"уродливая."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:388
+msgid ""
+"Don't worry.  Your soul is very beautiful.  And I think your mother must be "
+"very gentle and she loves you yet."
+msgstr ""
+"Не волнуйся. Твоя душа прекрасна. И думаю, что для твоей матери это самое "
+"главное."
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:392
+#: Girl_unDead/scenarios/12_castle.cfg:629
+msgid "Thank you, Cyclos."
+msgstr "Спасибо, Циклос."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:396
+msgid "There is nothing more beautiful than a bare skull."
+msgstr "Нет ничего красивее голого черепа."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:400
+msgid "My Princess, Be careful. This castle is a labyrinth."
+msgstr "Будь осторожней, моя принцесса, это замок — настоящий лабиринт."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:404
+msgid "I see.  Poet, why are you familiar with this castle?"
+msgstr "Я уже вижу, Поэт. Но откуда ты так много знаешь про этот замок?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:408
+msgid "What?  I can't hear you because of the noise."
+msgstr "Что? Я не слышу тебя. Тут так шумно."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:474
+msgid "Oh no!  Our race has been burnt out by the sacred fire."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:478
+msgid "Even so why were you not burned?"
+msgstr ""
+
+#. [message]: speaker=Hendrich
+#: Girl_unDead/scenarios/12_castle.cfg:482
+msgid "I don't know why.  But I feel you are closer to humans than undead"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:486
+msgid "...."
+msgstr "...."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:490
+msgid "Anyhow now we have to move forward,  my Princess."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:505
+msgid "Oh, Mom!!"
+msgstr "Ой, мамочка!!!"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:509
+msgid "Malica!!  I've dreamed of you seeing you again."
+msgstr "Малика!!! Я так мечтала вновь увидеть тебя."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:513
+msgid ""
+"Ha ha ha.  Such an impressive reunion.  But listen, undead girl, your mother "
+"is now on our side.  What are you going to do?"
+msgstr ""
+"Ха-ха-ха. Как трогательно, дочь обрела мать, у меня слезы наворачиваются. Но "
+"послушай, мёртвая девочка, сейчас твоя мама на стороне живых. Что же ты "
+"предпримешь?"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:521
+msgid "Gilgant, or Poet, you did a good job to bring the undead girl here."
+msgstr ""
+"Благодарю тебя, Гайлгэнт, или Поэт, ты отлично справился со своей задачей, "
+"приведя девчонку в нужное место."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:525
+msgid "Damn.  I did it not for you.  It's Malica's wish to come here."
+msgstr "Проклятье. Я делал это не для тебя. Это было её собственное желание."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:529
+msgid "What?  Pleace explain for me, Poet."
+msgstr "Что? Пожалуйста, объясни, Поэт, я ничего не понимаю."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:537
+msgid ""
+"I will explain in his place.  It was easy to find Varas, after he had "
+"disappeared.  But, I don't catch him, but I've send a  most faithful, most "
+"talented and most brutal soldier as a spy to Varas.  Because I wanted to not "
+"Varas but Veronica.  The name of the spy is Gilgant, he is now called Poet.  "
+"Come here, I will return you to original form."
+msgstr ""
+"Я объясню вместо него, девочка. Отыскать Вараса после его бегства особого "
+"труда не составило. Но мне незачем было его ловить, а из виду терять не "
+"хотелось. Вот я и направил своего самого талантливого и самого жестокого "
+"солдата в качестве разведчика к Варасу. Ибо, как ты понимаешь, мне был нужен "
+"не Варас, а Вероника. Имя разведчика — Гайлгэнт, сейчас вы называете его "
+"Поэтом. Подойди ко мне, Гайлгэнт-Поэт, и я верну тебе твой изначальный облик."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:541
+msgid "No!  It isn't truth, Poet!"
+msgstr "Нет! Это же неправда, Поэт!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:545
+msgid "Yes...  It's truth."
+msgstr "Да... Это правда."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:549
+msgid "Oh..."
+msgstr "Ох..."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:553
+msgid "Gilgant, Why did you stop report after we annihilated the village?"
+msgstr ""
+"Гайльгэнт, а скажи пожалуйста, почему ты не отправил мне донесение после "
+"того, как мы ликвидировали деревню?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:557
+msgid ""
+"I noticed that you were wrong, when I knew what happened the village.  The "
+"King who must protect his people, harmed his people."
+msgstr ""
+"Я понял, что твой поступок был недостоин верховного мага, когда узнал, что "
+"произошло с деревней. Король, который должен защищать своих подданных, сам "
+"же и убивал верных ему людей."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:561
+msgid "Little evil is unavoidable for the greater good."
+msgstr "Маленькое зло ради всеобщего блага."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:565
+msgid ""
+"I cann't understand highly political things, but I know you did it only for "
+"your interest."
+msgstr ""
+"Я не очень-то разбираюсь в политике, но знаю, что произошедшее не было в "
+"интересах королевства. Ты поступил так только для своей собственной выгоды."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:569
+msgid "Do you against me?  You shuld never return to human."
+msgstr ""
+"О, мой некогда верный воин, ты выступаешь против меня? Увы, теперь тебе "
+"никогда не вернуться к своему истинному обличию."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:573
+msgid "It's good!"
+msgstr "Меня это устраивает!"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:577
+msgid "SO BE IT!"
+msgstr "ПУСТЬ ТАК И БУДЕТ!"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:581
+msgid "Young elf."
+msgstr "Юный эльф."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:585
+msgid "Me?"
+msgstr "Я?"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:589
+msgid ""
+"Yes.  I teach you a good news.  The undead who killed your father is in "
+"front of you."
+msgstr ""
+"Да. У меня для тебя есть хорошая новость. Тот чудовищный мертвец, лишивший "
+"жизни твоего достойного отца - он прямо перед тобой."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:593
+msgid "What do you mean?"
+msgstr "Что ты имеешь в виду?"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:597
+msgid "Gilgant, no Poet is the undead!  Take revenge of your father with me."
+msgstr "Гайлгэнт, он же Поэт, и есть тот самый мертвец. "
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:601
+msgid "Um..."
+msgstr "Гм..."
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/12_castle.cfg:609
+#: Girl_unDead/scenarios/12_castle.cfg:613
+msgid "Cyclos..."
+msgstr "Циклос..."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:617
+msgid "Cyclos, please help my daughter.  Defeat Randolf.  Never mind for me."
+msgstr ""
+"Циклос, прошу тебя, помоги моей дочери. Убей Рэндольфа. Не стоит отвлекаться "
+"на моё спасение."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:621
+msgid "Mom!?"
+msgstr "Мама?!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:625
+msgid "Randolf, I defeat you with Malica.  I never lose whom I love any more."
+msgstr ""
+"Рэндольф, вместе с Маликой я одолею тебя. Никогда я не предам тех, кого "
+"люблю."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:633
+msgid "Thank you..."
+msgstr "Спасибо..."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:637
+#: Girl_unDead/scenarios/12_castle.cfg:652
+msgid "You are fool to fight against me."
+msgstr "Какие же вы глупцы, раз решили бороться против меня."
+
+#. [message]: speaker=unit
+#: Girl_unDead/scenarios/12_castle.cfg:662
+msgid "My attack has no effect."
+msgstr "Мои удары не причиняют ему вреда."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:666
+msgid "Fool, I am invincible so long as the woman lives."
+msgstr "Глупец, меня невозможно убить, пока жива дарующая мне силы женщина."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:670
+msgid ""
+"Malica, you must kill me!  The king intends to make a second sun.  If he "
+"does so, the balance of the world will be shattered."
+msgstr ""
+"Малика, ты должна убить меня! Король в своей гордыне собирается создать "
+"второе солнце. Если он так добьётся своего, то мир канет в бездну."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:674
+msgid "No!  I can't kill you!"
+msgstr "Нет! Я не могу убить тебя!"
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:678
+msgid ""
+"Only a kinsman of mine is able to kill me.  That is you and no one else.  "
+"Now, be quick about it!"
+msgstr ""
+"Только родная мне кровь способна оборвать мою жизнь. Только ты, моя "
+"доченька, и никто более. А сейчас, быстрее, не мешкай!"
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/12_castle.cfg:682
+msgid "Defeat Mother by Malica"
+msgstr "Победите мать Малики"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:715
+msgid "Ha ha.  No one can hurt me!"
+msgstr "Ха-ха! Никто не в силах причинить мне боль!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:735
+msgid "Ah, sorry, sorry Mom..."
+msgstr "Ах, прости, прости, мама..."
+
+#. [message]: speaker=Mother
+#: Girl_unDead/scenarios/12_castle.cfg:739
+msgid "Malica, it's alright.  I thank you.  Good bye, Malica."
+msgstr "Всё хорошо, доченька. Спасибо тебе. Прощай, Малика."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:746
+msgid "Mom!!"
+msgstr "Мама!!!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:750
+msgid "Mage Randolf, you are no longer immortal.  Surrender or die!"
+msgstr "Маг Рэндольф, ты больше не бессмертен. Сдавайся или умрёшь."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:754
+msgid ""
+"Ha Ha Ha.  The heads of undead are certainly empty.  Haven't you noticed, "
+"little girl, that you are already mine?"
+msgstr ""
+"Ха-ха-ха. Конечно же, в голове мертвецов пусто. Разве ты не заметила, моя "
+"маленькая девочка, что ты уже подчиняешься мне?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:758
+msgid "What?  Oh!  I can't move my body."
+msgstr "Что? О нет! Я не могу управлять своим телом."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:812
+msgid ""
+"Argh!  My Princess no longer belongs to the night.  Randolf, what did you do "
+"to Malica?"
+msgstr ""
+"Аргх! Моя принцесса больше не принадлежит тьме. Что ты от неё хочешь, "
+"Рэндольф?"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:816
+msgid ""
+"She is now my captive, as her mother was.  Her gift of life is just as "
+"strong as her mother's was.  And since she has no family, no one can kill "
+"her.  Now I am immortal too."
+msgstr ""
+"Она моя пленница, какой была и её мать. Девочка обладает не меньшим даром "
+"поддерживать жизнь, чем и её покойная матушка. И теперь, когда родных у неё "
+"не осталось, никто не в состоянии лишить девочку жизни. А значит, бессмертен "
+"и я."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:820
+msgid ""
+"Oh, Great Magi, although you appear young, your head is empty because you "
+"have lived too long."
+msgstr ""
+"О, Великий Маг, хоть и выглядишь молодо, башка твоя отупела от старости."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:824
+msgid "That was unexpected, Malica speaks defiantly."
+msgstr "Малика неожиданно дерзка."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:828
+msgid "Huh?  What do you mean?"
+msgstr "Ха? Ты о чём, деточка?"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:832
+msgid ""
+"My heart is bleeding because of you.  But I do have a  brother... Cyclos, "
+"kill me!"
+msgstr ""
+"Моё сердце кровью исходит из-за тебя. Но у меня есть брат... Циклос, убей "
+"меня!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:836
+msgid "Malica!?"
+msgstr "Малика?!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:840
+msgid ""
+"Your father was my father.  Look at this earring.  I know you possess its "
+"match."
+msgstr ""
+"Твой отец был и моим отцом. Посмотри на эту серёжку. Я знаю, что вторая у "
+"тебя."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:844
+msgid "I have been wondering... But I cannot kill my sister."
+msgstr "Так много вопросов... Но я не могу убить свою сестру."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:848
+msgid ""
+"My body was destroyed long ago.  It is fated that my life disappear "
+"completely, just as it was for my mother.  Cyclos, please!!"
+msgstr ""
+"Моё тело давно уже мертво. Сама судьба подсказывает нам, что пора прервать "
+"мою жизнь, как и я прервала жизнь моей мамы. Циклос, прошу тебя!!!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:852
+msgid "All right..."
+msgstr "Хорошо..."
+
+#. [objective]: condition=win
+#: Girl_unDead/scenarios/12_castle.cfg:856
+msgid "Defeat Malica by Cyclos"
+msgstr "Циклос убивает Малику"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:947
+msgid "Oh Malica! My sister!  Sorry, sorry..."
+msgstr "О Малика! Сестра моя! Прости, прости..."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:951
+msgid ""
+"Cyclos. It's alright.  Now, I can be with Mom again.  Bye Cyclos.  I love "
+"you."
+msgstr ""
+"Всё хорошо, Циклос. Теперь я снова буду с мамой. Прощай, братик. Я люблю "
+"тебя."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:958
+msgid "Malica!!"
+msgstr "Малика!!!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:962
+msgid "Randolf!  I kill you.  I never forgive you."
+msgstr "Рэндольф! Я разорву тебя на куски. Я никогда не прощу."
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:966
+msgid ""
+"Ha ha.  You are ridiculous, boy.  ..... Uh!  What is happening to my body?"
+msgstr "Ха-ха. Смешной мальчик... Что происходит с моим телом?"
+
+#. [message]: speaker=Rotten Mage
+#: Girl_unDead/scenarios/12_castle.cfg:985
+msgid "No!....No!"
+msgstr "Нет!.. Нет!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:989
+msgid "He has become repulsive to look at."
+msgstr "Он стал настолько уродлив, что на него теперь невозможно смотреть."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:993
+msgid "That is because his soul was eaten by desire."
+msgstr "Это потому, что его душу поглотила одержимость."
+
+#. [message]: role=mage
+#: Girl_unDead/scenarios/12_castle.cfg:1014
+msgid "Oh, there is a monster!"
+msgstr "Смотрите, он — чудовище!"
+
+#. [message]: role=Kingdom
+#: Girl_unDead/scenarios/12_castle.cfg:1022
+msgid "Kill it quickly!"
+msgstr "Быстрее убейте его!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/scenarios/12_castle.cfg:1066
+msgid "I cann't go no more.  I'm sorry.  Good bye."
+msgstr "Я больше не могу. Простите. И прощайте."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:1070
+msgid "My Princess, don't say sorry!  don't say good bye!  Don't die!"
+msgstr "Моя принцесса, не проси прощения! Не прощайся! И не умирай!"
+
+#. [message]: speaker=$unit.id
+#: Girl_unDead/scenarios/12_castle.cfg:1102
+msgid "Die, monster!"
+msgstr "Сдохни, монстр!"
+
+#. [message]: speaker=Rotten Mage
+#: Girl_unDead/scenarios/12_castle.cfg:1106
+msgid "No!  I'm Randolf, the Elder White Mage!"
+msgstr "Нет! Я — Рэндольф, Верховный Белый Маг!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:1110
+msgid "Stop!  I will kill him myself!!"
+msgstr "Стойте! Я своими руками прикончу его!"
+
+#. [message]: speaker=Rotten Mage
+#: Girl_unDead/scenarios/12_castle.cfg:1122
+msgid ""
+"Alas!  I was meant to be filled with the light of all the world, not this."
+msgstr ""
+"Увы, я все свои труды посвятил тому, чтобы заполнить мир светом, и "
+"способствовать тьме я не стану."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/12_castle.cfg:1132
+msgid ""
+"He is dead, the one who took from me all whom I loved.  He died too "
+"easily... You, the men who aided him!  I will kill all of you!!"
+msgstr ""
+"Он мёртв, тот, кто забрал у меня всех, кого я любил. Но его смерть была "
+"слишком легка... Вы, всё вы, кто помогал ему! Я убью вас всех!!!"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/12_castle.cfg:1136
+msgid "Cyclos! Stop! Stop!"
+msgstr "Циклос! Остановись! Остановись!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/12_castle.cfg:1140
+msgid "He is dangerous, deranged.  We must move away from him!"
+msgstr "У него помутился разум. Нам всем нужно поскорее убраться отсюда!"
+
+#. [message]: speaker=King
+#: Girl_unDead/scenarios/12_castle.cfg:1183
+msgid "Randolf, why aren't you helping me?"
+msgstr "Рэндольф, почему ты не помогаешь мне?"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:1187
+msgid "Stupid King.  Many men can take your place, but I am special."
+msgstr ""
+"Глупый, глупый король. Много мужей могут занять твой трон, но я получу на "
+"него исключительное право."
+
+#. [message]: speaker=King
+#: Girl_unDead/scenarios/12_castle.cfg:1191
+msgid "Guards, kill Randolf!"
+msgstr "Стража, убейте Рэндольфа!"
+
+#. [message]: speaker=White Elder Mage
+#: Girl_unDead/scenarios/12_castle.cfg:1195
+msgid "Do you forget I am immortal?  Stupid King."
+msgstr ""
+"Из твоей головы уже выветрилось, что я бессмертен? Глупый, глупый король."
+
+#. [scenario]: id=13_epilogue
+#: Girl_unDead/scenarios/13_epilogue.cfg:6
+msgid "Epilogue"
+msgstr "Эпилог"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:57
+msgid "Thank you, Poet. I now look kindly upon you."
+msgstr "Спасибо, Поэт. Знаешь, я поменяла своё мнение о тебе."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:61
+msgid "I did only what I wanted to do.  I did not do it for you."
+msgstr "Я поступал так, как считал нужным. Не ради тебя старался."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:65
+msgid ""
+"We shall reach our home tomorrow, but you must not accompany us to the "
+"village."
+msgstr "Завтра мы уже будем дома, но, думаю, тебе не стоит заходить в селение."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:69
+msgid "I understand.  To tell the truth, I don't like elves."
+msgstr "Я понимаю. И сказать по правде, эльфов на дух не переношу."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:73
+msgid ""
+"Ha ha ha, To tell the truth, it is difficult to spend time with you.  Still, "
+"I will feel lonely without you.  Where will you go?"
+msgstr ""
+"Ха-ха-ха, если уж начистоту, то и с тобой общаться практически невозможно. "
+"Но мне будет недоставать тебя. Куда ты направишься?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:77
+msgid "Somewhere desolate."
+msgstr "В какую-нибудь пустыню."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:92
+msgid "I believe this troll will follow you."
+msgstr "Думаю, этот тролль последует за тобой."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:96
+msgid "I do not think he will.  It was Malica he followed."
+msgstr "Не думаю. Всё это время он шел за Маликой."
+
+#. [message]: speaker=Troll Child
+#: Girl_unDead/scenarios/13_epilogue.cfg:100
+msgid "? ? ?"
+msgstr "? ? ?"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:114
+msgid "What are you going to do now?"
+msgstr "А чем ты займёшься?"
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:118
+msgid "I will take care of Cyclos."
+msgstr "Позабочусь о Циклосе."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:122
+msgid "Indeed, he needs help, but that may be difficult."
+msgstr "И в самом деле, помощь ему необходима."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:126
+msgid "I know.  So, I have a request of you before you depart."
+msgstr "Я знаю. Прежде, чем ты уйдёшь, у меня осталась ещё одна просьба."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:134
+msgid "Please cut off my cursed right arm.  I cannot return home with it."
+msgstr ""
+"Прошу, отрежь мою проклятую руку. Я не могу вернуться домой вместе с 'этим'."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:138
+msgid ""
+"No!  I can't!  You will need both arms to help.  But you must hide the "
+"secret until you die."
+msgstr ""
+"Нет! Я не могу! Что бы владеть оружием, нужны обе руки. Кем ты станешь без "
+"своего лука? Попробуй сохранить свой дар или своё проклятие в тайне, ну, "
+"пока не умрёшь."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:146
+msgid ""
+"Sorry. I have come to hate killing and maiming. Being with Malica has "
+"changed me.  I'm now of no use to the undead."
+msgstr ""
+"Прости. Сейчас я уже не очень-то хочу калечить и убивать. Время, которое я "
+"провёл рядом с Маликой, изменило меня. Теперь я стал никудышним мертвецом."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/13_epilogue.cfg:162
+msgid "Stella!  Come!  Stella!"
+msgstr "Стелла! Пойдём! Стелла!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:176
+msgid "Oh, he acts like a baby.  Stella, you will have a hard life."
+msgstr "Он ведёт себя, как ребёнок. Тебя ждёт тяжелая жизнь, лучница."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:180
+msgid "I know."
+msgstr "Я знаю."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:184
+msgid ""
+"Cry when you feel the need to cry.  Seek not to defeat weakness, but love "
+"weakness."
+msgstr ""
+"Плачь, когда почувствуешь потребность плакать. Старайся преодолеть не "
+"слабость, а любовь."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:188
+msgid "I cannot understand what you say."
+msgstr "Я не понимаю, о чём ты."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:192
+msgid "Then forget it.  I am a philosopher, not a poet."
+msgstr "Тогда забудь. Я — философ, но не поэт."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:196
+msgid "Ha ha ha, thank you anyway."
+msgstr "Ха-ха-ха, так или иначе, ещё раз спасибо."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/scenarios/13_epilogue.cfg:200
+msgid "Night has fallen.  You must go to the baby Cyclos.  I say goodbye."
+msgstr ""
+"Приближается ночь. Возвращайся к Циклосу, он уже переживает. Я говорю: до "
+"свидания."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/scenarios/13_epilogue.cfg:214
+msgid "Goodbye."
+msgstr "До свидания."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/scenarios/13_epilogue.cfg:239
+msgid "Stella!  Where are you?"
+msgstr "Стелла! Где ты?"
+
+#. [scenario]: id=00_sandbox
+#: Girl_unDead/scenarios/sandbox.cfg:7
+msgid "Sandbox"
+msgstr "Песочница"
+
+#. [unit_type]: id=Free Mage, race=human, gender=female
+#: Girl_unDead/units/humans/Free_Mage.cfg:5
+msgid "Free Mage"
+msgstr "Вольный Маг"
+
+#. [unit_type]: id=White Elder Mage, race=human, gender=male,female
+#: Girl_unDead/units/humans/Mage_Elder_White.cfg:6
+msgid "Royal White Mage "
+msgstr "Королевский белый маг"
+
+#. [unit_type]: id=Malica, race=human, gender=female
+#. [male]: race=human, gender=male
+#. [variation]: id=Peasant Child, race=human, gender=male
+#. [unit_type]: id=Peasant Child, race=human, gender=male,female
+#. [unit_type]: id=Harfdead Child, race=undead, gender=female
+#: Girl_unDead/units/humans/Malica.cfg:21
+#: Girl_unDead/units/humans/Peasant_Child.cfg:36
+#: Girl_unDead/units/humans/Peasant_Child.cfg:201
+#: Girl_unDead/units/humans/Peasant_Child.cfg:20
+#: Girl_unDead/units/s_undead/Harfdead_Child.cfg:21
+msgid "Young and fragile, children are easily finished."
+msgstr "Молодые и хрупкие, дети очень легко погибают."
+
+#. [attack]: type=blade
+#: Girl_unDead/units/humans/Malica.cfg:42
+#: Girl_unDead/units/humans/Peasant_Child.cfg:58
+#: Girl_unDead/units/humans/Peasant_Child.cfg:134
+#: Girl_unDead/units/humans/Peasant_Child.cfg:222
+#: Girl_unDead/units/s_undead/Harfdead_Child.cfg:42
+msgid "small knife"
+msgstr "маленький нож"
+
+#. [male]: race=human, gender=male
+#. [variation]: id=Peasant Child, race=human, gender=male
+#. [unit_type]: id=Peasant Child, race=human, gender=male,female
+#: Girl_unDead/units/humans/Peasant_Child.cfg:23
+#: Girl_unDead/units/humans/Peasant_Child.cfg:188
+#: Girl_unDead/units/humans/Peasant_Child.cfg:7
+msgid "Peasant Child"
+msgstr "крестьянский мальчик"
+
+#. [female]: gender=female
+#: Girl_unDead/units/humans/Peasant_Child.cfg:110
+msgid "female^Peasant Child"
+msgstr "крестьянская девочка"
+
+#. [unit_type]: id=Gate SE, race=mechanical
+#. [unit_type]: id=Gate SW Hard, race=mechanical
+#. [unit_type]: id=Gate SW, race=mechanical
+#: Girl_unDead/units/mechanical/gate-se.cfg:5
+#: Girl_unDead/units/mechanical/gate-sw-hd.cfg:5
+#: Girl_unDead/units/mechanical/gate-sw.cfg:5
+msgid "Southwest Gate"
+msgstr "Юго-западные Ворота"
+
+#. [unit_type]: id=Gate SE, race=mechanical
+#. [unit_type]: id=Gate SW, race=mechanical
+#: Girl_unDead/units/mechanical/gate-se.cfg:17
+#: Girl_unDead/units/mechanical/gate-sw.cfg:17
+msgid "normal gate"
+msgstr "простые ворота"
+
+#. [unit_type]: id=Gate SW Hard, race=mechanical
+#: Girl_unDead/units/mechanical/gate-sw-hd.cfg:17
+msgid "hard gate"
+msgstr "сложные ворота"
+
+#. [unit_type]: id=Bear, race=monster
+#: Girl_unDead/units/monsters/bear.cfg:4
+msgid "Bear"
+msgstr "Медведь"
+
+#. [unit_type]: id=Bear, race=monster
+#: Girl_unDead/units/monsters/bear.cfg:18
+msgid "bear"
+msgstr "медведь"
+
+#. [attack]: type=impact
+#: Girl_unDead/units/monsters/bear.cfg:36
+msgid "fist"
+msgstr "лапа"
+
+#. [unit_type]: id=Harfdead Child, race=undead, gender=female
+#: Girl_unDead/units/s_undead/Harfdead_Child.cfg:7
+msgid "Harfdead Child"
+msgstr "Полуживое дитя"
+
+#. [unit_type]: id=Lady Ancient Lich, race=undead, gender=female
+#: Girl_unDead/units/s_undead/Lady_Ancient_Lich.cfg:5
+msgid "Lady Ancient Lich"
+msgstr "Леди Древний Лич"
+
+#. [unit_type]: id=Lady Lich, race=undead, gender=female
+#: Girl_unDead/units/s_undead/Lady_Lich.cfg:5
+msgid "Lady Lich"
+msgstr "Леди Лич"
+
+#. [unit_type]: id=Lady Prelich, race=undead, gender=female
+#: Girl_unDead/units/s_undead/Lady_Pre_Lich.cfg:5
+msgid "Lady Prelich"
+msgstr "Леди Прелич"
+
+#. [unit_type]: id=Lady Skeleton, race=undead, gender=female
+#: Girl_unDead/units/s_undead/Lady_Skeleton.cfg:5
+msgid "Lady Skeleton"
+msgstr "Леди Скелет"
+
+#. [attack]: type=blade
+#: Girl_unDead/units/s_undead/Lady_Skeleton.cfg:94
+msgid "knife"
+msgstr "нож"
+
+#. [unit_type]: id=Death Knight Loyal, race=undead
+#: Girl_unDead/units/undead/Skele_Death_Knight_Loyal.cfg:6
+msgid "Death Knight Loyal"
+msgstr "Верный рыцарь смерти"
+
+#. [unit_type]: id=Gold Chocobone, race=undead
+#: Girl_unDead/units/undead/Skele_Gold_Chocobone.cfg:6
+msgid "Gold Chocobone"
+msgstr "Золотой мёртвый всадник"
+
+#. [unit_type]: id=Revenant Loyal, race=undead
+#: Girl_unDead/units/undead/Skele_Revenant_Loyal.cfg:6
+msgid "Revenant Loyal"
+msgstr "Верный возрожденный"
+
+#. [unit_type]: id=Silver Chocobone, race=undead
+#: Girl_unDead/units/undead/Skele_Silver_Chocobone.cfg:6
+msgid "Silver Chocobone"
+msgstr "Серебряный мёртвый всадник"
+
+#. [illuminates]: id=darken
+#: Girl_unDead/utils/abilities.cfg:14 Girl_unDead/utils/abilities.cfg:32
+#: Girl_unDead/utils/abilities.cfg:50
+msgid "darkens"
+msgstr "затемнитель"
+
+#. [illuminates]: id=darken
+#: Girl_unDead/utils/abilities.cfg:15 Girl_unDead/utils/abilities.cfg:33
+#: Girl_unDead/utils/abilities.cfg:51
+msgid "female^darkens"
+msgstr "затемнительница"
+
+#. [illuminates]: id=darken
+#: Girl_unDead/utils/abilities.cfg:16 Girl_unDead/utils/abilities.cfg:34
+#: Girl_unDead/utils/abilities.cfg:52
+msgid ""
+"Darkens:\n"
+"This unit untiilluminates the surrounding area, making chaotic units fight "
+"better, and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"day, and as if it were night when it is dusk."
+msgstr ""
+"Боец затемняет окружающее пространство, благодаря чему хаотические бойцы "
+"сражаются сильнее, а порядочные слабее.\n"
+"\n"
+"Все бойцы, находящиеся рядом, будут сражаться днём, как в сумерках, а в "
+"сумерки, как ночью."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/utils/gud_utils.cfg:132
+msgid "Do you take this sword ?"
+msgstr "Вы поднимете этот меч?"
+
+#. [option]
+#: Girl_unDead/utils/gud_utils.cfg:134
+msgid "Yes"
+msgstr "Да"
+
+#. [effect]
+#. [object]: id={ID}
+#: Girl_unDead/utils/gud_utils.cfg:172 Girl_unDead/utils/gud_utils.cfg:139
+msgid "Sword of Darkness"
+msgstr "Клинок Тьмы"
+
+#. [object]: id={ID}
+#: Girl_unDead/utils/gud_utils.cfg:143
+msgid "You get power of darkness"
+msgstr "Ты обретаешь силу тьмы"
+
+#. [object]: id={ID}
+#: Girl_unDead/utils/gud_utils.cfg:144
+msgid "Only skeleton and troll can have the sword."
+msgstr "Только скелет или тролль могут удержать этот клинок."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/utils/gud_utils.cfg:157
+msgid "The sword belongs to this unit."
+msgstr "Меч принадлежит этому бойцу."
+
+#. [option]
+#: Girl_unDead/utils/gud_utils.cfg:194
+msgid "No"
+msgstr "Нет"
+
+#. [effect]: type=blade
+#. [effect]: type=impact
+#: Girl_unDead/utils/gud_utils.cfg:233 Girl_unDead/utils/gud_utils.cfg:260
+#: Girl_unDead/utils/gud_utils.cfg:291 Girl_unDead/utils/gud_utils.cfg:315
+#: Girl_unDead/utils/gud_utils.cfg:408 Girl_unDead/utils/gud_utils.cfg:435
+msgid "Unison"
+msgstr "Совместная атака"
+
+#. [message]: speaker=narrator
+#: Girl_unDead/utils/gud_utils.cfg:724
+msgid "$count_empty units can enter after."
+msgstr "Бойцы $count_empty могут войти позже."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/utils/gud_utils.cfg:744
+msgid "Failed some hero enter the castle. "
+msgstr "Подведите одного из героев к замку."
+
+#. [message]: speaker=narrator
+#: Girl_unDead/utils/gud_utils.cfg:754
+msgid "No more units can enter the castle. "
+msgstr "Другие бойцы уже не могут войти в замок."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/utils/gud_utils.cfg:773
+msgid "I have to enter the gate next. "
+msgstr "Я должна войти в ворота следующей."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/utils/gud_utils.cfg:792
+msgid "Sorry! I can't enter the gate! "
+msgstr "Простите! Я не могу пройти в ворота!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/utils/last_breath.cfg:16
+msgid "I cann't go no more.  I'm sorry. Good bye. "
+msgstr "Я больше не могу. Простите. И прощайте."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/utils/last_breath.cfg:20
+msgid "My Princess, don't say sorry!  don't say good bye! Don't die! "
+msgstr "Моя принцесса, не проси прощения! Не прощайся! Не умирай!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/utils/last_breath.cfg:36
+msgid "Ack! I am fallen.  I can follow you no further. "
+msgstr "Я сражён. Я могу последовать за вами."
+
+#. [message]: speaker=Malica
+#: Girl_unDead/utils/last_breath.cfg:40
+msgid "Poet! Don't die! "
+msgstr "Поэт! Не умирай!"
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/utils/last_breath.cfg:57
+msgid "Loana...forgive me... "
+msgstr "Луанна... прости меня..."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/utils/last_breath.cfg:61
+msgid "Cyclos!! "
+msgstr "Циклос!!!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/utils/last_breath.cfg:65
+msgid "He died.  And we needed his guidance. "
+msgstr "Он умер. Боюсь, нам не справиться без его задора."
+
+#. [message]: speaker=Stella
+#: Girl_unDead/utils/last_breath.cfg:82
+msgid "Sorry.  Cyclos. "
+msgstr "Прости, Циклос."
+
+#. [message]: speaker=Cyclos
+#: Girl_unDead/utils/last_breath.cfg:86
+msgid "Stella! Don't Die!! "
+msgstr "Стелла! Не умирай!!!"
+
+#. [message]: speaker=Poet
+#: Girl_unDead/utils/last_breath.cfg:90
+msgid "Without her reinforcements, there is no chance for us. "
+msgstr "Без её способностей нам надеяться не на что."
+
+#. [message]: speaker=Poet
+#: Girl_unDead/utils/last_breath.cfg:106
+msgid "Ah! Don't die my boy!  I cann't live no more without you! "
+msgstr "Ах! Не умирай, мой маленький! Я не смогу дальше жить без тебя!"
+
+#. [message]: speaker=Malica
+#: Girl_unDead/utils/last_breath.cfg:113
+msgid "Oh, Poet!  I don't know you love the troll so much. "
+msgstr "О, Поэт! Я и не знала, что ты так привязан к малышу."
+
+#~ msgid "(eaxy)"
+#~ msgstr "(легко)"
+
+#~ msgid "(hard)"
+#~ msgstr "(трудно)"
+
+#~ msgid ""
+#~ "A being of this order is a revenant of ages long past. Anyone who "
+#~ "encounters an Ancient Lich likely has far worse things to worry about "
+#~ "than death."
+#~ msgstr ""
+#~ "Они пришли из древних времен. Любому, кто встретит древнего лича, следует "
+#~ "опасаться вещей гораздо более худших, нежели смерть."
+
+#~ msgid ""
+#~ "A lich is the physical embodiment of black magic's first goal: the quest "
+#~ "to achieve immortality. Though a great deal is sacrificed in the rebirth, "
+#~ "in becoming a lich one cheats death of that which truly gives it terror. "
+#~ "For it is the mind that is retained, and the spirit which follows, though "
+#~ "the body may wither away.\n"
+#~ "\n"
+#~ "It is not known, save perhaps by the inner circles of necromancy, whether "
+#~ "life is prolonged indefinitely or simply extended. But the fact that this "
+#~ "question can be raised at all, testifies to the magnitude of what their "
+#~ "order has achieved."
+#~ msgstr ""
+#~ "Лич — это наглядное воплощение главной цели тёмной магии — поисков "
+#~ "бессмертия. После того, как при перерождении была принесена великая "
+#~ "жертва, ставший личем может обмануть смерть. Его разум сохраняется, душа "
+#~ "следует за ним, хотя тела может уже и не быть.\n"
+#~ "\n"
+#~ "Неизвестно, сохраняется ли жизнь посвященного в некромантию навечно, или "
+#~ "просто надолго продлевается. Но уже сама постановка вопроса говорит об "
+#~ "успехе, которого достигли тёмные колдуны."
+
+#~ msgid "Among mages there are those who choose the way of love for freedom."
+#~ msgstr ""
+#~ "У каждого мага своё понимание любви к свободе. И своё воплощение этой "
+#~ "любви."
+
+#~ msgid ""
+#~ "Describing a troll as a whelp is something of an oxymoron, given that "
+#~ "their bodies are already much hardier than that of a grown man. They are "
+#~ "clumsy and not yet capable of walking properly, forced instead to shamble "
+#~ "about on all fours, but any difficulty this causes them is more than made "
+#~ "up for by the raw strength of their race."
+#~ msgstr ""
+#~ "Нелепо называть подобного тролля детёнышем, ведь его тело намного крепче, "
+#~ "чем у взрослого человека. Они неуклюжи и ещё не способны нормально "
+#~ "ходить, неумело передвигаясь на всех четырех конечностях, но все подобные "
+#~ "проблемы — ничто по сравнению с грубой силой представителей этой расы."
+
+#~ msgid ""
+#~ "Given false life to do battle once more, the creatures known as Revenants "
+#~ "were clearly great warriors in their time, though the memory of that time "
+#~ "is allmost wholly lost to their undead selves. Even the sorcerers who "
+#~ "raised them can only speculate on their past. Such questions aside, a "
+#~ "Revenant is a powerful tool in combat: a fearless warrior that feels no "
+#~ "pain and will fight to the bitter end."
+#~ msgstr ""
+#~ "Получив мнимую жизнь ради битвы еще раз, Возрождённый, бывший в свое "
+#~ "время великим воином, теперь не помнит ничего из своего прошлого. Даже "
+#~ "поднявший его колдун может только догадываться, кем тот был. Без "
+#~ "сомнения, Возрождённый — полезный инструмент в битве: не чувствующий боли "
+#~ "бесстрашный воин, сражающийся до печального конца."
+
+#~ msgid ""
+#~ "Malica, the daugher of a magi, has become to undead.  She fight against "
+#~ "the kingdom. "
+#~ msgstr ""
+#~ "Малика, дочь мага, вернулась в этот мир живым мертвецом. Теперь она "
+#~ "выступила против королевства."
+
+#~ msgid ""
+#~ "Once great, Elder Magi have seen their power a little diminished from "
+#~ "wearying years of battle. Nevertheless they remain feared on the "
+#~ "battlefield on account of their powerful lightning bolts."
+#~ msgstr ""
+#~ "Достигнув пика своего могущества много лет назад, старые маги с тех пор "
+#~ "могли растратить какую-то часть своих сил в сражениях. Тем не менее, на "
+#~ "поле боя следует опасаться ударов их молний."
+
+#~ msgid ""
+#~ "Riding the bones of ostrich-like large birds once used as mounts by a "
+#~ "lost civilization, the skeletal Chocobones can move faster than most "
+#~ "cavalry units."
+#~ msgstr ""
+#~ "Верхом на скелете огромной, похожей на страуса птицы, которую забытые "
+#~ "цивилизации использовали вместо лошади, мёртвые всадники могут "
+#~ "передвигаться быстрее, чем большинство конных бойцов."
+
+#~ msgid ""
+#~ "Skeletons are warriors who have been slain in battle and brought back by "
+#~ "dark magics. Nearly mindless, and unwavering in their purpose, they fear "
+#~ "neither pain, nor death, and their mere presence will often frighten away "
+#~ "any who would challenge their master."
+#~ msgstr ""
+#~ "Скелеты — это воины, павшие в битве и восставшие с помощью темной магии. "
+#~ "У них практически отсутствует разум и поэтому они не дрогнут в бою, они "
+#~ "не боятся ни боли, ни смерти, и само их присутствие устрашит любого, кто "
+#~ "мог бы бросить вызов их хозяину."
+
+#~ msgid ""
+#~ "Some magi, as they learn about the world around them, and learn the truth "
+#~ "of the suffering and squalor in which humanity too often lives, find that "
+#~ "they cannot bring themselves to be cloistered into a life of study. These "
+#~ "men and women give up the life of a mage, and join monastic orders, "
+#~ "dedicating the skills they have been given to the good of all. After "
+#~ "their ordination, they often travel the world, ministering to sickness "
+#~ "and injury.\n"
+#~ "\n"
+#~ "Though not trained for combat, they are a potent ally against magical or "
+#~ "unnatural things."
+#~ msgstr ""
+#~ "Некоторые маги, познавая истину и видя страдание и нищету, слишком часто "
+#~ "сопутствующие человечеству, осознают, что они не могут посвятить всю свою "
+#~ "жизнь только искусству. Эти мужчины и женщины бросают жизнь мага и "
+#~ "присоединяются к монашескому ордену, стараясь принести в мир добро. После "
+#~ "принятия сана они обычно путешествуют по миру, исцеляя больных и "
+#~ "раненых.\n"
+#~ "\n"
+#~ "Хотя они не обучались бою, они весьма сильны против магических и "
+#~ "неестественных созданий."
+
+#~ msgid ""
+#~ "Tales are told of the mightiest warriors and generals, who, cursed with "
+#~ "hate and stung by betrayal, have come back to this world as Death "
+#~ "Knights. Wielding the same weapons as in life, they command the Undead in "
+#~ "their quest for revenge."
+#~ msgstr ""
+#~ "Легенды гласят о могущественных воинах и генералах, которые, будучи "
+#~ "прокляты ненавистью и уязвлены предательством, вернулись в этот мир в "
+#~ "качестве рыцарей смерти. Тем же оружием, что носили при жизни, они отдают "
+#~ "команды мертвецам ради осуществления своей мести."
+
+#~ msgid "Troll"
+#~ msgstr "Тролль"
+
+#~ msgid "Troll Warrior"
+#~ msgstr "Воитель"
+
+#~ msgid "Troll Whelp"
+#~ msgstr "Троллёнок"
+
+#~ msgid ""
+#~ "Trolls have long troubled the thoughts of humanity and dwarf-kind. Sages "
+#~ "remain baffled at the origins of these creatures and the driving force "
+#~ "behind their unnatural vitality and strength. A fully-grown troll towers "
+#~ "above a man, and, even unarmed, would be a great threat in combat. The "
+#~ "large clubs typically favored in fighting act as extensions of their "
+#~ "arms, used for the same purpose of mauling their prey into submission."
+#~ msgstr ""
+#~ "Тролли всегда были проблемой для людей и гномов, которых до сих пор "
+#~ "ставит в тупик происхождение этих созданий, и, что более важно, их "
+#~ "невероятная живучесть и сила. Взрослый тролль возвышается, как скала, над "
+#~ "обычным человеком, что уж говорить про гномов! Поэтому даже невооружённый "
+#~ "тролль может быть серьёзной угрозой в битве. В бою огромные дубины, их "
+#~ "любимое оружие, напоминают продолжение их рук, и выбивают из врага мольбы "
+#~ "о пощаде."
+
+#~ msgid ""
+#~ "Trolls typically neither need nor prefer to use any proper armament in "
+#~ "combat, as large ‘sticks and stones’ serve them all too well. However, "
+#~ "trolls have been seen on numerous occasions clad in rough-shod armor and "
+#~ "bearing metal hammers. It is speculated that orcish allies are the source "
+#~ "and crafters of these; expeditions into several forcibly-vacated troll "
+#~ "holes have shown little evidence of tool use, and certainly no "
+#~ "metalworking of any kind. Given how dangerous a troll is with its bare "
+#~ "hands, the thought of a troll with proper armament is entirely unsettling."
+#~ msgstr ""
+#~ "Обычно в битве тролли не нуждаются в специальном оружии, да они его и не "
+#~ "жалуют, разве что используют большие камни и брёвна. Тем не менее, время "
+#~ "от времени встречаются тролли, одетые в грубые доспехи и вооружённые "
+#~ "железными молотами. Предполагают, что поставщики и изготовители этого "
+#~ "оружия — их союзники-орки, ведь исследователи, проникавшие в норы "
+#~ "троллей, наблюдали только примитивные орудия труда, никоим образом не "
+#~ "связанные с обработкой металла. Принимая во внимание, как опасен в битве "
+#~ "даже невооружённый тролль, мысль о тролле с подобным вооружением "
+#~ "полностью отбивает желание с ним связываться."
+
+#~ msgid "White Mage"
+#~ msgstr "Белый маг"
+
+#~ msgid "axe"
+#~ msgstr "топор"
+
+#~ msgid "battle axe"
+#~ msgstr "боевой топор"
+
+#~ msgid "chill tempest"
+#~ msgstr "холодная буря"
+
+#~ msgid "club"
+#~ msgstr "дубина"
+
+#~ msgid "crossbow"
+#~ msgstr "арбалет"
+
+#~ msgid "entangle"
+#~ msgstr "путы"
+
+#~ msgid "female^White Mage"
+#~ msgstr "Белая Волшебница"
+
+#~ msgid "hammer"
+#~ msgstr "молот"
+
+#~ msgid "lich"
+#~ msgstr "лич"
+
+#~ msgid "lightbeam"
+#~ msgstr "луч света"
+
+#~ msgid "morning star"
+#~ msgstr "моргенштерн"
+
+#~ msgid "shadow wave"
+#~ msgstr "теневая волна"
+
+#~ msgid "spear"
+#~ msgstr "копье"
+
+#~ msgid "touch"
+#~ msgstr "прикосновение"
