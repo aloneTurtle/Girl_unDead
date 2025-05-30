@@ -16,8 +16,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Girl unDead ver.1.0.3\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-05-18 18:16 UTC\n"
-"PO-Revision-Date: 2025-05-19 03:16+0900\n"
+"POT-Creation-Date: 2025-05-30 18:15 UTC\n"
+"PO-Revision-Date: 2025-05-31 03:16+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: tapaboy <tapaboy.shadowmoon@gmail.com>\n"
 "Language: ja_JP\n"
@@ -42,62 +42,67 @@ msgstr ""
 "し、それは試練の始まりに過ぎなかった。"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:17
+#: Girl_unDead/_main.cfg:18
+msgid "(Expert level, 13 scenarios including cutscenes.)"
+msgstr "（達人レベル、カットシーン含め 13 シナリオ）"
+
+#. [campaign]: id=Girl_unDead
+#: Girl_unDead/_main.cfg:19
 msgid "Walking Corpse"
 msgstr "歩く死体"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:17
+#: Girl_unDead/_main.cfg:19
 msgid "Easy"
 msgstr "易しい"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:18
+#: Girl_unDead/_main.cfg:20
 msgid "Lich"
 msgstr "リッチ"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:18
+#: Girl_unDead/_main.cfg:20
 msgid "Normal"
 msgstr "普通"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:19
+#: Girl_unDead/_main.cfg:21
 msgid "Ancient Lich"
 msgstr "古代リッチ"
 
 #. [campaign]: id=Girl_unDead
-#: Girl_unDead/_main.cfg:19
+#: Girl_unDead/_main.cfg:21
 msgid "Hard"
 msgstr "難しい"
 
 #. [about]
-#: Girl_unDead/_main.cfg:26
+#: Girl_unDead/_main.cfg:28
 msgid "Campaign Designer"
 msgstr "キャンペーン作者"
 
 #. [about]
-#: Girl_unDead/_main.cfg:33
+#: Girl_unDead/_main.cfg:35
 msgid "Current Maintainer"
 msgstr "保守者"
 
 #. [about]
-#: Girl_unDead/_main.cfg:40
+#: Girl_unDead/_main.cfg:42
 msgid "Mentor to English Translation"
 msgstr "英訳補助"
 
 #. [about]
-#: Girl_unDead/_main.cfg:47
+#: Girl_unDead/_main.cfg:49
 msgid "Translation to Japanese"
 msgstr "日本語版"
 
 #. [about]
-#: Girl_unDead/_main.cfg:57
+#: Girl_unDead/_main.cfg:59
 msgid "Translation to Czech"
 msgstr "チェコ語翻訳"
 
 #. [about]
-#: Girl_unDead/_main.cfg:64
+#: Girl_unDead/_main.cfg:66
 msgid "Translation to Russian"
 msgstr "ロシア語翻訳"
 
@@ -115,10 +120,10 @@ msgstr "近よるんじゃねえ。あっちに行けよ！"
 #. [message]: speaker=Malica
 #: Girl_unDead/scenarios/01_death.cfg:12 Girl_unDead/scenarios/01_death.cfg:13
 #: Girl_unDead/scenarios/01_death.cfg:14 Girl_unDead/scenarios/01_death.cfg:15
-#: Girl_unDead/scenarios/02_escape.cfg:579
-#: Girl_unDead/scenarios/04_training.cfg:182
-#: Girl_unDead/scenarios/04_training.cfg:198
-#: Girl_unDead/scenarios/06_revenge.cfg:364
+#: Girl_unDead/scenarios/02_escape.cfg:590
+#: Girl_unDead/scenarios/04_training.cfg:183
+#: Girl_unDead/scenarios/04_training.cfg:199
+#: Girl_unDead/scenarios/06_revenge.cfg:365
 #: Girl_unDead/scenarios/sandbox.cfg:167 Girl_unDead/scenarios/sandbox.cfg:183
 msgid "I'm sorry."
 msgstr "ご、ごめんなさい・・・"
@@ -150,24 +155,24 @@ msgstr ""
 #. [side]
 #. [side]: id=Malica
 #. [unit_type]: id=Malica, race=human, gender=female
-#: Girl_unDead/scenarios/01_death.cfg:29 Girl_unDead/scenarios/01_death.cfg:33
-#: Girl_unDead/scenarios/02_escape.cfg:51
-#: Girl_unDead/scenarios/02_escape.cfg:55
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:19
+#: Girl_unDead/scenarios/01_death.cfg:30 Girl_unDead/scenarios/01_death.cfg:34
+#: Girl_unDead/scenarios/02_escape.cfg:52
+#: Girl_unDead/scenarios/02_escape.cfg:56
 #: Girl_unDead/scenarios/03_cave_of_undead.cfg:20
-#: Girl_unDead/scenarios/04_training.cfg:25
-#: Girl_unDead/scenarios/04_training.cfg:29
-#: Girl_unDead/scenarios/05_invasion.cfg:34
-#: Girl_unDead/scenarios/05_invasion.cfg:38
-#: Girl_unDead/scenarios/06_revenge.cfg:21
-#: Girl_unDead/scenarios/07_along_the_way.cfg:79
-#: Girl_unDead/scenarios/08.5_gulf.cfg:64
-#: Girl_unDead/scenarios/08_puppeteer.cfg:20
-#: Girl_unDead/scenarios/09_sanctuary.cfg:21
-#: Girl_unDead/scenarios/10_a_long_day.cfg:43
-#: Girl_unDead/scenarios/11_intrusion.cfg:31
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:21
+#: Girl_unDead/scenarios/04_training.cfg:26
+#: Girl_unDead/scenarios/04_training.cfg:30
+#: Girl_unDead/scenarios/05_invasion.cfg:35
+#: Girl_unDead/scenarios/05_invasion.cfg:39
+#: Girl_unDead/scenarios/06_revenge.cfg:22
+#: Girl_unDead/scenarios/07_along_the_way.cfg:80
+#: Girl_unDead/scenarios/08.5_gulf.cfg:65
+#: Girl_unDead/scenarios/08_puppeteer.cfg:21
+#: Girl_unDead/scenarios/09_sanctuary.cfg:22
+#: Girl_unDead/scenarios/10_a_long_day.cfg:44
+#: Girl_unDead/scenarios/11_intrusion.cfg:32
 #: Girl_unDead/scenarios/12_castle.cfg:25
-#: Girl_unDead/scenarios/13_epilogue.cfg:22
+#: Girl_unDead/scenarios/13_epilogue.cfg:23
 #: Girl_unDead/scenarios/sandbox.cfg:25 Girl_unDead/scenarios/sandbox.cfg:29
 #: Girl_unDead/units/humans/Malica.cfg:7
 msgid "Malica"
@@ -175,26 +180,26 @@ msgstr "マリカ"
 
 #. [unit]: type=Free Mage, gender=female, id=Mother
 #. [side]
-#: Girl_unDead/scenarios/01_death.cfg:51 Girl_unDead/scenarios/01_death.cfg:45
-#: Girl_unDead/scenarios/02_escape.cfg:72
-#: Girl_unDead/scenarios/02_escape.cfg:66
+#: Girl_unDead/scenarios/01_death.cfg:53 Girl_unDead/scenarios/01_death.cfg:47
+#: Girl_unDead/scenarios/02_escape.cfg:74
+#: Girl_unDead/scenarios/02_escape.cfg:68
 msgid "Mom"
 msgstr "お母さん"
 
 #. [side]
-#: Girl_unDead/scenarios/01_death.cfg:61
-#: Girl_unDead/scenarios/02_escape.cfg:128
+#: Girl_unDead/scenarios/01_death.cfg:63
+#: Girl_unDead/scenarios/02_escape.cfg:130
 msgid "beasts"
 msgstr "野獣"
 
 #. [side]
-#: Girl_unDead/scenarios/01_death.cfg:81
+#: Girl_unDead/scenarios/01_death.cfg:83
 msgid "villeger"
 msgstr "村人"
 
 #. [part]
 #. [unit_type]: id=Free Mage, race=human, gender=female
-#: Girl_unDead/scenarios/01_death.cfg:98
+#: Girl_unDead/scenarios/01_death.cfg:100
 #: Girl_unDead/units/humans/Free_Mage.cfg:20
 msgid ""
 "Among mages there are those who choose the way of love for freedom.  And "
@@ -204,7 +209,7 @@ msgstr ""
 "こにも定住せずに旅のうちに人生を過ごす。"
 
 #. [part]
-#: Girl_unDead/scenarios/01_death.cfg:101
+#: Girl_unDead/scenarios/01_death.cfg:103
 msgid ""
 "They earn a livelihood solely by treating illness or injury.  But people do "
 "not respect them as they do white mages.  They are feared as black magicians "
@@ -216,7 +221,7 @@ msgstr ""
 "ずれにしろ、人々は治療を頼むとき以外は彼らの存在を無視している。"
 
 #. [part]
-#: Girl_unDead/scenarios/01_death.cfg:104
+#: Girl_unDead/scenarios/01_death.cfg:106
 msgid ""
 "So these mages don't live in one place for long, and the inhabitants usually "
 "are unaware what they are because they had moved on before being discovered."
@@ -225,7 +230,7 @@ msgstr ""
 "らがなぜやってきたのかを気にすることはない。"
 
 #. [part]
-#: Girl_unDead/scenarios/01_death.cfg:107
+#: Girl_unDead/scenarios/01_death.cfg:109
 msgid ""
 "Such a life was difficult, but from such freedom they might attain magic far "
 "beyond that of the ordinary mage."
@@ -234,40 +239,40 @@ msgstr ""
 "だ。"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/01_death.cfg:115
+#: Girl_unDead/scenarios/01_death.cfg:117
 msgid "Search the village."
 msgstr "村の中を探る"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/01_death.cfg:119
+#: Girl_unDead/scenarios/01_death.cfg:121
 msgid "Do nothing."
 msgstr "なし"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:129
+#: Girl_unDead/scenarios/01_death.cfg:131
 msgid "Mom I'm going out to play."
 msgstr "お母さん。遊びに行ってくるね。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/01_death.cfg:133
+#: Girl_unDead/scenarios/01_death.cfg:135
 msgid ""
 "Have a nice time, but avoid the eastern swamps because I sense danger there."
 msgstr ""
 "いってらっしゃい。でも、東の沼地には行ってはだめよ。あそこは危険だから。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/01_death.cfg:146
+#: Girl_unDead/scenarios/01_death.cfg:148
 msgid ""
 "Oh, back already.  You can play outside because the sun is still bright."
 msgstr "あら、もう戻ってきたの？　明るいからまだ遊んでいていいわよ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:150
+#: Girl_unDead/scenarios/01_death.cfg:152
 msgid "Okay, Mom."
 msgstr "わかったわ。お母さん。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:154
+#: Girl_unDead/scenarios/01_death.cfg:156
 msgid ""
 "I am curious about the swamp.  I have heard there is a mysterious old shrine "
 "over there."
@@ -276,39 +281,39 @@ msgstr ""
 "あるわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:158
+#: Girl_unDead/scenarios/01_death.cfg:160
 msgid "But Mom will be angry if she catches me.  What should I do?"
 msgstr "でも、そんなことしたらお母さんに叱られるわ。どうしようかしら？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:221
+#: Girl_unDead/scenarios/01_death.cfg:223
 msgid "Oh!  Venomous creatures!  I better run!"
 msgstr "きゃあ、化け物！　逃げなきゃ！！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:242
+#: Girl_unDead/scenarios/01_death.cfg:244
 msgid ""
 "I've reached the shrine, but there is not much here.  I can get back before "
 "dark."
 msgstr "ほこらについてしまったけど、何もないわ。暗くなる前に帰らなきゃ。"
 
 #. [unit]: type=Red Mage, id=Oldman
-#: Girl_unDead/scenarios/01_death.cfg:270
+#: Girl_unDead/scenarios/01_death.cfg:272
 msgid "Oldman"
 msgstr "老人"
 
 #. [message]: speaker=Oldman
-#: Girl_unDead/scenarios/01_death.cfg:274
+#: Girl_unDead/scenarios/01_death.cfg:276
 msgid "Hi.  Little girl."
 msgstr "やあ、お嬢ちゃん。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:278
+#: Girl_unDead/scenarios/01_death.cfg:280
 msgid "Hi.  I do not know you."
 msgstr "こんにちわ。おじいさん、知らない人ねえ？"
 
 #. [message]: speaker=Oldman
-#: Girl_unDead/scenarios/01_death.cfg:282
+#: Girl_unDead/scenarios/01_death.cfg:284
 msgid ""
 "I have traveled here from afar.  I seem, however, to have lost my way.  Is "
 "there not an old shrine nearby?"
@@ -317,64 +322,64 @@ msgstr ""
 "な？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:286
+#: Girl_unDead/scenarios/01_death.cfg:288
 msgid "There is."
 msgstr "あっちの方にあるわよ。"
 
 #. [message]: speaker=Oldman
-#: Girl_unDead/scenarios/01_death.cfg:290
+#: Girl_unDead/scenarios/01_death.cfg:292
 msgid "Good to hear.  Will you please guide me there?"
 msgstr "それはよかった。どうかそこまで案内してくれないかい？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:294
+#: Girl_unDead/scenarios/01_death.cfg:296
 msgid "But, my mom forbid me to go there... "
 msgstr "でも、お母さんがあそこへ行ってはいけないって言っているし。"
 
 #. [message]: speaker=Oldman
-#: Girl_unDead/scenarios/01_death.cfg:298
+#: Girl_unDead/scenarios/01_death.cfg:300
 msgid "Even so, you cannot resist my wish."
 msgstr "たとえお前が行かないと言ってもお前はわしには逆らえない。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:306
+#: Girl_unDead/scenarios/01_death.cfg:308
 msgid "My body is moving on its own!"
 msgstr "私の体が勝手に動いていく！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/01_death.cfg:318
+#: Girl_unDead/scenarios/01_death.cfg:320
 msgid "What now?  I felt strong magic."
 msgstr "今のは何？　何か強い魔力を感じたけど。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:323
+#: Girl_unDead/scenarios/01_death.cfg:325
 msgid ""
 "I've reached the shrine.  What do we do? Oh, the old man is not here ...."
 msgstr ""
 "祠についてしまったわ。どうしましょう。あら、あのおじいさんがいないわ・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:327
+#: Girl_unDead/scenarios/01_death.cfg:329
 msgid "It is getting dark.  Mom will be angry."
 msgstr "暗くなって来たし、お母さんに叱られるわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/01_death.cfg:341
+#: Girl_unDead/scenarios/01_death.cfg:343
 msgid "Mom!  Help!"
 msgstr "お母さん！　助けて！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/01_death.cfg:345
+#: Girl_unDead/scenarios/01_death.cfg:347
 msgid "Malica!  Something bad has happened to her!"
 msgstr "マリカ!　あの子に悪いことが起こったわ！"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/01_death.cfg:350
+#: Girl_unDead/scenarios/01_death.cfg:352
 msgid "So, it is as I suspected."
 msgstr "ふふふ、わしの目論みどおりどおりだわい。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/01_death.cfg:363
+#: Girl_unDead/scenarios/01_death.cfg:365
 msgid "There is a smelly human smell here. Who made me awake?"
 msgstr "この臭いは、いかにも人間臭いヤツの臭いだな。俺を起こしたのは誰だ？"
 
@@ -384,27 +389,27 @@ msgid "Escape"
 msgstr "逃走"
 
 #. [side]
-#: Girl_unDead/scenarios/02_escape.cfg:83
+#: Girl_unDead/scenarios/02_escape.cfg:85
 msgid "Villager"
 msgstr "村人"
 
 #. [side]
-#: Girl_unDead/scenarios/02_escape.cfg:104
+#: Girl_unDead/scenarios/02_escape.cfg:106
 msgid "Strange Mage"
 msgstr "謎の魔術師"
 
 #. [side]
 #. [unit]: type=Revenant, id=undead
 #. [side]: id=Varas, type=Ancient Lich
-#: Girl_unDead/scenarios/02_escape.cfg:121
-#: Girl_unDead/scenarios/02_escape.cfg:506
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:29
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:67
+#: Girl_unDead/scenarios/02_escape.cfg:123
+#: Girl_unDead/scenarios/02_escape.cfg:517
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:30
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:68
 msgid "undead"
 msgstr "アンデッド"
 
 #. [part]
-#: Girl_unDead/scenarios/02_escape.cfg:139
+#: Girl_unDead/scenarios/02_escape.cfg:141
 msgid ""
 "Malica did not know how long she had slept.  She felt as if she could look "
 "within a nightmare, one that was painful enough to make her wonder whether "
@@ -414,86 +419,86 @@ msgstr ""
 "てしまったが、苦痛に満ちた長い悪夢をずっと見続けていたことだけは覚えていた。"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/02_escape.cfg:147
+#: Girl_unDead/scenarios/02_escape.cfg:149
 msgid "Malica reaches northern signpost"
 msgstr "マリカが北の道しるべにたどり着く"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/02_escape.cfg:151
-#: Girl_unDead/scenarios/04_training.cfg:145
-#: Girl_unDead/scenarios/05_invasion.cfg:187
-#: Girl_unDead/scenarios/06_revenge.cfg:330
-#: Girl_unDead/scenarios/06_revenge.cfg:515
-#: Girl_unDead/scenarios/06_revenge.cfg:753
-#: Girl_unDead/scenarios/08.5_gulf.cfg:285
-#: Girl_unDead/scenarios/08_puppeteer.cfg:95
-#: Girl_unDead/scenarios/09_sanctuary.cfg:220
-#: Girl_unDead/scenarios/10_a_long_day.cfg:91
-#: Girl_unDead/scenarios/11_intrusion.cfg:282
+#: Girl_unDead/scenarios/02_escape.cfg:153
+#: Girl_unDead/scenarios/04_training.cfg:146
+#: Girl_unDead/scenarios/05_invasion.cfg:188
+#: Girl_unDead/scenarios/06_revenge.cfg:331
+#: Girl_unDead/scenarios/06_revenge.cfg:516
+#: Girl_unDead/scenarios/06_revenge.cfg:754
+#: Girl_unDead/scenarios/08.5_gulf.cfg:286
+#: Girl_unDead/scenarios/08_puppeteer.cfg:96
+#: Girl_unDead/scenarios/09_sanctuary.cfg:221
+#: Girl_unDead/scenarios/10_a_long_day.cfg:93
+#: Girl_unDead/scenarios/11_intrusion.cfg:283
 #: Girl_unDead/scenarios/12_castle.cfg:262
-#: Girl_unDead/scenarios/12_castle.cfg:686
+#: Girl_unDead/scenarios/12_castle.cfg:711
 #: Girl_unDead/scenarios/sandbox.cfg:130
 msgid "Death of Malica"
 msgstr "マリカの死"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/02_escape.cfg:155
-#: Girl_unDead/scenarios/04_training.cfg:153
-#: Girl_unDead/scenarios/05_invasion.cfg:195
-#: Girl_unDead/scenarios/06_revenge.cfg:338
-#: Girl_unDead/scenarios/06_revenge.cfg:527
-#: Girl_unDead/scenarios/06_revenge.cfg:769
-#: Girl_unDead/scenarios/08.5_gulf.cfg:305
-#: Girl_unDead/scenarios/08_puppeteer.cfg:115
-#: Girl_unDead/scenarios/09_sanctuary.cfg:240
-#: Girl_unDead/scenarios/10_a_long_day.cfg:99
-#: Girl_unDead/scenarios/11_intrusion.cfg:306
+#: Girl_unDead/scenarios/02_escape.cfg:157
+#: Girl_unDead/scenarios/04_training.cfg:154
+#: Girl_unDead/scenarios/05_invasion.cfg:196
+#: Girl_unDead/scenarios/06_revenge.cfg:339
+#: Girl_unDead/scenarios/06_revenge.cfg:528
+#: Girl_unDead/scenarios/06_revenge.cfg:770
+#: Girl_unDead/scenarios/08.5_gulf.cfg:306
+#: Girl_unDead/scenarios/08_puppeteer.cfg:116
+#: Girl_unDead/scenarios/09_sanctuary.cfg:241
+#: Girl_unDead/scenarios/10_a_long_day.cfg:101
+#: Girl_unDead/scenarios/11_intrusion.cfg:307
 #: Girl_unDead/scenarios/sandbox.cfg:138
 msgid "Turns run out"
 msgstr "時間切れ"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:179
+#: Girl_unDead/scenarios/02_escape.cfg:181
 msgid "Mom..."
 msgstr "お母さん・・・"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:183
+#: Girl_unDead/scenarios/02_escape.cfg:185
 msgid "You are awake.  Good."
 msgstr "目覚めたのね。よかった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:187
+#: Girl_unDead/scenarios/02_escape.cfg:189
 msgid "Mom, what happened?  You look sad."
 msgstr "お母さん、何かあったの。とても辛そうに見えるわ。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:191
+#: Girl_unDead/scenarios/02_escape.cfg:193
 msgid "I am just a little tired."
 msgstr "ちょっと疲れただけ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:195
+#: Girl_unDead/scenarios/02_escape.cfg:197
 msgid "Mom, I'm sorry that I went to the swamp."
 msgstr "お母さん。沼地に行ってごめんなさい。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:199
+#: Girl_unDead/scenarios/02_escape.cfg:201
 msgid "All that happens, must happen.  I cannot blame you."
 msgstr "わかっている。あれは仕方がなかったこと。あなたを責めたりしないわ。"
 
 #. [event]
-#: Girl_unDead/scenarios/02_escape.cfg:202
+#: Girl_unDead/scenarios/02_escape.cfg:204
 msgid "Village Chief"
 msgstr "村長"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:209
+#: Girl_unDead/scenarios/02_escape.cfg:211
 msgid "Villagers are coming.  I wonder how they know already?"
 msgstr "村の人たちが来たわ。もう気づかれてしまったのかしら？"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:213
+#: Girl_unDead/scenarios/02_escape.cfg:215
 msgid ""
 "Malica, go hide in the shade of the forest.  And then escape to the north. "
 "The villagers are afraid and will think you are a demon."
@@ -502,12 +507,12 @@ msgstr ""
 "と思い込んでいるわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:225
+#: Girl_unDead/scenarios/02_escape.cfg:227
 msgid "I'm confused.  I'm not a scary monster! "
 msgstr "どういうことなの？　わたし化け物なんかじゃないのに！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:229
+#: Girl_unDead/scenarios/02_escape.cfg:231
 msgid ""
 "Sorry, but I do not have time to explain everything.  Just escape through "
 "the shadows and avoid the sunlight."
@@ -516,17 +521,17 @@ msgstr ""
 "で、日向を避けるのよ。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:233
+#: Girl_unDead/scenarios/02_escape.cfg:235
 msgid "You are little. So, you can hide yourself in bush."
 msgstr "あなたは小さいから、藪の中に隠れられるわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:250
+#: Girl_unDead/scenarios/02_escape.cfg:252
 msgid "I do not understand.  I cannot escape by myself!"
 msgstr "わからないわ。　お母さんをおいて逃げてゆけないわ！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:259
+#: Girl_unDead/scenarios/02_escape.cfg:261
 msgid ""
 "(The villagers have come.) Yes, I hear you.  I am coming. (Please stay "
 "hidden and be quiet.)"
@@ -535,17 +540,17 @@ msgstr ""
 "にしているのよ。）"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/02_escape.cfg:265
+#: Girl_unDead/scenarios/02_escape.cfg:267
 msgid "Hey, it seems your daughter has recovered.  Where is she?"
 msgstr "おい、お前の娘が生き返ったんだってな。娘はどこにいる？"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:269
+#: Girl_unDead/scenarios/02_escape.cfg:271
 msgid "I will not give her up."
 msgstr "マリカは渡さないわ。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/02_escape.cfg:274
+#: Girl_unDead/scenarios/02_escape.cfg:276
 msgid ""
 "It smells of corruption and rot here.  I was not mistaken in suspecting "
 "you.  Search the woods and the house thoroughly."
@@ -554,12 +559,12 @@ msgstr ""
 "すんだ！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:278
+#: Girl_unDead/scenarios/02_escape.cfg:280
 msgid "You are wrong."
 msgstr "やめて！"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/02_escape.cfg:286
+#: Girl_unDead/scenarios/02_escape.cfg:288
 msgid ""
 "Wrong?  I don't think so!  Such women should be burned at the stake.  Search "
 "quickly and then we'll cleanse this place."
@@ -568,34 +573,34 @@ msgstr ""
 "さっさと探すんだ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:290
+#: Girl_unDead/scenarios/02_escape.cfg:292
 msgid "Mom!  I should go to her.  But, she told me to escape.  I'm sorry, Mom."
 msgstr ""
 "お母さん！　戻りたいけどお母さんは逃げろと言っていた・・・　ごめんなさい、お"
 "母さん。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/02_escape.cfg:294
+#: Girl_unDead/scenarios/02_escape.cfg:296
 msgid "Malica,  run!"
 msgstr "マリカ、逃げるのよ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:313
+#: Girl_unDead/scenarios/02_escape.cfg:315
 msgid "It hurts!  The sun melts my skin."
 msgstr "痛い！　お日様に当たると肌が溶けてしまう。"
 
 #. [message]: speaker=Village Chief
-#: Girl_unDead/scenarios/02_escape.cfg:351
+#: Girl_unDead/scenarios/02_escape.cfg:353
 msgid "The girl is running away.  Pursue and kill her."
 msgstr "ガキが逃げやがった。捕まえて成仏させてやれ！"
 
 #. [unit]: type=Red Mage, gender=male, id=Old Mage
-#: Girl_unDead/scenarios/02_escape.cfg:390
+#: Girl_unDead/scenarios/02_escape.cfg:392
 msgid "Old Mage"
 msgstr "老魔術師"
 
 #. [message]: speaker=Old Mage
-#: Girl_unDead/scenarios/02_escape.cfg:396
+#: Girl_unDead/scenarios/02_escape.cfg:398
 msgid ""
 "I was able to get the art of resurrection revealed thanks to that girl.  "
 "This is good, but with her half-hearted body she will not last long."
@@ -604,44 +609,44 @@ msgstr ""
 "半死体では長くは持つまい。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:409
+#: Girl_unDead/scenarios/02_escape.cfg:414
 msgid "Oh, they're burning my house!  Mom!!"
 msgstr "ああ、おうちが燃えている。お母さん！！"
 
 #. [message]: speaker=Old Mage
-#: Girl_unDead/scenarios/02_escape.cfg:440
+#: Girl_unDead/scenarios/02_escape.cfg:451
 msgid "Well, my powers were not enough, but I will soon rise again."
 msgstr "うむ、わしもそろそろ潮時かな。"
 
 #. [message]: speaker=Old Mage
-#: Girl_unDead/scenarios/02_escape.cfg:445
+#: Girl_unDead/scenarios/02_escape.cfg:456
 msgid "Villagers know too much, so I must get rid of all of them by Puppeteer."
 msgstr ""
 "村人はいろいろ知りすぎてしまったわい。あとでザコ遣いにあいつらを始末させるこ"
 "とにしよう。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:465
+#: Girl_unDead/scenarios/02_escape.cfg:476
 msgid "What happened to me?"
 msgstr "私どうしちゃったの？"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/02_escape.cfg:469
+#: Girl_unDead/scenarios/02_escape.cfg:480
 msgid "Even in woods, Malica's skin and flesh melted by sun light."
 msgstr "森の中にいてさえも、太陽の光にマリカの皮膚と肉は溶けてしまった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:484
+#: Girl_unDead/scenarios/02_escape.cfg:495
 msgid "Why did I have to be killed?"
 msgstr "どうして私が殺されなきゃならないの？"
 
 #. [message]: speaker=Village Chief
-#: Girl_unDead/scenarios/02_escape.cfg:499
+#: Girl_unDead/scenarios/02_escape.cfg:510
 msgid "Beyond here there are monsters.  We won't go on."
 msgstr "ここから先は化け物が出る。あきらめよう。"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/02_escape.cfg:510
+#: Girl_unDead/scenarios/02_escape.cfg:521
 msgid ""
 "What has happened?  Strange that a farmer would come to a place like this.  "
 "Kid, rotting in a place like this is not good for us."
@@ -650,17 +655,17 @@ msgstr ""
 "けのガキがいやがらあ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:514
+#: Girl_unDead/scenarios/02_escape.cfg:525
 msgid "Oh no!  Undead!!"
 msgstr "きゃあ！　アンデッド！！"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/02_escape.cfg:518
+#: Girl_unDead/scenarios/02_escape.cfg:529
 msgid "Huh?  You are undead, too.  Do you not know? "
 msgstr "おいおい、お前だってアンデッドじゃねえか。自分で気づいてないのか？"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/02_escape.cfg:522
+#: Girl_unDead/scenarios/02_escape.cfg:533
 msgid ""
 "There is no answer, she has fainted.  She is undead, yet she somehow still "
 "seems human.  Interesting, I think I'll take her home to our leader.  Her "
@@ -672,49 +677,49 @@ msgstr ""
 "ヤリングを拾っていってやるか。もう片方は見つからねえな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:537
+#: Girl_unDead/scenarios/02_escape.cfg:548
 msgid "Oh no!"
 msgstr "やめてっ！"
 
 #. [message]: speaker=second_unit
-#: Girl_unDead/scenarios/02_escape.cfg:541
+#: Girl_unDead/scenarios/02_escape.cfg:552
 msgid "Do you dare fight us humans!"
 msgstr "人間様相手に戦おうってのか？"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/02_escape.cfg:551
+#: Girl_unDead/scenarios/02_escape.cfg:562
 msgid "Rest in peace!  You must die!"
 msgstr "おとなしく成仏しやがれ！"
 
 #. [message]: speaker=Malica
 #. [message]: speaker=Mermaid Princess
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/02_escape.cfg:555
-#: Girl_unDead/scenarios/08.5_gulf.cfg:425
-#: Girl_unDead/scenarios/08.5_gulf.cfg:527
-#: Girl_unDead/scenarios/08.5_gulf.cfg:593
+#: Girl_unDead/scenarios/02_escape.cfg:566
+#: Girl_unDead/scenarios/08.5_gulf.cfg:426
+#: Girl_unDead/scenarios/08.5_gulf.cfg:528
+#: Girl_unDead/scenarios/08.5_gulf.cfg:594
 msgid "No!"
 msgstr "ああ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:565
+#: Girl_unDead/scenarios/02_escape.cfg:576
 msgid "What happened?"
 msgstr "今私何をしたの？"
 
 #. [message]: speaker=second_unit
-#: Girl_unDead/scenarios/02_escape.cfg:569
+#: Girl_unDead/scenarios/02_escape.cfg:580
 msgid "This kid used some kind of magic."
 msgstr "このガキ、変な魔法を使いやがった。"
 
 #. [message]: speaker=Village Chief
-#: Girl_unDead/scenarios/02_escape.cfg:583
+#: Girl_unDead/scenarios/02_escape.cfg:594
 msgid "This kid is dangerous!  Kill her!"
 msgstr "このガキは危険だ。殺っちまえ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/02_escape.cfg:595
-#: Girl_unDead/scenarios/02_escape.cfg:607
-#: Girl_unDead/scenarios/02_escape.cfg:619
+#: Girl_unDead/scenarios/02_escape.cfg:606
+#: Girl_unDead/scenarios/02_escape.cfg:618
+#: Girl_unDead/scenarios/02_escape.cfg:630
 msgid "Mom sorry. I can't go any more."
 msgstr "おかあさんごめんなさい。もう進めない・・・"
 
@@ -724,76 +729,76 @@ msgid "Cave of the Undead"
 msgstr "アンデッドの洞窟"
 
 #. [side]: id=Varas, type=Ancient Lich
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:31
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:32
 msgid "Boss of the Undead"
 msgstr "アンデッドの首領"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:49
-#: Girl_unDead/scenarios/07_along_the_way.cfg:93
-#: Girl_unDead/scenarios/13_epilogue.cfg:31
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:50
+#: Girl_unDead/scenarios/07_along_the_way.cfg:94
+#: Girl_unDead/scenarios/13_epilogue.cfg:32
 msgid "Only conversation"
 msgstr "会話のみ"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:71
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:72
 msgid "Boss.  I have brought something unusual."
 msgstr "お頭、珍しい物を持ってきました。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:75
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:76
 msgid "Huh?  Did you pick up a dead cat?  Show me anyway."
 msgstr "何だ！どうせ猫の死体でも拾ったんだろう。とにかく見せてみろ。"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:79
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:80
 msgid "It's not a dead cat.  Take a look."
 msgstr "俺がいつ猫ちゃんの死体を拾って来たかよ。これだよ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:87
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:88
 msgid "Where am I?"
 msgstr "ここはどこ？"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:91
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:92
 msgid "Oh, this child is unusual."
 msgstr "ほほう、子どものアンデッドとは珍しい。"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:95
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:96
 msgid "Yeah.  I think she ran away from villagers at the Swamp of No Return."
 msgstr "でしょうとも。どうも帰らず沼の村から逃げて来たようですぜ。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:99
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:100
 msgid "Girl, who are you?"
 msgstr "娘よ、お前の名はなんという？"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:103
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:104
 msgid "Don't be afraid.  He looks scary, but won't eat you."
 msgstr ""
 "怖がらなくてもいいんだぜ。お頭はおっかねえ顔してるが、お前を食ったりしねえか"
 "らな。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:107
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:108
 msgid "SHUT UP!  Let her speak."
 msgstr "黙れ！　俺は娘に聞いているのだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:111
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:112
 msgid "My name is Malica.  I am the daughter of Nina."
 msgstr "私はマリカ。ニーナの娘。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:115
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:116
 msgid "Well, daughter of Nina.  How did you die?"
 msgstr "なるほど。ニーナの娘とな。それでなぜお前は死んだのだ？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:119
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:120
 msgid ""
 "I was attacked by monsters in the swamp.  When I woke up, I was chased by "
 "the villagers.  And my mother...Oh Mama!!"
@@ -802,19 +807,19 @@ msgstr ""
 "さんが・・・ああ、お母さん！！"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:123
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:124
 msgid "Oh, she is crying.  I don't like children.  Undead shouldn't cry."
 msgstr ""
 "ち、泣き出しやがった。だからガキは嫌いなんだ。そもそもアンデッドは泣いたりし"
 "ねえもんだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:127
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:128
 msgid "...Mom! ...Mom..."
 msgstr "・・・ぐす、お母さん・・・"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:131
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:132
 msgid ""
 "She can't talk now.  I can see that magic made her undead.  I wish to "
 "observe her for a while.  You will take care of her."
@@ -823,12 +828,12 @@ msgstr ""
 "ろう。しばらく様子を見ることとしよう。お前、この娘の世話をしてやれ。"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:135
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:136
 msgid "I?  Heck no!  I can't take care of her!"
 msgstr "俺様が？冗談じゃねえ。ガキの面倒なんかみれるか！"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:139
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:140
 msgid ""
 "Ha!  Haven't you brought her here?  You will take care of her.  I need to "
 "know your name in order to summon you.  Do you remember your name before you "
@@ -838,30 +843,30 @@ msgstr ""
 "が必要だな。死ぬ前の名前を覚えているか？"
 
 #. [message]: speaker=undead
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:144
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:145
 msgid "My name?  I have no memory of being alive."
 msgstr "名前も何も、生身の頃のことはきれいさっぱり忘れてまさあ。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:148
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:149
 msgid "Well then, I will call you Poet because you talk too much."
 msgstr "そうか、では貴様を詩人と呼ぶこととしよう。貴様はおしゃべりだからな。"
 
 #. [event]
 #. [unit]: type=Revenant Loyal, id=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:151
-#: Girl_unDead/scenarios/04_training.cfg:162
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:152
+#: Girl_unDead/scenarios/04_training.cfg:163
 #: Girl_unDead/scenarios/sandbox.cfg:147
 msgid "Poet"
 msgstr "詩人"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:155
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:156
 msgid "Oh, I feel tears of joy because I have a good name."
 msgstr "ああ、すばらしい名前をいただいて、うれし涙が出てくるぜ。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:159
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:160
 msgid ""
 "It is you who said the undead don't cry.  And after Malica falls asleep, I "
 "want you to explore the village."
@@ -870,62 +875,62 @@ msgstr ""
 "は村の様子を見に行ってくるんだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:163
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:164
 msgid "You speak of her as if she is your daughter."
 msgstr "お頭はまるでこのガキが自分の娘みたいに話してますね。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:167
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:168
 msgid "That's a good idea.  I am adopting her."
 msgstr "なるほど、それはいい考えだ。この子を俺の娘としよう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:171
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:172
 msgid "I cannot believe this!"
 msgstr "信じられねえぜ！"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:175
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:176
 msgid "That's not important.  Remember to search the village."
 msgstr "俺の勝手だろうが。それより村の探索を忘れるなよ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:179
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:180
 msgid "Yes sir.  Oh, I forgot.  Here is a dirty earring."
 msgstr "わかってまさあ。おっと、汚ねえイヤリングがあることを忘れてたぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:183
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:184
 msgid "It's mine.  Please return it to me!"
 msgstr "それは私のよ。返して！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:187
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:188
 msgid "Oh, so you do speak."
 msgstr "なんだ、お前しゃべれるじゃねえか。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:191
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:192
 msgid "My mother gave me that.  There was only one."
 msgstr "それはお母さんからもらったの。はじめから片方しかなかったけど。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:195
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:196
 msgid "Show me that earring."
 msgstr "そのイヤリングを見せてみろ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:199
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:200
 msgid "I didn't know you like jewels."
 msgstr "お頭が光り物が好きとは知らなかったぜ。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:203
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:204
 msgid "I don't ... Return it to Malica."
 msgstr "ばか言うな。ほら、返してやれ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:207
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:208
 msgid ""
 "But she does not have ears anymore.  We could use string ... make a "
 "necklace ... you still have a neck."
@@ -935,23 +940,23 @@ msgstr ""
 
 #. [message]: speaker=Malica
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:211
-#: Girl_unDead/scenarios/08.5_gulf.cfg:548
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:212
+#: Girl_unDead/scenarios/08.5_gulf.cfg:549
 msgid "Thank you."
 msgstr "ありがとう・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:215
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:216
 msgid "That's the first time in my undead life I've been thanked."
 msgstr "ありがとうなんて言われたのは、アンデッドになって以来初めてだぜ。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:219
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:220
 msgid "I doubt you were ever thanked while alive."
 msgstr "生きているうちから感謝されるようなことやってきたとは思えないがな。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/03_cave_of_undead.cfg:223
+#: Girl_unDead/scenarios/03_cave_of_undead.cfg:224
 msgid "Sure.  Oh, I'm going now to explore the village."
 msgstr "違いねえ。おっと、村の探索に行かなきゃな。"
 
@@ -961,24 +966,24 @@ msgid "Training"
 msgstr "修行"
 
 #. [side]: id=Garak, type=Great Troll
-#: Girl_unDead/scenarios/04_training.cfg:41
+#: Girl_unDead/scenarios/04_training.cfg:42
 #: Girl_unDead/scenarios/sandbox.cfg:46
 msgid "dessart troll"
 msgstr "砂漠のトロール"
 
 #. [side]
-#: Girl_unDead/scenarios/04_training.cfg:72
+#: Girl_unDead/scenarios/04_training.cfg:73
 #: Girl_unDead/scenarios/sandbox.cfg:77
 msgid "Beasts"
 msgstr "野生動物"
 
 #. [part]
-#: Girl_unDead/scenarios/04_training.cfg:118
+#: Girl_unDead/scenarios/04_training.cfg:119
 msgid "Poet searched the village and reported a surprising fact."
 msgstr "村を偵察して来た詩人の報告は驚くべきものだった。"
 
 #. [part]
-#: Girl_unDead/scenarios/04_training.cfg:121
+#: Girl_unDead/scenarios/04_training.cfg:122
 msgid ""
 "There were no villagers, and soldiers of the Kingdom were burning down every "
 "building."
@@ -986,7 +991,7 @@ msgstr ""
 "村人は一人として残っておらず、王国の兵士たちがすべての建物を焼き払っていた。"
 
 #. [part]
-#: Girl_unDead/scenarios/04_training.cfg:124
+#: Girl_unDead/scenarios/04_training.cfg:125
 msgid ""
 "That night, he captured a soldier to find out what was going on.  The "
 "soldier said every villager had become a walking corpse, so the corpses and "
@@ -996,7 +1001,7 @@ msgstr ""
 "なってしまったため、彼らは死体を村ごと焼いたとのことだった。"
 
 #. [part]
-#: Girl_unDead/scenarios/04_training.cfg:127
+#: Girl_unDead/scenarios/04_training.cfg:128
 msgid ""
 "Poet asked about Malica's mother, but the soldier knew nothing about her.  "
 "There was only a field where the house had stood."
@@ -1006,12 +1011,12 @@ msgstr ""
 "なかった。"
 
 #. [part]
-#: Girl_unDead/scenarios/04_training.cfg:130
+#: Girl_unDead/scenarios/04_training.cfg:131
 msgid "The village was never rebuilt."
 msgstr "その村の存在はそのまま忘れ去られた。"
 
 #. [part]
-#: Girl_unDead/scenarios/04_training.cfg:133
+#: Girl_unDead/scenarios/04_training.cfg:134
 msgid ""
 "When Malica heard this, she became inconsolable.  But slowly, she got used "
 "to her new life among the undead.  Although the undead lacked human "
@@ -1024,38 +1029,38 @@ msgstr ""
 "優しかった。"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/04_training.cfg:141
+#: Girl_unDead/scenarios/04_training.cfg:142
 #: Girl_unDead/scenarios/sandbox.cfg:126
 msgid "Leave the valley"
 msgstr "谷から抜け出す"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/04_training.cfg:149
-#: Girl_unDead/scenarios/05_invasion.cfg:191
-#: Girl_unDead/scenarios/06_revenge.cfg:334
-#: Girl_unDead/scenarios/06_revenge.cfg:519
-#: Girl_unDead/scenarios/06_revenge.cfg:757
-#: Girl_unDead/scenarios/08.5_gulf.cfg:289
-#: Girl_unDead/scenarios/08_puppeteer.cfg:99
-#: Girl_unDead/scenarios/09_sanctuary.cfg:224
-#: Girl_unDead/scenarios/11_intrusion.cfg:290
+#: Girl_unDead/scenarios/04_training.cfg:150
+#: Girl_unDead/scenarios/05_invasion.cfg:192
+#: Girl_unDead/scenarios/06_revenge.cfg:335
+#: Girl_unDead/scenarios/06_revenge.cfg:520
+#: Girl_unDead/scenarios/06_revenge.cfg:758
+#: Girl_unDead/scenarios/08.5_gulf.cfg:290
+#: Girl_unDead/scenarios/08_puppeteer.cfg:100
+#: Girl_unDead/scenarios/09_sanctuary.cfg:225
+#: Girl_unDead/scenarios/11_intrusion.cfg:291
 #: Girl_unDead/scenarios/12_castle.cfg:266
-#: Girl_unDead/scenarios/12_castle.cfg:690
-#: Girl_unDead/scenarios/12_castle.cfg:860
-#: Girl_unDead/scenarios/12_castle.cfg:1036
+#: Girl_unDead/scenarios/12_castle.cfg:715
+#: Girl_unDead/scenarios/12_castle.cfg:884
+#: Girl_unDead/scenarios/12_castle.cfg:1061
 #: Girl_unDead/scenarios/sandbox.cfg:134
 msgid "Death of Poet"
 msgstr "詩人の死"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:174
+#: Girl_unDead/scenarios/04_training.cfg:175
 #: Girl_unDead/scenarios/sandbox.cfg:159
 msgid "I miss the cave.  With only you in a place like this I feel lonely."
 msgstr "こんな所に詩人さんと二人だけなんて心細いわ。"
 
 #. [message]: speaker=Poet
 #. [message]: type=Vampire Bat
-#: Girl_unDead/scenarios/04_training.cfg:178
+#: Girl_unDead/scenarios/04_training.cfg:179
 #: Girl_unDead/scenarios/sandbox.cfg:163
 msgid ""
 "Sorry I can't help, but because you are weak the Boss said we must train"
@@ -1064,19 +1069,19 @@ msgstr ""
 "じたんだろが。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:186
+#: Girl_unDead/scenarios/04_training.cfg:187
 #: Girl_unDead/scenarios/sandbox.cfg:171
 msgid "No need to apologize."
 msgstr "謝るんじゃねえ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:190
+#: Girl_unDead/scenarios/04_training.cfg:191
 #: Girl_unDead/scenarios/sandbox.cfg:175
 msgid "I wonder if I can do this? ..."
 msgstr "どうしましょう？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:194
+#: Girl_unDead/scenarios/04_training.cfg:195
 #: Girl_unDead/scenarios/sandbox.cfg:179
 msgid ""
 "Are you crying again?  Where do you keep tears in a dry skull?  We have no "
@@ -1087,20 +1092,20 @@ msgstr ""
 "ないんだからな。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:202
+#: Girl_unDead/scenarios/04_training.cfg:203
 #: Girl_unDead/scenarios/sandbox.cfg:187
 msgid ""
 "Stop apologizing!  Let's do what we are here for and then we can go home."
 msgstr "謝るんじゃねえ！　それよりさっさと片付けて帰ろうぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:206
+#: Girl_unDead/scenarios/04_training.cfg:207
 #: Girl_unDead/scenarios/sandbox.cfg:191
 msgid "I'm so... Yes, I should become stronger for Dad."
 msgstr "ごめんな・・・　そうね、お父さんのためにも私強くならなきゃ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:213
+#: Girl_unDead/scenarios/04_training.cfg:214
 #: Girl_unDead/scenarios/sandbox.cfg:198
 msgid ""
 "Trolls!  No one said that dirty trolls were here.  We must get to the "
@@ -1109,61 +1114,61 @@ msgstr ""
 "トロールだ！　こんなところに汚らしいトロールが巣食ってるなんて聞いてねえぞ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:228
+#: Girl_unDead/scenarios/04_training.cfg:229
 #: Girl_unDead/scenarios/sandbox.cfg:213
 msgid "Good!  There is the old fort.  My Princess, summon your minions there."
 msgstr "うまいぜ。砦跡を見つけた。姫様、あそこで兵士を呼ぶんだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:232
+#: Girl_unDead/scenarios/04_training.cfg:233
 #: Girl_unDead/scenarios/sandbox.cfg:217
 msgid "I don't know if I can?"
 msgstr "私にできるかしら？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:236
+#: Girl_unDead/scenarios/04_training.cfg:237
 #: Girl_unDead/scenarios/sandbox.cfg:221
 msgid "You can, and we need help to win this fight."
 msgstr "下っ端ばかりだけど、戦の足しにはなるさ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:248
+#: Girl_unDead/scenarios/04_training.cfg:249
 #: Girl_unDead/scenarios/sandbox.cfg:233
 msgid "You did well, my Princess."
 msgstr "よくやった、姫様。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:263
+#: Girl_unDead/scenarios/04_training.cfg:264
 #: Girl_unDead/scenarios/sandbox.cfg:248
 msgid "We did it."
 msgstr "やったな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:267
+#: Girl_unDead/scenarios/04_training.cfg:268
 #: Girl_unDead/scenarios/sandbox.cfg:252
 msgid "Thank you.  I needed your help."
 msgstr "ありがとう。詩人さんのおかげよ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:271
+#: Girl_unDead/scenarios/04_training.cfg:272
 #: Girl_unDead/scenarios/sandbox.cfg:256
 msgid "But you haven't grown much stronger."
 msgstr "でも、もっと強くならなきゃな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:275
+#: Girl_unDead/scenarios/04_training.cfg:276
 #: Girl_unDead/scenarios/sandbox.cfg:260
 msgid "I'm so..."
 msgstr "ごめん・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:279
+#: Girl_unDead/scenarios/04_training.cfg:280
 #: Girl_unDead/scenarios/sandbox.cfg:264
 msgid "Do not say sorry!"
 msgstr "だから謝るんじゃねえ！"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/04_training.cfg:291
+#: Girl_unDead/scenarios/04_training.cfg:292
 msgid ""
 "Stupid girl, You had better keep yourself locked in a dark cave rather than "
 "beating the troll I threw."
@@ -1172,66 +1177,66 @@ msgstr ""
 "倒してもしょうがねえよ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:295
+#: Girl_unDead/scenarios/04_training.cfg:296
 msgid "Who are you. For what purpose did you disturb me?"
 msgstr "あんた、どなたですか？　どうして私の邪魔をするの？"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/04_training.cfg:300
+#: Girl_unDead/scenarios/04_training.cfg:301
 msgid ""
 "Listen. If you do not want to be destroyed, you better not do unnecessary "
 "things."
 msgstr "おい。殺されたくなかったら、余計なことするんじゃねえぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:304
+#: Girl_unDead/scenarios/04_training.cfg:305
 msgid "She has disappeared."
 msgstr "どこかに行っちゃったわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:308
+#: Girl_unDead/scenarios/04_training.cfg:309
 msgid ""
 "I am concerned about what she was saying. But let's go back to the cave now."
 msgstr "彼女の言葉が気になるけど。でも、今は洞窟に戻ろうっと。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:330
+#: Girl_unDead/scenarios/04_training.cfg:331
 #: Girl_unDead/scenarios/sandbox.cfg:280
 msgid "Dad, Poet, I'm sorry I was not strong."
 msgstr "お父さん、詩人さん、私強くなれなくてごめんなさい。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:334
+#: Girl_unDead/scenarios/04_training.cfg:335
 #: Girl_unDead/scenarios/sandbox.cfg:284
 msgid "Annoying!  Do not say sorry, my Princess."
 msgstr "馬鹿やろう！　あやまるんじゃねえ、姫様。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:338
+#: Girl_unDead/scenarios/04_training.cfg:339
 #: Girl_unDead/scenarios/sandbox.cfg:288
 msgid "Sorry, sorry... "
 msgstr "ごめんなさい、ごめんなさい・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:352
+#: Girl_unDead/scenarios/04_training.cfg:353
 #: Girl_unDead/scenarios/sandbox.cfg:302
 msgid "I can not believe I've been defeated."
 msgstr "俺様がやられちまうなんてな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:356
+#: Girl_unDead/scenarios/04_training.cfg:357
 #: Girl_unDead/scenarios/sandbox.cfg:306
 msgid "I was too weak to help ... I'm sorry."
 msgstr "私が弱すぎたから・・・ごめんさい。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/04_training.cfg:360
+#: Girl_unDead/scenarios/04_training.cfg:361
 #: Girl_unDead/scenarios/sandbox.cfg:310
 msgid "Do not say sorry, my Princess..."
 msgstr "謝るんじゃねえ。姫様・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/04_training.cfg:364
+#: Girl_unDead/scenarios/04_training.cfg:365
 #: Girl_unDead/scenarios/sandbox.cfg:314
 msgid "Poet! Do no die!"
 msgstr "詩人さん！　死なないで！"
@@ -1242,7 +1247,7 @@ msgid "Invasion from Orcs"
 msgstr "オークの襲撃"
 
 #. [part]
-#: Girl_unDead/scenarios/05_invasion.cfg:20
+#: Girl_unDead/scenarios/05_invasion.cfg:21
 msgid ""
 "Malica's training continued, but her progress was slow and disappointed "
 "Varas and Poet.  Still, she was the adopted daughter of Varas and so, for "
@@ -1253,7 +1258,7 @@ msgstr ""
 "ははそれだけで十分だった。"
 
 #. [part]
-#: Girl_unDead/scenarios/05_invasion.cfg:23
+#: Girl_unDead/scenarios/05_invasion.cfg:24
 msgid ""
 "Soon, Malica was ordered by Varas to explore the Northern Valley.  She "
 "departed with Poet and her soldiers."
@@ -1262,7 +1267,7 @@ msgstr ""
 "たちとともに出立した。"
 
 #. [part]
-#: Girl_unDead/scenarios/05_invasion.cfg:26
+#: Girl_unDead/scenarios/05_invasion.cfg:27
 msgid ""
 "She had a foreboding feeling about this mission.  Ignoring the advice and "
 "pleadings of Poet who insisted that they finish their mission there first, "
@@ -1272,77 +1277,77 @@ msgstr ""
 "わらず、アジトに引き返してしまった。"
 
 #. [side]: id=Orcs, type=Orcish Sovereign
-#: Girl_unDead/scenarios/05_invasion.cfg:55
+#: Girl_unDead/scenarios/05_invasion.cfg:56
 msgid "Orc"
 msgstr "オーク"
 
 #. [side]: id=Varas, type=Ancient Lich
-#: Girl_unDead/scenarios/05_invasion.cfg:104
+#: Girl_unDead/scenarios/05_invasion.cfg:105
 msgid "Undead"
 msgstr "アンデッド"
 
 #. [side]: id=Varas, type=Ancient Lich
-#: Girl_unDead/scenarios/05_invasion.cfg:106
+#: Girl_unDead/scenarios/05_invasion.cfg:107
 msgid "Varas"
 msgstr "ヴァラス"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/05_invasion.cfg:183
-#: Girl_unDead/scenarios/06_revenge.cfg:326
-#: Girl_unDead/scenarios/06_revenge.cfg:511
-#: Girl_unDead/scenarios/06_revenge.cfg:749
+#: Girl_unDead/scenarios/05_invasion.cfg:184
+#: Girl_unDead/scenarios/06_revenge.cfg:327
+#: Girl_unDead/scenarios/06_revenge.cfg:512
+#: Girl_unDead/scenarios/06_revenge.cfg:750
 msgid "Defeat enemy leader"
 msgstr "敵のリーダーを倒す"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:211
+#: Girl_unDead/scenarios/05_invasion.cfg:212
 msgid "Orcs here?  What is happening?  Is that a portal behind the throne?"
 msgstr "オークがいる？　何があったの？　あんなところに抜け穴がある。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:215
+#: Girl_unDead/scenarios/05_invasion.cfg:216
 msgid "Poet, what are you doing here?  You were to escape North with Malica."
 msgstr "詩人、なぜ戻って来た？　お前はマリカと逃げたはずでは。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:219
+#: Girl_unDead/scenarios/05_invasion.cfg:220
 msgid "I am sorry.  She wouldn't listen to me."
 msgstr "すまねえ。姫様が言うことを聞かなかったもんで。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:223
+#: Girl_unDead/scenarios/05_invasion.cfg:224
 msgid "Dad!  What is happening here?"
 msgstr "お父さん、一体何が起こっているの？"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/05_invasion.cfg:227
+#: Girl_unDead/scenarios/05_invasion.cfg:228
 msgid "There she is!  The one we've been looking for."
 msgstr "探していた獲物がいたぜ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:231
+#: Girl_unDead/scenarios/05_invasion.cfg:232
 msgid "...Me?"
 msgstr "・・・私が？"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/05_invasion.cfg:235
+#: Girl_unDead/scenarios/05_invasion.cfg:236
 msgid "Lady, come to us and we will leave and do no further harm."
 msgstr "お嬢ちゃん、こっちへおいで。そうすれば何もしないぜ。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:239
+#: Girl_unDead/scenarios/05_invasion.cfg:240
 msgid "Malica, don't believe them.  They are lying.  Just run..."
 msgstr "マリカ、あいつらを信じるんじゃない。逃げるんだ・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:243
+#: Girl_unDead/scenarios/05_invasion.cfg:244
 msgid ""
 "We don't have a much of a chance fighting.  Listen to your father, escape "
 "with us."
 msgstr "こっちに勝ち目はねえな。お頭の言うとおり逃げようぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:247
+#: Girl_unDead/scenarios/05_invasion.cfg:248
 msgid ""
 "No!  I can't just leave him here.  Run away if you want, but I'll save "
 "Father or die trying."
@@ -1351,22 +1356,22 @@ msgstr ""
 "私はお父さんを助けるから。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:251
+#: Girl_unDead/scenarios/05_invasion.cfg:252
 msgid "You're going to die here with him then, damn it!"
 msgstr "ここで親子ともども死ぬつもりかよ、畜生！"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:255
+#: Girl_unDead/scenarios/05_invasion.cfg:256
 msgid "Malica, run!  Poet, force her to leave."
 msgstr "マリカ逃げるんだ。詩人よ、彼女を力づくでも連れ出せ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:259
+#: Girl_unDead/scenarios/05_invasion.cfg:260
 msgid "I'm sorry, Dad.  But I can't leave you here!"
 msgstr "お父さん、ごめんなさい。でもここを逃げることはできないわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:263
+#: Girl_unDead/scenarios/05_invasion.cfg:264
 msgid ""
 "This is foolishness, Malica.  But I am still her minion, not yours, Lord.  I "
 "must follow her orders."
@@ -1375,7 +1380,7 @@ msgstr ""
 "お頭じゃなくて姫様の手下だからな。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:271
+#: Girl_unDead/scenarios/05_invasion.cfg:272
 msgid ""
 "Human mages along side orcs?  These are strange times.  Worse yet, from "
 "their robes, I think they are in service to the throne!"
@@ -1384,19 +1389,19 @@ msgstr ""
 "付きの魔術師だな。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:282
-#: Girl_unDead/scenarios/05_invasion.cfg:338
+#: Girl_unDead/scenarios/05_invasion.cfg:283
+#: Girl_unDead/scenarios/05_invasion.cfg:339
 msgid "So this is my end?"
 msgstr "これで私も終わりか？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:286
-#: Girl_unDead/scenarios/05_invasion.cfg:342
+#: Girl_unDead/scenarios/05_invasion.cfg:287
+#: Girl_unDead/scenarios/05_invasion.cfg:343
 msgid "Dad... I couldn't save you..."
 msgstr "お父さん、私、お父さんを助けられなかった・・・"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:290
+#: Girl_unDead/scenarios/05_invasion.cfg:291
 msgid ""
 "Malica, don't worry.  Destruction for our kind is repose.  Show me your "
 "earring; I would have that as my final vision."
@@ -1405,45 +1410,45 @@ msgstr ""
 "グを見せてくれ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:294
-#: Girl_unDead/scenarios/05_invasion.cfg:350
+#: Girl_unDead/scenarios/05_invasion.cfg:295
+#: Girl_unDead/scenarios/05_invasion.cfg:351
 msgid "Here."
 msgstr "ここに。"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:298
-#: Girl_unDead/scenarios/05_invasion.cfg:354
+#: Girl_unDead/scenarios/05_invasion.cfg:299
+#: Girl_unDead/scenarios/05_invasion.cfg:355
 msgid "Veronica... "
 msgstr "ヴェロニカ・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:302
+#: Girl_unDead/scenarios/05_invasion.cfg:303
 msgid "Dad!!  Orcs!  I will have my revenge!"
 msgstr "お父さん！！　オークども、覚悟しなさい！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:306
+#: Girl_unDead/scenarios/05_invasion.cfg:307
 msgid "Oh, this would be birth of a new queen, but she lacks the strength."
 msgstr "おお、新しい女王様の誕生だぜ。もっとも相変わらず弱いけれどな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:323
+#: Girl_unDead/scenarios/05_invasion.cfg:324
 msgid "What is your purpose here?"
 msgstr "何のためにここに来たの？"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/05_invasion.cfg:327
+#: Girl_unDead/scenarios/05_invasion.cfg:328
 msgid "Human has gived us gold.  I don't know more..."
 msgstr "人間から金をもらったからだよ。それ以上は俺も知らねえな・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:331
-#: Girl_unDead/scenarios/05_invasion.cfg:379
+#: Girl_unDead/scenarios/05_invasion.cfg:332
+#: Girl_unDead/scenarios/05_invasion.cfg:380
 msgid "He died...."
 msgstr "死んでしまったわ・・・"
 
 #. [message]: speaker=Varas
-#: Girl_unDead/scenarios/05_invasion.cfg:346
+#: Girl_unDead/scenarios/05_invasion.cfg:347
 msgid ""
 "Malica, don't worry.  Destruction for our kind is repose. Show me your "
 "earring; I would have that as my final vision."
@@ -1452,22 +1457,22 @@ msgstr ""
 "グを見せてくれ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:361
+#: Girl_unDead/scenarios/05_invasion.cfg:362
 msgid "Dad!!"
 msgstr "お父さん！！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:368
+#: Girl_unDead/scenarios/05_invasion.cfg:369
 msgid "You came here for me and slew my father.  What is your purpose here?"
 msgstr "何のためにここまで来たの？"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/05_invasion.cfg:372
+#: Girl_unDead/scenarios/05_invasion.cfg:373
 msgid "Human has gived us gold. I don't know more..."
 msgstr "人間から金をもらったからだよ。それ以上は俺も知らねえな・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:385
+#: Girl_unDead/scenarios/05_invasion.cfg:386
 msgid ""
 "My Princess, what shall we do?  If we stay here, they will come back with "
 "greater numbers.  We must escape to the western valley, and rebuild the camp."
@@ -1476,19 +1481,19 @@ msgstr ""
 "ろう。いったん北の谷に逃げて軍勢を立て直そうぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:389
+#: Girl_unDead/scenarios/05_invasion.cfg:390
 msgid "I cannot run away."
 msgstr "ここで逃げられないわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:393
+#: Girl_unDead/scenarios/05_invasion.cfg:394
 msgid ""
 "From what?  There are few of us here and nothing we can do will bring your "
 "father back.  I do not want to die in vain."
 msgstr "でもこの手勢じゃ少なすぎて勝てる見込みはねえ。おいら道連れは勘弁だぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:397
+#: Girl_unDead/scenarios/05_invasion.cfg:398
 msgid ""
 "You're barely alive. Run away, if you want.  I don't care. I am going to "
 "take the fight to them.  I want to know why they want me.  Besides, I do not "
@@ -1498,7 +1503,7 @@ msgstr ""
 "るのか知りたいの。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:401
+#: Girl_unDead/scenarios/05_invasion.cfg:402
 msgid ""
 "Alas!  You are as stubborn as your old father.  I will follow where you lead."
 msgstr ""
@@ -1506,12 +1511,12 @@ msgstr ""
 "ますよ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/05_invasion.cfg:405
+#: Girl_unDead/scenarios/05_invasion.cfg:406
 msgid "Thank you Poet!  I did not want to have to do this alone."
 msgstr "ありがとう詩人さん！　私本当は心細かったの。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/05_invasion.cfg:409
+#: Girl_unDead/scenarios/05_invasion.cfg:410
 msgid "Very well!"
 msgstr "これは一本取られたぜ。"
 
@@ -1521,69 +1526,69 @@ msgid "Revenge"
 msgstr "復讐"
 
 #. [side]: id=Orcs, type=Orcish Sovereign
-#: Girl_unDead/scenarios/06_revenge.cfg:36
+#: Girl_unDead/scenarios/06_revenge.cfg:37
 msgid "Orcs"
 msgstr "オーク"
 
 #. [side]
-#: Girl_unDead/scenarios/06_revenge.cfg:208
+#: Girl_unDead/scenarios/06_revenge.cfg:209
 msgid "Elves"
 msgstr "エルフ"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:352
+#: Girl_unDead/scenarios/06_revenge.cfg:353
 msgid "We have arrived, and from somewhere the smell of humans arises."
 msgstr "オークどもの巣に着いたぜ。どっからか人間の臭いがするな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:356
+#: Girl_unDead/scenarios/06_revenge.cfg:357
 msgid "We must go forward."
 msgstr "先に進みましょう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:360
+#: Girl_unDead/scenarios/06_revenge.cfg:361
 msgid ""
 "You've seem to have become our leader, my Princess, but I wish you were "
 "stronger..."
 msgstr "姫様もだいぶ首領らしくなってきたぜ。これでもっと強けりゃなあ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:368
+#: Girl_unDead/scenarios/06_revenge.cfg:369
 msgid "Do not apologize!  You must lead us. I will conceal your weakness."
 msgstr "謝るんじゃねえ！　首領たる者、配下に弱みを見せちゃならねえ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:372
+#: Girl_unDead/scenarios/06_revenge.cfg:373
 msgid "I'm so... Yes. I will!"
 msgstr "ごめんな・・・　そうね。私がんばる。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:388
+#: Girl_unDead/scenarios/06_revenge.cfg:389
 msgid "Oh, here is a poor elf."
 msgstr "おや、こんなところにエルフの小僧がいやがる。"
 
 #. [unit]: id=Cyclos, type=Elvish Hero
-#: Girl_unDead/scenarios/06_revenge.cfg:396
+#: Girl_unDead/scenarios/06_revenge.cfg:397
 msgid "Cyclos"
 msgstr "シクロス"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:406
+#: Girl_unDead/scenarios/06_revenge.cfg:407
 msgid "You undead.  Are you with the orcs?"
 msgstr "アンデッドども、貴様らもオークの仲間か？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:410
+#: Girl_unDead/scenarios/06_revenge.cfg:411
 msgid "Oh, a bandit!"
 msgstr "きゃあ、山賊だわ！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:414
+#: Girl_unDead/scenarios/06_revenge.cfg:415
 msgid "... This is the first time I have been mistaken for a bandit."
 msgstr "・・・こんななりだが、山賊に間違われたのは生まれて初めてだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:418
+#: Girl_unDead/scenarios/06_revenge.cfg:419
 msgid ""
 "Mmm... Please forget what she said.  Still, we shall kill you, then go kill "
 "these orcs."
@@ -1592,7 +1597,7 @@ msgstr ""
 "どもを殺ってやる。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:422
+#: Girl_unDead/scenarios/06_revenge.cfg:423
 msgid ""
 "Kill me!  I came here prepared for death.  but, orcs are my enemies too. How "
 "about make a trade between us?"
@@ -1601,14 +1606,14 @@ msgstr ""
 "だ。ここはひとつ取引しないか？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:426
+#: Girl_unDead/scenarios/06_revenge.cfg:427
 msgid ""
 "A trade? You are joking.  There is nothing you, a captive, have that we want."
 msgstr ""
 "取引だと？面白いこというじゃねえか。お前に提供できるもがあるとは思えねえが。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:430
+#: Girl_unDead/scenarios/06_revenge.cfg:431
 msgid ""
 "You are fighting the orcs, aren't you?  Their defense at the front is strong "
 "and will be difficult to break.  I know a secret passage."
@@ -1617,13 +1622,13 @@ msgstr ""
 "ているのだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:434
+#: Girl_unDead/scenarios/06_revenge.cfg:435
 msgid "Hm... The orcs like secret passages.  What do you want in return?"
 msgstr ""
 "ほう、よくよくオークは抜け道が好きと見える。それで見返りは何が欲しいんだ？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:438
+#: Girl_unDead/scenarios/06_revenge.cfg:439
 msgid ""
 "The orcs have kidnapped the shamans of my village and have imprisoned them "
 "somewhere in this cave.  Help me free them."
@@ -1632,14 +1637,14 @@ msgstr ""
 "女たちを自由にしたい。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:442
+#: Girl_unDead/scenarios/06_revenge.cfg:443
 msgid ""
 "It would be ridiculous to try to rescue the shamans.  No, your life is at an "
 "end."
 msgstr "呪術師を助けるために単身乗り込むとはお前もばかな奴だ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:446
+#: Girl_unDead/scenarios/06_revenge.cfg:447
 msgid ""
 "My life is unimportant compared to theirs.  If you hurt one of them, I will "
 "kill you all."
@@ -1648,17 +1653,17 @@ msgstr ""
 "ら、私は貴様ら全員を殺す。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:450
+#: Girl_unDead/scenarios/06_revenge.cfg:451
 msgid "Another joke!  You have balls.  I shall kill you now!"
 msgstr "ほざけっ！　このガキ、今殺してやる！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:454
+#: Girl_unDead/scenarios/06_revenge.cfg:455
 msgid "Do so if you can, but you will never defeat the orcs."
 msgstr "殺すがいい。だか、貴様らは決してオークに勝てまい。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:458
+#: Girl_unDead/scenarios/06_revenge.cfg:459
 msgid ""
 "Poet!  You elf!  Stop!!  The orcs are certainly stronger than us and a "
 "frontal attack will not succeed.  I promise we will not hurt your shamans.  "
@@ -1669,17 +1674,17 @@ msgstr ""
 "抜け道に案内してください。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:462
+#: Girl_unDead/scenarios/06_revenge.cfg:463
 msgid "And I still demand your life."
 msgstr "それから約束を果たしたら、お前の命もよこしな。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:466
+#: Girl_unDead/scenarios/06_revenge.cfg:467
 msgid "Agreed.  My life is worth their rescue."
 msgstr "いいだろう。彼女たちが助かれば私はどうなっても構わない。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:470
+#: Girl_unDead/scenarios/06_revenge.cfg:471
 msgid ""
 "You underestimate the value of your life.  And what is your name?  I am "
 "Malica and this is Poet."
@@ -1688,12 +1693,12 @@ msgstr ""
 "ちらが詩人さん。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:474
+#: Girl_unDead/scenarios/06_revenge.cfg:475
 msgid "My name is Cyclos."
 msgstr "私の名はシクロスだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:478
+#: Girl_unDead/scenarios/06_revenge.cfg:479
 msgid ""
 "Cyclos.  Fitting name.  Sorry I mistook you for a bandit.  By the way, why "
 "are you looking at me so seriously?"
@@ -1702,7 +1707,7 @@ msgstr ""
 "どうしてずっと私を見つめているの？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:482
+#: Girl_unDead/scenarios/06_revenge.cfg:483
 msgid ""
 "Sorry.  I saw woman undead for the first time.  And you're wearing a rare "
 "necklace."
@@ -1711,7 +1716,7 @@ msgstr ""
 "思って。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:486
+#: Girl_unDead/scenarios/06_revenge.cfg:487
 msgid ""
 "Ah, it's my mother's earring.  But I have no longer ears.  So, Poet made it "
 "to necklace.  Oh, we must harry!  Let's go."
@@ -1720,43 +1725,43 @@ msgstr ""
 "人さんが首飾りにしてくれたの。それよりも先を急がなくては。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/06_revenge.cfg:491
+#: Girl_unDead/scenarios/06_revenge.cfg:492
 msgid "And thus Cyclos joined Malica's fighters."
 msgstr "こうしてシクロスはマリカの軍勢に加わった。"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/06_revenge.cfg:523
-#: Girl_unDead/scenarios/06_revenge.cfg:761
-#: Girl_unDead/scenarios/08.5_gulf.cfg:293
-#: Girl_unDead/scenarios/08_puppeteer.cfg:103
-#: Girl_unDead/scenarios/09_sanctuary.cfg:228
-#: Girl_unDead/scenarios/10_a_long_day.cfg:95
-#: Girl_unDead/scenarios/11_intrusion.cfg:294
+#: Girl_unDead/scenarios/06_revenge.cfg:524
+#: Girl_unDead/scenarios/06_revenge.cfg:762
+#: Girl_unDead/scenarios/08.5_gulf.cfg:294
+#: Girl_unDead/scenarios/08_puppeteer.cfg:104
+#: Girl_unDead/scenarios/09_sanctuary.cfg:229
+#: Girl_unDead/scenarios/10_a_long_day.cfg:97
+#: Girl_unDead/scenarios/11_intrusion.cfg:295
 #: Girl_unDead/scenarios/12_castle.cfg:270
-#: Girl_unDead/scenarios/12_castle.cfg:694
-#: Girl_unDead/scenarios/12_castle.cfg:864
-#: Girl_unDead/scenarios/12_castle.cfg:1040
+#: Girl_unDead/scenarios/12_castle.cfg:719
+#: Girl_unDead/scenarios/12_castle.cfg:888
+#: Girl_unDead/scenarios/12_castle.cfg:1065
 msgid "Death of Cyclos"
 msgstr "シクロスの死"
 
 #. [message]: speaker=Cyclos
 #. [message]: speaker=unit
 #. [message]: speaker=second_unit
-#: Girl_unDead/scenarios/06_revenge.cfg:540
-#: Girl_unDead/scenarios/06_revenge.cfg:830
-#: Girl_unDead/scenarios/06_revenge.cfg:901
+#: Girl_unDead/scenarios/06_revenge.cfg:541
+#: Girl_unDead/scenarios/06_revenge.cfg:831
+#: Girl_unDead/scenarios/06_revenge.cfg:902
 msgid "Here is the secret passage."
 msgstr "ここに抜け道がある・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:563
-#: Girl_unDead/scenarios/06_revenge.cfg:841
+#: Girl_unDead/scenarios/06_revenge.cfg:564
+#: Girl_unDead/scenarios/06_revenge.cfg:842
 msgid "I have found you!...  But, where is Loana?  Loana?"
 msgstr "ついに見つけた！　だが、ロアナは？　ロアナはどこだ？"
 
 #. [message]: role=Shaman
-#: Girl_unDead/scenarios/06_revenge.cfg:571
-#: Girl_unDead/scenarios/06_revenge.cfg:849
+#: Girl_unDead/scenarios/06_revenge.cfg:572
+#: Girl_unDead/scenarios/06_revenge.cfg:850
 msgid ""
 "Oh, Cyclos.  The higher shamans like Loana have been taken away by soldiers "
 "of the Kingdom."
@@ -1765,56 +1770,56 @@ msgstr ""
 "ました。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:575
-#: Girl_unDead/scenarios/06_revenge.cfg:853
+#: Girl_unDead/scenarios/06_revenge.cfg:576
+#: Girl_unDead/scenarios/06_revenge.cfg:854
 msgid "No!!..."
 msgstr "なんという・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:579
-#: Girl_unDead/scenarios/06_revenge.cfg:857
+#: Girl_unDead/scenarios/06_revenge.cfg:580
+#: Girl_unDead/scenarios/06_revenge.cfg:858
 msgid "......"
 msgstr "・・・・・・"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/06_revenge.cfg:598
+#: Girl_unDead/scenarios/06_revenge.cfg:599
 msgid "Here! chief of the enemy!"
 msgstr "敵の首領がいた！"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/06_revenge.cfg:605
+#: Girl_unDead/scenarios/06_revenge.cfg:606
 msgid "Ha ha ha! Poor undeads!"
 msgstr "ははは、哀れなアンデッドどもよ！"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/06_revenge.cfg:609
+#: Girl_unDead/scenarios/06_revenge.cfg:610
 msgid "Can you catch me?"
 msgstr "俺を捕まえられるかな？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:613
+#: Girl_unDead/scenarios/06_revenge.cfg:614
 msgid "Damn! We must find another way."
 msgstr "畜生！　別の道を探さなけりゃ。"
 
 #. [unit]: id=Troll Child, type=Trollo Whelpo
-#: Girl_unDead/scenarios/06_revenge.cfg:645
-#: Girl_unDead/scenarios/06_revenge.cfg:1064
+#: Girl_unDead/scenarios/06_revenge.cfg:646
+#: Girl_unDead/scenarios/06_revenge.cfg:1065
 msgid "Runt"
 msgstr "チビ"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:654
-#: Girl_unDead/scenarios/06_revenge.cfg:1074
+#: Girl_unDead/scenarios/06_revenge.cfg:655
+#: Girl_unDead/scenarios/06_revenge.cfg:1075
 msgid "There is a troll runt in a cage."
 msgstr "チビのトロールが捕われていやがる。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:658
+#: Girl_unDead/scenarios/06_revenge.cfg:659
 msgid "That is sad.  Free him."
 msgstr "かわいそうに。放してあげましょう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:666
+#: Girl_unDead/scenarios/06_revenge.cfg:667
 msgid ""
 "Oh, it's going to join us.  Well, it needs a name, so let's call it Runt"
 msgstr ""
@@ -1822,81 +1827,81 @@ msgstr ""
 "はチビだ。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/06_revenge.cfg:671
-#: Girl_unDead/scenarios/06_revenge.cfg:1091
+#: Girl_unDead/scenarios/06_revenge.cfg:672
+#: Girl_unDead/scenarios/06_revenge.cfg:1092
 msgid "And thus Runt joined Malica's fighters."
 msgstr "こうしてチビはマリカの軍勢に加わった。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/06_revenge.cfg:676
+#: Girl_unDead/scenarios/06_revenge.cfg:677
 msgid "(notice) If Troll Child dies, you lose."
 msgstr "（注意）このトロールが死ぬと敗北となります。"
 
 #. [unit]: id=Stella, type=Elvish Marksman, gender=female
-#: Girl_unDead/scenarios/06_revenge.cfg:694
+#: Girl_unDead/scenarios/06_revenge.cfg:695
 msgid "Stella"
 msgstr "ステラ"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_revenge.cfg:724
+#: Girl_unDead/scenarios/06_revenge.cfg:725
 msgid "Cyclos!  I'm glad you are safe and sound."
 msgstr "シクロス様！　ご無事でしたか？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:728
+#: Girl_unDead/scenarios/06_revenge.cfg:729
 msgid "Stella!"
 msgstr "おお、ステラ！"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_revenge.cfg:732
+#: Girl_unDead/scenarios/06_revenge.cfg:733
 msgid "Why are you acting in concert with these undead?"
 msgstr "シクロス様はなぜこのアンデッドどもと行動を共にされているのですか？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:736
+#: Girl_unDead/scenarios/06_revenge.cfg:737
 msgid "I will tell you later.  Let's first slaughter these orcs."
 msgstr "それは後で説明しよう。まずはオークどもをやっつけよう。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_revenge.cfg:740
+#: Girl_unDead/scenarios/06_revenge.cfg:741
 msgid "I'm ready."
 msgstr "了解しました。"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/06_revenge.cfg:765
-#: Girl_unDead/scenarios/08.5_gulf.cfg:297
-#: Girl_unDead/scenarios/08_puppeteer.cfg:107
-#: Girl_unDead/scenarios/09_sanctuary.cfg:232
-#: Girl_unDead/scenarios/11_intrusion.cfg:298
+#: Girl_unDead/scenarios/06_revenge.cfg:766
+#: Girl_unDead/scenarios/08.5_gulf.cfg:298
+#: Girl_unDead/scenarios/08_puppeteer.cfg:108
+#: Girl_unDead/scenarios/09_sanctuary.cfg:233
+#: Girl_unDead/scenarios/11_intrusion.cfg:299
 #: Girl_unDead/scenarios/12_castle.cfg:274
-#: Girl_unDead/scenarios/12_castle.cfg:698
-#: Girl_unDead/scenarios/12_castle.cfg:868
-#: Girl_unDead/scenarios/12_castle.cfg:1044
+#: Girl_unDead/scenarios/12_castle.cfg:723
+#: Girl_unDead/scenarios/12_castle.cfg:892
+#: Girl_unDead/scenarios/12_castle.cfg:1069
 msgid "Death of Stella"
 msgstr "ステラの死"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:785
+#: Girl_unDead/scenarios/06_revenge.cfg:786
 msgid "What luck!  The orc's gold."
 msgstr "ラッキー、オークどもの隠し金だ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:803
+#: Girl_unDead/scenarios/06_revenge.cfg:804
 msgid "Good fortune! Gold."
 msgstr "ラッキー！　金だぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:866
+#: Girl_unDead/scenarios/06_revenge.cfg:867
 msgid "I think there might be a secret passage, but I cann't find."
 msgstr "この辺に抜け道がありそうな気がするのだけれど見つからないわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:885
+#: Girl_unDead/scenarios/06_revenge.cfg:886
 msgid "Why have the orcs hidden this sword here?"
 msgstr "なぜ、オークはこの剣を隠したのかしら？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:889
+#: Girl_unDead/scenarios/06_revenge.cfg:890
 msgid ""
 "It has a power of darkness.  It is useful to those who dwell in the dark, "
 "but it harms those who live in light.  Perhaps human mages hate it and so "
@@ -1907,33 +1912,33 @@ msgstr ""
 "かって隠したんだろう。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:918
+#: Girl_unDead/scenarios/06_revenge.cfg:919
 msgid "Tell me why you killed my Dad, and pursued me."
 msgstr "お父さんを殺め、私を狙ったわけを話して。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:922
+#: Girl_unDead/scenarios/06_revenge.cfg:923
 msgid "Tell me where you have taken Loa.. the shamans."
 msgstr "ロア・・・いや、呪術師たちをどこへ連れて行った？"
 
 #. [message]: speaker=Orcs
-#: Girl_unDead/scenarios/06_revenge.cfg:926
+#: Girl_unDead/scenarios/06_revenge.cfg:927
 msgid "I cannot answer because I have sworn to secrecy."
 msgstr "話せねえな。契約上の秘密ってやつよ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:936
+#: Girl_unDead/scenarios/06_revenge.cfg:937
 msgid "He has died...  Again I have failed to find the answer."
 msgstr "死んでしまったわ・・・　また理由を聞き出せなかった。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:940
+#: Girl_unDead/scenarios/06_revenge.cfg:941
 msgid "Secrecy?  Ha!  My Princess, what do we do now?"
 msgstr ""
 "契約上の秘密だと？　ばかばかしい！　ところで姫様、これからどうするんだ？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:944
+#: Girl_unDead/scenarios/06_revenge.cfg:945
 msgid ""
 "All I know is that the King is involved.  There is no alternative; we must "
 "go to the Capital."
@@ -1942,7 +1947,7 @@ msgstr ""
 "首都に行くしかないわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:948
+#: Girl_unDead/scenarios/06_revenge.cfg:949
 msgid ""
 "Don't you think to escape somewhere to live in peace?  Good, I'll follow you "
 "anywhere."
@@ -1951,22 +1956,22 @@ msgstr ""
 "くぜ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:952
+#: Girl_unDead/scenarios/06_revenge.cfg:953
 msgid "Oh, I forgot.  Hey, elvish kid."
 msgstr "おっと忘れてた。おい、エルフの小僧。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:956
+#: Girl_unDead/scenarios/06_revenge.cfg:957
 msgid "I know.  My life is yours."
 msgstr "わかっている。私の命は貴様らのものだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:960
+#: Girl_unDead/scenarios/06_revenge.cfg:961
 msgid "Yeah!  It has been too long since I last killed an elf."
 msgstr "よっしゃ！　へへへ、エルフを殺るのも久しぶりだぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:964
+#: Girl_unDead/scenarios/06_revenge.cfg:965
 msgid ""
 "Stop.  Poet, such jesting is unseemly.  Cyclos, do you really not regret "
 "dying now?"
@@ -1975,12 +1980,12 @@ msgstr ""
 "の？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:968
+#: Girl_unDead/scenarios/06_revenge.cfg:969
 msgid "I made the agreement."
 msgstr "だが、約束は約束だ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:972
+#: Girl_unDead/scenarios/06_revenge.cfg:973
 msgid ""
 "By this agreement, we cannot kill you until we save all the elvish shamans.  "
 "And you are still obligated to aid us."
@@ -1989,75 +1994,75 @@ msgstr ""
 "けど。それにこれからもあなたの助けが必要なの。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:976
+#: Girl_unDead/scenarios/06_revenge.cfg:977
 msgid "I will be your shield...  Good."
 msgstr "なるほど、貴様らの盾となれということか。よかろう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:980
+#: Girl_unDead/scenarios/06_revenge.cfg:981
 msgid "Damn!"
 msgstr "ちっ！"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_revenge.cfg:984
+#: Girl_unDead/scenarios/06_revenge.cfg:985
 msgid "Cyclos!  I will follow you."
 msgstr "シクロス様！　私もお供します。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/06_revenge.cfg:988
+#: Girl_unDead/scenarios/06_revenge.cfg:989
 msgid "Stella.  You must return with these shamans so our village will endure."
 msgstr "ステラ、お前は助けた呪術師たちを村まで送り届けるのだ。"
 
 #. [message]: speaker=Stella
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:992
-#: Girl_unDead/scenarios/12_castle.cfg:533
+#: Girl_unDead/scenarios/06_revenge.cfg:993
+#: Girl_unDead/scenarios/12_castle.cfg:558
 msgid "Ah..."
 msgstr "ああ、でも・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:996
+#: Girl_unDead/scenarios/06_revenge.cfg:997
 msgid "... Stella, come with us.  It never hurts to have more allies."
 msgstr "・・・ステラさん、一緒に来てくださる？手勢は多いに超したことはないわ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/06_revenge.cfg:1000
+#: Girl_unDead/scenarios/06_revenge.cfg:1001
 msgid "I will go not for you, but for Cyclos!"
 msgstr ""
 "私はお前たちのために行くのではない。あくまでシクロス様をお守りするために行く"
 "のだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:1004
+#: Girl_unDead/scenarios/06_revenge.cfg:1005
 msgid "All right."
 msgstr "それで結構だわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:1028
+#: Girl_unDead/scenarios/06_revenge.cfg:1029
 msgid "Elves have joined us, a troll runt comes with us.  What next?"
 msgstr ""
 "エルフは仲間になっちまうし、トロールのチビはついてくるし、俺たちこれからどう"
 "なるんだ？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:1034
+#: Girl_unDead/scenarios/06_revenge.cfg:1035
 msgid "Elves have joined us.  What next?"
 msgstr "エルフが仲間になっちまうし、これから一体どうなるんだ？"
 
 #. [message]: role=Shaman
-#: Girl_unDead/scenarios/06_revenge.cfg:1046
+#: Girl_unDead/scenarios/06_revenge.cfg:1047
 msgid ""
 "Cyclos, Stella, we are returning to our village.  We hope you are successful "
 "and come back safely."
 msgstr "シクロス様、ステラ、私たちは村に帰ります。皆様の無事の帰還を祈ります。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/06_revenge.cfg:1078
+#: Girl_unDead/scenarios/06_revenge.cfg:1079
 msgid "That is sad. Free him."
 msgstr "かわいそうに。放してあげましょう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/06_revenge.cfg:1086
+#: Girl_unDead/scenarios/06_revenge.cfg:1087
 msgid ""
 "Oh, it's going to join us.  Well, it needs a name, so let's call it Runt."
 msgstr ""
@@ -2070,54 +2075,54 @@ msgid "In the Forest"
 msgstr "森の中で"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:124
+#: Girl_unDead/scenarios/07_along_the_way.cfg:125
 msgid "Ah, Dad..."
 msgstr "ああ、お父さん・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:128
+#: Girl_unDead/scenarios/07_along_the_way.cfg:129
 msgid "Oh, she is thinking about Varas again."
 msgstr "ちっ！　姫様はまたお頭のこと思い出してるな。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:132
+#: Girl_unDead/scenarios/07_along_the_way.cfg:133
 msgid "Malica.  A sad leader lowers the morale of all."
 msgstr "マリカ。統率者がそんなザマでは軍団全体の士気に関わるぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:136
+#: Girl_unDead/scenarios/07_along_the_way.cfg:137
 msgid "I'm sorry.  But, I am ...  Ah,Dad!..."
 msgstr "ごめんなさい。でも、でも・・・あーん、お父さーん！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:140
+#: Girl_unDead/scenarios/07_along_the_way.cfg:141
 msgid ""
 "I need earplugs.  Cyclos, you are right, but it only makes things worse."
 msgstr ""
 "こりゃ耳栓が必要だぜ。おい小僧、お前の言ったことは正論だが、相手を考えろ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:144
+#: Girl_unDead/scenarios/07_along_the_way.cfg:145
 msgid "Sorry."
 msgstr "すまん。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:149
+#: Girl_unDead/scenarios/07_along_the_way.cfg:150
 msgid "Malica, I lost my father twice in battle."
 msgstr "マリカ。私も戦いで父を失ったのだ。それも二度。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:153
+#: Girl_unDead/scenarios/07_along_the_way.cfg:154
 msgid "Twice?"
 msgstr "二度も？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:157
+#: Girl_unDead/scenarios/07_along_the_way.cfg:158
 msgid "The first time, however, he continued to live."
 msgstr "まあ、一回目のときは父は無事帰って来たのだが。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:161
+#: Girl_unDead/scenarios/07_along_the_way.cfg:162
 msgid ""
 "When I was little child, there was a fierce battle against the undead in the "
 "Dark Forest.  Only a few soldiers returned.  My father was not among them."
@@ -2126,12 +2131,12 @@ msgstr ""
 "くわずかで、その中に父はいなかった。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:166
+#: Girl_unDead/scenarios/07_along_the_way.cfg:167
 msgid "(Maybe I was in that fight.)"
 msgstr "（やべ、多分その戦いに俺もいたぜ。）"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:171
+#: Girl_unDead/scenarios/07_along_the_way.cfg:172
 msgid ""
 "Everyone thought he had died.  And because my mother was already dead, I was "
 "raised by my aunt."
@@ -2140,56 +2145,56 @@ msgstr ""
 "た。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:175
+#: Girl_unDead/scenarios/07_along_the_way.cfg:176
 msgid "Did that make you sad?"
 msgstr "寂しくはなかった？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:179
+#: Girl_unDead/scenarios/07_along_the_way.cfg:180
 msgid "Of course."
 msgstr "もちろん寂しかったさ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:183
+#: Girl_unDead/scenarios/07_along_the_way.cfg:184
 msgid "Did you cry?"
 msgstr "泣いた？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:187
+#: Girl_unDead/scenarios/07_along_the_way.cfg:188
 msgid "A little ... because I was so young."
 msgstr "少し・・・な、私はごく幼かったから。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:191
+#: Girl_unDead/scenarios/07_along_the_way.cfg:192
 msgid "Several years later he came back.  But he never spoke of what happened."
 msgstr ""
 "それから数年経って突然父は帰って来た。しかし、その間何があったかは話そうとし"
 "なかった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:195
+#: Girl_unDead/scenarios/07_along_the_way.cfg:196
 msgid "It was good to have your father return home safely."
 msgstr "お父さまが無事帰ってきてよかったわね。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:199
+#: Girl_unDead/scenarios/07_along_the_way.cfg:200
 msgid "I returned to live with him and he taught me how to wield a sword."
 msgstr "私は再び父と暮らし始め、父か剣の扱いを習った。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:203
+#: Girl_unDead/scenarios/07_along_the_way.cfg:204
 msgid ""
 "It was a battle against the undead at Thirsty Mountain.  And it became a "
 "fight more fierce than we anticipated."
 msgstr "あれは「渇きの山」でのアンデッドとの戦のときだった。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:208
+#: Girl_unDead/scenarios/07_along_the_way.cfg:209
 msgid "(Maybe I was there.)"
 msgstr "（多分、俺もいたぜ。）"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:213
+#: Girl_unDead/scenarios/07_along_the_way.cfg:214
 msgid ""
 "I wanted to prove myself.  I took an opportunity to attack, but instead of "
 "success that undead warrior cut my eye."
@@ -2198,17 +2203,17 @@ msgstr ""
 "斬りつけられてしまった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:217
+#: Girl_unDead/scenarios/07_along_the_way.cfg:218
 msgid "I grieve for you!"
 msgstr "まあ、大変！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:222
+#: Girl_unDead/scenarios/07_along_the_way.cfg:223
 msgid "(Oh, ... I remember cutting a young elf.)"
 msgstr "（ああ、たしかあの時エルフのガキに斬りつけたような気がする。）"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:227
+#: Girl_unDead/scenarios/07_along_the_way.cfg:228
 msgid ""
 "Before that undead could kill me, my father intervened.  I survived, but "
 "that cruel undead monster killed him."
@@ -2217,17 +2222,17 @@ msgstr ""
 "が、代わりに父は殺されてしまった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:231
+#: Girl_unDead/scenarios/07_along_the_way.cfg:232
 msgid "Oh, how terrible!"
 msgstr "まあ、なんてひどい！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:236
+#: Girl_unDead/scenarios/07_along_the_way.cfg:237
 msgid "(Surely I have killed his father!)"
 msgstr "（間違いねえ。小僧の親父を殺ったのは俺だ！）"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:241
+#: Girl_unDead/scenarios/07_along_the_way.cfg:242
 msgid ""
 "My hatred for that undead warrior exists still.  If I find that undead, I "
 "will avenge my father!"
@@ -2235,12 +2240,12 @@ msgstr ""
 "あのアンデッドへの恨みは忘れない。いつか見つけたら必ず父の仇を取ってやる！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:245
+#: Girl_unDead/scenarios/07_along_the_way.cfg:246
 msgid "If you find him, then I will help!"
 msgstr "そのときには、私も加勢するわ！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:250
+#: Girl_unDead/scenarios/07_along_the_way.cfg:251
 msgid ""
 "(This boy is really stupid!  And Malica forgets that she herself is undead!  "
 "I shall not reveal that I killed his father.  It is fortunate that elves "
@@ -2251,7 +2256,7 @@ msgstr ""
 "小僧には俺たちアンデッドの顔の見分けがつかなくて助かったぜ。）"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:255
+#: Girl_unDead/scenarios/07_along_the_way.cfg:256
 msgid ""
 "Since that day, I have never shown weakness to others, Neither to enemies, "
 "nor to friends."
@@ -2260,34 +2265,34 @@ msgstr ""
 "方であろうと。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:259
+#: Girl_unDead/scenarios/07_along_the_way.cfg:260
 msgid "(I wonder if I can ever become strong like him?)"
 msgstr "（私もシクロスさんのように強くなれるかしら？）"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/07_along_the_way.cfg:264
+#: Girl_unDead/scenarios/07_along_the_way.cfg:265
 msgid "(Whispering) Malica?"
 msgstr "（囁いて）マリカ殿。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:268
+#: Girl_unDead/scenarios/07_along_the_way.cfg:269
 msgid "Stella.  What?"
 msgstr "ステラさん、何？"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/07_along_the_way.cfg:272
+#: Girl_unDead/scenarios/07_along_the_way.cfg:273
 msgid "The fact is that Cyclos was a terrible crybaby."
 msgstr ""
 "本人はあんなこと言っているけど、シクロス様は子どもの頃ひどい泣き虫だったので"
 "すよ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:276
+#: Girl_unDead/scenarios/07_along_the_way.cfg:277
 msgid "Really?"
 msgstr "本当？"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/07_along_the_way.cfg:280
+#: Girl_unDead/scenarios/07_along_the_way.cfg:281
 msgid ""
 "Yes.  We were childhood friends, so I know him well.  He would immediately "
 "start crying whenever we teased him.  It was funny, and he was very cute."
@@ -2297,43 +2302,43 @@ msgstr ""
 "かしくて、かわいくて。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:284
+#: Girl_unDead/scenarios/07_along_the_way.cfg:285
 msgid "Well, Cyclos is.  And you were a bad girl."
 msgstr "まあ、シクロスさんが？　ステラさんも悪い子だったのね。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/07_along_the_way.cfg:288
+#: Girl_unDead/scenarios/07_along_the_way.cfg:289
 msgid "Hahaha..."
 msgstr "ははは。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:293
+#: Girl_unDead/scenarios/07_along_the_way.cfg:294
 msgid "Hey, what are you two whispering and laughing about?"
 msgstr "さっきから何をヒソヒソ話しては笑っているのだ？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/07_along_the_way.cfg:297
+#: Girl_unDead/scenarios/07_along_the_way.cfg:298
 msgid "Sorry, Cyclos, but it is not your business... HeeHee..."
 msgstr "ごめんなさい。シクロスさん、女の子だけの秘密です。ふふふ・・・"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/07_along_the_way.cfg:301
+#: Girl_unDead/scenarios/07_along_the_way.cfg:302
 msgid "Yes, Cyclos, never mind... Hahaha..."
 msgstr "そうですよ。シクロス様。気にしないでください。ははは・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/07_along_the_way.cfg:305
+#: Girl_unDead/scenarios/07_along_the_way.cfg:306
 msgid ""
 "I can understand men and the creatures of the forest, but women are veiled."
 msgstr "女の考えることはよくわからないものだな。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/07_along_the_way.cfg:310
+#: Girl_unDead/scenarios/07_along_the_way.cfg:311
 msgid "Malica no longer cried from that day on, at least in public."
 msgstr "マリカはその日から決して泣かなくなった。少なくとも人前では。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/07_along_the_way.cfg:315
+#: Girl_unDead/scenarios/07_along_the_way.cfg:316
 msgid "Hey, we're out of the forest."
 msgstr "みんな、森を抜け出したぜ。"
 
@@ -2343,7 +2348,7 @@ msgid "Gulf"
 msgstr "湾"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/08.5_gulf.cfg:33
+#: Girl_unDead/scenarios/08.5_gulf.cfg:34
 msgid "Oh, help me!"
 msgstr "ねえ、助けて！"
 
@@ -2358,13 +2363,13 @@ msgstr "ねえ、助けて！"
 #. [side]: id=Kingdom4, type=Royal Guard
 #. [side]: id=Kingdom5, type=Iron Mauler
 #. [side]: id=Kingdom6, type=Mage of Light
-#: Girl_unDead/scenarios/08.5_gulf.cfg:77
-#: Girl_unDead/scenarios/08_puppeteer.cfg:32
-#: Girl_unDead/scenarios/09_sanctuary.cfg:36
-#: Girl_unDead/scenarios/11_intrusion.cfg:46
-#: Girl_unDead/scenarios/11_intrusion.cfg:189
-#: Girl_unDead/scenarios/11_intrusion.cfg:232
-#: Girl_unDead/scenarios/11_intrusion.cfg:262
+#: Girl_unDead/scenarios/08.5_gulf.cfg:78
+#: Girl_unDead/scenarios/08_puppeteer.cfg:33
+#: Girl_unDead/scenarios/09_sanctuary.cfg:37
+#: Girl_unDead/scenarios/11_intrusion.cfg:47
+#: Girl_unDead/scenarios/11_intrusion.cfg:190
+#: Girl_unDead/scenarios/11_intrusion.cfg:233
+#: Girl_unDead/scenarios/11_intrusion.cfg:263
 #: Girl_unDead/scenarios/12_castle.cfg:100
 #: Girl_unDead/scenarios/12_castle.cfg:123
 #: Girl_unDead/scenarios/12_castle.cfg:138
@@ -2376,40 +2381,40 @@ msgstr "国王軍"
 
 #. [side]: id=Merman King, type=Merman Triton
 #. [side]: id=Mermaid Princess, type=Mermaid Enchantress
-#: Girl_unDead/scenarios/08.5_gulf.cfg:122
-#: Girl_unDead/scenarios/08.5_gulf.cfg:136
+#: Girl_unDead/scenarios/08.5_gulf.cfg:123
+#: Girl_unDead/scenarios/08.5_gulf.cfg:137
 msgid "Merman"
 msgstr "マーマン"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/08.5_gulf.cfg:281
+#: Girl_unDead/scenarios/08.5_gulf.cfg:282
 msgid "Malica reaches signpost"
 msgstr "マリカが道しるべにたどり着く"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/08.5_gulf.cfg:301
-#: Girl_unDead/scenarios/08_puppeteer.cfg:111
-#: Girl_unDead/scenarios/09_sanctuary.cfg:236
-#: Girl_unDead/scenarios/11_intrusion.cfg:302
+#: Girl_unDead/scenarios/08.5_gulf.cfg:302
+#: Girl_unDead/scenarios/08_puppeteer.cfg:112
+#: Girl_unDead/scenarios/09_sanctuary.cfg:237
+#: Girl_unDead/scenarios/11_intrusion.cfg:303
 #: Girl_unDead/scenarios/12_castle.cfg:278
-#: Girl_unDead/scenarios/12_castle.cfg:702
-#: Girl_unDead/scenarios/12_castle.cfg:872
-#: Girl_unDead/scenarios/12_castle.cfg:1048
+#: Girl_unDead/scenarios/12_castle.cfg:727
+#: Girl_unDead/scenarios/12_castle.cfg:896
+#: Girl_unDead/scenarios/12_castle.cfg:1073
 msgid "Death of Troll Child"
 msgstr "トロールのチビの死"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:334
+#: Girl_unDead/scenarios/08.5_gulf.cfg:335
 msgid "My Princess, we must cross this gulf to reach the sanctuary."
 msgstr "姫様、聖堂に行くにはこの湾を渡らなきゃならねえんだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08.5_gulf.cfg:339
+#: Girl_unDead/scenarios/08.5_gulf.cfg:340
 msgid "All right.  How do you know so much about these lands."
 msgstr "わかったわ。ところでどうして詩人さんはこの土地に詳しいの？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:343
+#: Girl_unDead/scenarios/08.5_gulf.cfg:344
 msgid ""
 "Uh... I can't hear you because of the wind... Look!  There are enemies in "
 "our way!"
@@ -2417,17 +2422,17 @@ msgstr ""
 "あー？　風が強くてよく聞こえねえが・・・おお、見ろよ！　行く手に敵がいるぜ。"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08.5_gulf.cfg:347
+#: Girl_unDead/scenarios/08.5_gulf.cfg:348
 msgid "Fight these undead with us."
 msgstr "我々とあのアンデッドと戦うのだ。"
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/08.5_gulf.cfg:351
+#: Girl_unDead/scenarios/08.5_gulf.cfg:352
 msgid "Yes we will.  We have long been your allies. "
 msgstr "承知している。我々は古い同盟だからな。"
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/08.5_gulf.cfg:355
+#: Girl_unDead/scenarios/08.5_gulf.cfg:356
 msgid ""
 "But this woman leading the undead hasn't harmed us, my father.  It is "
 "strange she fights against the big human Kingdom with a small army.  I think "
@@ -2438,74 +2443,74 @@ msgstr ""
 "深いわけがあるのではないでしょうか。"
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/08.5_gulf.cfg:359
+#: Girl_unDead/scenarios/08.5_gulf.cfg:360
 msgid "All undead are evil and must be destroyed."
 msgstr "すべてのアンデッドは邪悪であり破壊されなければならぬのだ。"
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/08.5_gulf.cfg:363
+#: Girl_unDead/scenarios/08.5_gulf.cfg:364
 msgid "I see."
 msgstr "ああ・・・、わかりました・・・"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08.5_gulf.cfg:367
+#: Girl_unDead/scenarios/08.5_gulf.cfg:368
 msgid "Good.  I'm counting on you."
 msgstr "よし。頼りにしているぞ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:371
+#: Girl_unDead/scenarios/08.5_gulf.cfg:372
 msgid "Ha, let's kill all of them."
 msgstr "へい、皆殺しにしちまおうぜ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08.5_gulf.cfg:375
+#: Girl_unDead/scenarios/08.5_gulf.cfg:376
 msgid "No!  We need only cross the gulf.  Don't kill too much."
 msgstr ""
 "詩人さん、それはいけません。私たちは湾を渡れさえすればいいのです。無益な殺生"
 "はしたくありません。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08.5_gulf.cfg:391
+#: Girl_unDead/scenarios/08.5_gulf.cfg:392
 msgid "Great!  I'm far more accurate with a bow now."
 msgstr "素晴らしい！　なんという弓の威力だ！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:395
+#: Girl_unDead/scenarios/08.5_gulf.cfg:396
 msgid "Don't celebrate.  You will soon see the curse's effect."
 msgstr "喜ぶのは早えぜ。気をつけるこった。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08.5_gulf.cfg:409
+#: Girl_unDead/scenarios/08.5_gulf.cfg:410
 msgid "No!  I killed him, yet he walks."
 msgstr "いやあ！　息の根を止めたはずなのに起き上がった！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:413
+#: Girl_unDead/scenarios/08.5_gulf.cfg:414
 msgid "I warned you of the curse.  Now you know the cost."
 msgstr "これがあんたの支払った代償よ。お前の腕はもう呪われてるのさ。"
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/08.5_gulf.cfg:435
+#: Girl_unDead/scenarios/08.5_gulf.cfg:436
 msgid "Ah! My daughter! Undead, I will never forgive you!"
 msgstr "ああ。我が娘よ！　アンデッドども、許すまじ！！"
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/08.5_gulf.cfg:523
+#: Girl_unDead/scenarios/08.5_gulf.cfg:524
 msgid "Ugh!"
 msgstr "うわあ！"
 
 #. [message]: speaker=Merman King
-#: Girl_unDead/scenarios/08.5_gulf.cfg:536
+#: Girl_unDead/scenarios/08.5_gulf.cfg:537
 msgid "Undead, please don't kill my dauther."
 msgstr "アンデッドよ、我が娘の命は助けてくれ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:540
+#: Girl_unDead/scenarios/08.5_gulf.cfg:541
 msgid "Hah!  I like fishing too much to stop now."
 msgstr "フン！　俺様の釣りキチの血が騒ぐぜ。マリカっぺ、今日は大漁だぜ！！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08.5_gulf.cfg:544
+#: Girl_unDead/scenarios/08.5_gulf.cfg:545
 msgid ""
 "Stop your joking, Poet.  We will allow your daughter to live if she stops "
 "fighting."
@@ -2514,64 +2519,64 @@ msgstr ""
 "の命は助けましょう。"
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/08.5_gulf.cfg:552
+#: Girl_unDead/scenarios/08.5_gulf.cfg:553
 msgid "I have no reason to fight you.  I am leaving."
 msgstr "もう、あなた達と戦う理由はないようです。さようなら。"
 
 #. [message]: speaker=Kingdom
 #. [message]: role=Grand Marshal
-#: Girl_unDead/scenarios/08.5_gulf.cfg:573
-#: Girl_unDead/scenarios/08.5_gulf.cfg:670
+#: Girl_unDead/scenarios/08.5_gulf.cfg:574
+#: Girl_unDead/scenarios/08.5_gulf.cfg:671
 msgid "Mermen! Don't run!"
 msgstr "マーマンども、逃げる気か！　くそ、なんて逃げ足の早い連中だ！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:577
+#: Girl_unDead/scenarios/08.5_gulf.cfg:578
 msgid "Ha ha.  Mermen don't run.  They swim!"
 msgstr "逃げ足だって？　あいにくだがマーマンどもにあるのは尾ひれだけだぜ。"
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/08.5_gulf.cfg:602
+#: Girl_unDead/scenarios/08.5_gulf.cfg:603
 msgid "Lady Lich, you don't seem evil.  I see no reason to fight you.  Bye."
 msgstr "女リッチよ、あなた達と戦う理由はないようです。さようなら。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08.5_gulf.cfg:636
+#: Girl_unDead/scenarios/08.5_gulf.cfg:637
 msgid "We got through. Now to the sanctuary."
 msgstr "湾を抜けたわ。さあ、聖堂に行きましょう。"
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/08.5_gulf.cfg:645
+#: Girl_unDead/scenarios/08.5_gulf.cfg:646
 msgid ""
 "Lady Lich, You don't look so wrong.  We have no reason to battle each "
 "other.  Bye."
 msgstr "女リッチよ。私たちは互いに戦う理由はないようです。さようなら。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08.5_gulf.cfg:674
+#: Girl_unDead/scenarios/08.5_gulf.cfg:675
 msgid "Ha ha.  Of course, mermen don't run, they swim."
 msgstr "逃げ足だって？　あいにくだがマーマンどもにあるのは尾ひれだけだぜ。"
 
 #. [unit]: type=Necromancer, id=Puppeteer
 #. [scenario]: id=08_puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:285
-#: Girl_unDead/scenarios/08_puppeteer.cfg:352
+#: Girl_unDead/scenarios/08_puppeteer.cfg:286
+#: Girl_unDead/scenarios/08_puppeteer.cfg:353
 #: Girl_unDead/scenarios/08_puppeteer.cfg:6
 msgid "Puppeteer"
 msgstr "ザコ遣い"
 
 #. [side]
-#: Girl_unDead/scenarios/08_puppeteer.cfg:49
+#: Girl_unDead/scenarios/08_puppeteer.cfg:50
 msgid "Puppet"
 msgstr "ザコ"
 
 #. [side]: id=Bandits, type=Royal Warrior
-#: Girl_unDead/scenarios/08_puppeteer.cfg:63
+#: Girl_unDead/scenarios/08_puppeteer.cfg:64
 msgid "Desperado"
 msgstr "ならず者"
 
 #. [part]
-#: Girl_unDead/scenarios/08_puppeteer.cfg:74
+#: Girl_unDead/scenarios/08_puppeteer.cfg:75
 msgid ""
 "Malica had defeated the enemy, but she had failed to find the truth.  She "
 "knew only that the mages of the kingdom wanted elvish shamans and herself."
@@ -2580,7 +2585,7 @@ msgstr ""
 "国の魔術師がエルフの呪術師と彼女自身を欲しがっていることだけだった。"
 
 #. [part]
-#: Girl_unDead/scenarios/08_puppeteer.cfg:77
+#: Girl_unDead/scenarios/08_puppeteer.cfg:78
 msgid ""
 "She and her soldiers traveled toward the capital to rescue the shamans and "
 "to learn why they wanted her."
@@ -2589,67 +2594,67 @@ msgstr ""
 "を知るために首都に向かった。"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/08_puppeteer.cfg:87
+#: Girl_unDead/scenarios/08_puppeteer.cfg:88
 msgid "Defeat the leader of the royal army"
 msgstr "王国軍の指揮官を倒す"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/08_puppeteer.cfg:91
+#: Girl_unDead/scenarios/08_puppeteer.cfg:92
 msgid "(bonus)Defeat the leader of desperado"
 msgstr "（ボーナス）ならず者の親分を倒す"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:180
+#: Girl_unDead/scenarios/08_puppeteer.cfg:181
 msgid "A stench of death has been in the air for quite a while."
 msgstr "さっきから死臭が漂っているな。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:184
+#: Girl_unDead/scenarios/08_puppeteer.cfg:185
 msgid "I am aware of it too."
 msgstr "私も気づいてました。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:188
+#: Girl_unDead/scenarios/08_puppeteer.cfg:189
 msgid "It may be odor of our Princess."
 msgstr "そいつはきっと姫様の臭いだぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:192
+#: Girl_unDead/scenarios/08_puppeteer.cfg:193
 msgid "Poet!  That's horrible.  Cyclos, you don't think that, do you?"
 msgstr "詩人さん！　なんてことを！　シクロスさん、そんなことないわよね？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:196
+#: Girl_unDead/scenarios/08_puppeteer.cfg:197
 msgid "...Um, you do smell a little after the rain..."
 msgstr "うーん、雨の後とかちょっと・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:200
+#: Girl_unDead/scenarios/08_puppeteer.cfg:201
 msgid "No!!"
 msgstr "えーっ！　うそ！！"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:204
+#: Girl_unDead/scenarios/08_puppeteer.cfg:205
 msgid "Cyclos, you should be more circumspect when you speak."
 msgstr "シクロス様、女の子には気を使うものですよ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:208
+#: Girl_unDead/scenarios/08_puppeteer.cfg:209
 msgid "Yes, I am sorry."
 msgstr "そうか、すまん。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:212
+#: Girl_unDead/scenarios/08_puppeteer.cfg:213
 msgid "Cyclos, you are insensitive.  Stella, you agree, don't you?"
 msgstr "小僧っこ、お前は女心に鈍いんだよ。ねえちゃんもそう思うだろ？"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:216
+#: Girl_unDead/scenarios/08_puppeteer.cfg:217
 msgid "It's not for me to say."
 msgstr "そ、そんなこと知りません！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:220
+#: Girl_unDead/scenarios/08_puppeteer.cfg:221
 msgid ""
 "There are many corpses about.  These may be the cause of the odor.  "
 "Something has happened here."
@@ -2658,17 +2663,17 @@ msgstr ""
 "もしれねえぜ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:224
+#: Girl_unDead/scenarios/08_puppeteer.cfg:225
 msgid "They are annoying. I'll breke them."
 msgstr "煩わしいな。やっつけてしまおうか。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:228
+#: Girl_unDead/scenarios/08_puppeteer.cfg:229
 msgid "We must be careful around them."
 msgstr "下手に手を出さねえ方がいいような気がするぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:232
+#: Girl_unDead/scenarios/08_puppeteer.cfg:233
 msgid "I feel unpleasant too."
 msgstr "私もいやな感じがするわ。"
 
@@ -2676,16 +2681,16 @@ msgstr "私もいやな感じがするわ。"
 #. [message]: speaker=Malica
 #. [message]: speaker=Poet
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:236
-#: Girl_unDead/scenarios/12_castle.cfg:412
-#: Girl_unDead/scenarios/12_castle.cfg:517
-#: Girl_unDead/scenarios/12_castle.cfg:605
-#: Girl_unDead/scenarios/13_epilogue.cfg:142
+#: Girl_unDead/scenarios/08_puppeteer.cfg:237
+#: Girl_unDead/scenarios/12_castle.cfg:436
+#: Girl_unDead/scenarios/12_castle.cfg:542
+#: Girl_unDead/scenarios/12_castle.cfg:630
+#: Girl_unDead/scenarios/13_epilogue.cfg:143
 msgid "..."
 msgstr "・・・"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08_puppeteer.cfg:240
+#: Girl_unDead/scenarios/08_puppeteer.cfg:241
 msgid ""
 "Men, look about.  There are many corpses, so the one we seek must be near.  "
 "Oh, and there is the woman lich.  Catch her."
@@ -2694,7 +2699,7 @@ msgstr ""
 "お、あの女リッチもいる。彼女も捕らえるのだ。"
 
 #. [message]: speaker=Bandits
-#: Girl_unDead/scenarios/08_puppeteer.cfg:244
+#: Girl_unDead/scenarios/08_puppeteer.cfg:245
 msgid ""
 "Hey, do you still agree to let us join your army if we attack these corpses?"
 msgstr ""
@@ -2702,95 +2707,95 @@ msgstr ""
 "な？"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08_puppeteer.cfg:248
+#: Girl_unDead/scenarios/08_puppeteer.cfg:249
 msgid "Yes, but don't kill the woman lich."
 msgstr "もちろんだ。ただし、あの女リッチは殺すな。"
 
 #. [message]: speaker=Bandits
-#: Girl_unDead/scenarios/08_puppeteer.cfg:252
+#: Girl_unDead/scenarios/08_puppeteer.cfg:253
 msgid "Okay."
 msgstr "わかった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:256
+#: Girl_unDead/scenarios/08_puppeteer.cfg:257
 msgid "We have no choice but to fight this army."
 msgstr "どうも戦わざるをえないようね。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:260
+#: Girl_unDead/scenarios/08_puppeteer.cfg:261
 msgid "Okey."
 msgstr "上等だぜ。"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/08_puppeteer.cfg:275
+#: Girl_unDead/scenarios/08_puppeteer.cfg:276
 msgid "Corpse, rest in peace!"
 msgstr "死体よ、安らかに眠れ！"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:300
+#: Girl_unDead/scenarios/08_puppeteer.cfg:301
 msgid "One is a fool to touch any of my puppets."
 msgstr "私のザコに手を出した愚か者は誰だ？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:304
+#: Girl_unDead/scenarios/08_puppeteer.cfg:305
 msgid "Damn it!  That is Puppeteer, a troublesome enemy."
 msgstr "畜生！　ザコ遣いだ。厄介な奴を敵に回しちまった。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:308
+#: Girl_unDead/scenarios/08_puppeteer.cfg:309
 msgid "Why is he trouble?"
 msgstr "どこが厄介なのだ。ただの死体ではないか。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:312
+#: Girl_unDead/scenarios/08_puppeteer.cfg:313
 msgid "You will soon know.  We must kill him to survive."
 msgstr "すぐにわかるよ。とにかくザコ遣いを殺っちまわなきゃ俺たちゃおしまいだ。"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08_puppeteer.cfg:316
-#: Girl_unDead/scenarios/08_puppeteer.cfg:370
+#: Girl_unDead/scenarios/08_puppeteer.cfg:317
+#: Girl_unDead/scenarios/08_puppeteer.cfg:371
 msgid "There is Puppeteer.  Catch him!"
 msgstr "ザコ遣いがいたぞ。捕まえろ！"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/08_puppeteer.cfg:334
+#: Girl_unDead/scenarios/08_puppeteer.cfg:335
 msgid "Die, dirty corpse!"
 msgstr "くたばれ、汚らしいザコめ！"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:366
+#: Girl_unDead/scenarios/08_puppeteer.cfg:367
 msgid "So you have found me, but you will regret having done so."
 msgstr "よく私を見つけたな。しかし、お前たちはそれを後悔することになるだろう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:374
+#: Girl_unDead/scenarios/08_puppeteer.cfg:375
 msgid "That is Puppeteer!  His army is quite troublesome."
 msgstr ""
 "やっぱりザコ遣いだ。あいつら厄介な奴を敵に回したな。まあ、俺たちにとっては幸"
 "運だが。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:378
+#: Girl_unDead/scenarios/08_puppeteer.cfg:379
 msgid "He does not look so dangerous."
 msgstr "特別に危険そうには見えないが？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:382
+#: Girl_unDead/scenarios/08_puppeteer.cfg:383
 msgid "You will quickly learn that he is."
 msgstr "なーに、すぐにわかるさ。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:397
+#: Girl_unDead/scenarios/08_puppeteer.cfg:398
 msgid "You are Malica, are you not?"
 msgstr "お前はもしかしてマリカか？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:401
+#: Girl_unDead/scenarios/08_puppeteer.cfg:402
 msgid "Why do you know me?"
 msgstr "どうして私を知っているの？"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:405
+#: Girl_unDead/scenarios/08_puppeteer.cfg:406
 msgid ""
 "There is no time to explain, but I will say that you mother is alive.  She "
 "is in the King's castle.  Only I can tell your mother is alive.  Go to the "
@@ -2800,48 +2805,48 @@ msgstr ""
 "にいる。城に行くんだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:409
+#: Girl_unDead/scenarios/08_puppeteer.cfg:410
 msgid "Please tell me more!...  He died..."
 msgstr "もっと詳しく教えてください！　死んでしまったわ・・・"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:416
+#: Girl_unDead/scenarios/08_puppeteer.cfg:417
 msgid "Ah! My arms hurt!"
 msgstr "ああ、腕が痛い！"
 
 #. [effect]
 #. [object]
-#: Girl_unDead/scenarios/08_puppeteer.cfg:436
-#: Girl_unDead/scenarios/08_puppeteer.cfg:419
-#: Girl_unDead/scenarios/08_puppeteer.cfg:650
-#: Girl_unDead/scenarios/08_puppeteer.cfg:633
+#: Girl_unDead/scenarios/08_puppeteer.cfg:437
+#: Girl_unDead/scenarios/08_puppeteer.cfg:420
+#: Girl_unDead/scenarios/08_puppeteer.cfg:651
+#: Girl_unDead/scenarios/08_puppeteer.cfg:634
 msgid "cursed bow"
 msgstr "呪いの射撃"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:448
+#: Girl_unDead/scenarios/08_puppeteer.cfg:449
 msgid ""
 "You have been cursed during this battle.  Now you must be careful when you "
 "attack anyone."
 msgstr "戦いの最中に呪われたようだな。これからの戦いじゃ気をつけるんだな。"
 
 #. [message]: speaker=$second_unit.id
-#: Girl_unDead/scenarios/08_puppeteer.cfg:473
+#: Girl_unDead/scenarios/08_puppeteer.cfg:474
 msgid "Oh! It revived!"
 msgstr "おお、倒したはずなのに生き返った！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:477
+#: Girl_unDead/scenarios/08_puppeteer.cfg:478
 msgid "That is his strength.  As long as he lives, the corpses will revive."
 msgstr "あれがザコ遣いの力だ。彼自身を倒さない限り死体は何度でも蘇る。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:481
+#: Girl_unDead/scenarios/08_puppeteer.cfg:482
 msgid "Hmmm, his losses are not losses."
 msgstr "うーむ、ある意味彼は不敗ということか。"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08_puppeteer.cfg:513
+#: Girl_unDead/scenarios/08_puppeteer.cfg:514
 msgid ""
 "Alas!  I should have been bringing the eivish shaman from the sanctuary..."
 msgstr "なんということだ！　聖堂からエルフの呪術師を連れてくるべきだった・・・"
@@ -2849,30 +2854,30 @@ msgstr "なんということだ！　聖堂からエルフの呪術師を連れ
 #. [message]: speaker=Cyclos
 #. [message]: speaker=Malica
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:517
-#: Girl_unDead/scenarios/08_puppeteer.cfg:567
-#: Girl_unDead/scenarios/13_epilogue.cfg:130
+#: Girl_unDead/scenarios/08_puppeteer.cfg:518
+#: Girl_unDead/scenarios/08_puppeteer.cfg:568
+#: Girl_unDead/scenarios/13_epilogue.cfg:131
 msgid "What?"
 msgstr "えっ？"
 
 #. [message]: speaker=Kingdom
-#: Girl_unDead/scenarios/08_puppeteer.cfg:521
+#: Girl_unDead/scenarios/08_puppeteer.cfg:522
 msgid ""
 "Our mages are experimenting using elvish shamans in the sanctuary near here."
 msgstr "魔術師たちは近くの聖堂でエルフの呪術師を使ってある実験をしているのだ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:525
+#: Girl_unDead/scenarios/08_puppeteer.cfg:526
 msgid "What a terrible thing it is!"
 msgstr "なんとおぞましいことを！！"
 
 #. [message]: speaker=Bandits
-#: Girl_unDead/scenarios/08_puppeteer.cfg:535
+#: Girl_unDead/scenarios/08_puppeteer.cfg:536
 msgid "The royal army has lost.  Let's get out of here!"
 msgstr "国王軍がやられちまった。やろうども、ずらかるんだ！"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:547
+#: Girl_unDead/scenarios/08_puppeteer.cfg:548
 msgid ""
 "Now, I'm free from the Kingdom.  And it is no use to battle each other we "
 "undead. Don't you think so, Lady Lich?"
@@ -2881,17 +2886,17 @@ msgstr ""
 "が、どうかね、リッチのお嬢さん？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:551
+#: Girl_unDead/scenarios/08_puppeteer.cfg:552
 msgid "Yes, I think so, too."
 msgstr "私もそう思うわ。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:555
+#: Girl_unDead/scenarios/08_puppeteer.cfg:556
 msgid "You must be Malica, daughter of Veronica and niece of Varas."
 msgstr "お嬢さんはマリカじゃろう。ヴェロニカの娘でヴァラスの姪の。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:559
+#: Girl_unDead/scenarios/08_puppeteer.cfg:560
 msgid ""
 "How do you know my name? My mother, however, was Nina and Varas was my "
 "father."
@@ -2900,18 +2905,18 @@ msgstr ""
 "ど。 "
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:563
+#: Girl_unDead/scenarios/08_puppeteer.cfg:564
 msgid "Veronica was the real name of your mother.  She was Varas's sister."
 msgstr ""
 "ヴェロニカがお嬢さんの母親の本当の名前じゃよ。彼女はヴァラスの妹なのだ。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:571
+#: Girl_unDead/scenarios/08_puppeteer.cfg:572
 msgid "Yes, it is true.  I shall tell you what I know about it ..."
 msgstr "そうとも。私が知っていることを話してあげよう・・・"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/08_puppeteer.cfg:576
+#: Girl_unDead/scenarios/08_puppeteer.cfg:577
 msgid ""
 "Puppeteer explained that when he was young, there were three white mages "
 "with the potential to become the King's High Mage: Varas, Veronica, and "
@@ -2931,7 +2936,7 @@ msgstr ""
 "カを愛していたマルトスは闇世界に落ちザコ遣いとなった。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/08_puppeteer.cfg:583
+#: Girl_unDead/scenarios/08_puppeteer.cfg:584
 msgid ""
 "Randolf desired immortality.  He searched for Veronica (your mother Nina) "
 "many years and when finally he believed he found her, he caused the daughter "
@@ -2945,7 +2950,7 @@ msgstr ""
 "遣いに命じて村人をすべて始末したのだった。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/08_puppeteer.cfg:588
+#: Girl_unDead/scenarios/08_puppeteer.cfg:589
 msgid ""
 "Randolf did regain youthfulness through the power of Veronica, but this was "
 "not yet immortality.  Randolf then discovered that Malica was with Varas and "
@@ -2961,7 +2966,7 @@ msgstr ""
 "なり、彼の元から逃げ出した。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:592
+#: Girl_unDead/scenarios/08_puppeteer.cfg:593
 msgid ""
 "The elvish shamans are imprisoned in a sanctuary near here.  Malica, your "
 "mother is in the King's castle."
@@ -2970,7 +2975,7 @@ msgstr ""
 "城におる。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:596
+#: Girl_unDead/scenarios/08_puppeteer.cfg:597
 msgid ""
 "My mother alive!  Thank you.  Thank you so much.  First we'll rescue the "
 "shamans, then we go to Weldyn."
@@ -2979,17 +2984,17 @@ msgstr ""
 "たいわ。でも、その前に呪術師も助けなければ。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:600
+#: Girl_unDead/scenarios/08_puppeteer.cfg:601
 msgid "I shall bestow a special skill on an archer."
 msgstr "ならば、私が誰かに射撃の技を与えよう。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:605
+#: Girl_unDead/scenarios/08_puppeteer.cfg:606
 msgid "I am an excellent archer."
 msgstr "弓なら私が得意です。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:609
+#: Girl_unDead/scenarios/08_puppeteer.cfg:610
 msgid ""
 "This skill is meant for neither human nor elf.  It is cursed with spells of "
 "the Chaos."
@@ -2997,27 +3002,27 @@ msgstr ""
 "この技は闇の呪いがかけられておるので、人間やエルフには適さないのじゃが。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:613
+#: Girl_unDead/scenarios/08_puppeteer.cfg:614
 msgid "I care not. Please give me it."
 msgstr "構いません。私にお与えください。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/08_puppeteer.cfg:617
+#: Girl_unDead/scenarios/08_puppeteer.cfg:618
 msgid "Stella?  Think about this."
 msgstr "ステラ、よく考えるんだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:621
+#: Girl_unDead/scenarios/08_puppeteer.cfg:622
 msgid "I think this skill will not be good for you."
 msgstr "悪いことは言わねえ。やめとくんだ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/08_puppeteer.cfg:625
+#: Girl_unDead/scenarios/08_puppeteer.cfg:626
 msgid "I gladly take this risk to help Cyclos, ...and our tribe."
 msgstr "シクロス様、いや、我が一族のためなら喜んで。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:629
+#: Girl_unDead/scenarios/08_puppeteer.cfg:630
 msgid ""
 "I see.  I'll give it to you.  But be aware that it will erode both mind and "
 "body over time."
@@ -3026,58 +3031,58 @@ msgstr ""
 "んの心と体を蝕むことを忘れるでないぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:663
+#: Girl_unDead/scenarios/08_puppeteer.cfg:664
 msgid ""
 "I really want to get to Weldyn, but since the sanctuary is near, we'll go "
 "there first."
 msgstr "では、先を急ぎましょう。"
 
 #. [message]: speaker=Puppeteer
-#: Girl_unDead/scenarios/08_puppeteer.cfg:667
+#: Girl_unDead/scenarios/08_puppeteer.cfg:668
 msgid "Pray for good fortune in this war."
 msgstr "無事を祈っているぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:739
+#: Girl_unDead/scenarios/08_puppeteer.cfg:740
 msgid "What's that?"
 msgstr "これは何かしら？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:747
+#: Girl_unDead/scenarios/08_puppeteer.cfg:748
 msgid "Oh! It's the legendary ring of Gold Angel."
 msgstr "おお、こいつは伝説の金のエンジェルの指輪だぜ！"
 
 #. [message]: type=Gold Chocobone
 #. [message]: type=Silver Chocobone
 #. [message]: type=Dread Bat
-#: Girl_unDead/scenarios/08_puppeteer.cfg:752
-#: Girl_unDead/scenarios/08_puppeteer.cfg:768
-#: Girl_unDead/scenarios/08_puppeteer.cfg:784
+#: Girl_unDead/scenarios/08_puppeteer.cfg:753
+#: Girl_unDead/scenarios/08_puppeteer.cfg:769
+#: Girl_unDead/scenarios/08_puppeteer.cfg:785
 msgid "I'll follow you forever."
 msgstr "私はとこしえにあなた様についてゆきます。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:756
+#: Girl_unDead/scenarios/08_puppeteer.cfg:757
 msgid "You should be very useful in battle."
 msgstr "まあ、とてもうれしいわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:763
+#: Girl_unDead/scenarios/08_puppeteer.cfg:764
 msgid "Oh! It's the legendary ring of Silver Angel."
 msgstr "おお、こいつは伝説の銀のエンジェルの指輪だぜ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:772
+#: Girl_unDead/scenarios/08_puppeteer.cfg:773
 msgid "You should be useful in battle."
 msgstr "まあ、うれしいわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/08_puppeteer.cfg:779
+#: Girl_unDead/scenarios/08_puppeteer.cfg:780
 msgid "Hum, It's a ordinary ring."
 msgstr "ふん、ただの指輪だな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/08_puppeteer.cfg:788
+#: Girl_unDead/scenarios/08_puppeteer.cfg:789
 msgid " doubt that you will be much help."
 msgstr "あんまりうれしくないわ。"
 
@@ -3088,28 +3093,28 @@ msgstr "聖堂"
 
 #. [side]: id=White Mage, type=Mage of Light
 #. [side]: id=Great Mage, type=Great Mage
-#: Girl_unDead/scenarios/09_sanctuary.cfg:80
-#: Girl_unDead/scenarios/09_sanctuary.cfg:94
+#: Girl_unDead/scenarios/09_sanctuary.cfg:81
+#: Girl_unDead/scenarios/09_sanctuary.cfg:95
 msgid "Royal Mage"
 msgstr "王室付き魔術師"
 
 #. [side]
-#: Girl_unDead/scenarios/09_sanctuary.cfg:205
+#: Girl_unDead/scenarios/09_sanctuary.cfg:206
 msgid "Corpse"
 msgstr "死体"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/09_sanctuary.cfg:216
+#: Girl_unDead/scenarios/09_sanctuary.cfg:217
 msgid "Defeat all the enemies leader"
 msgstr "すべての敵の指揮官を倒す。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:268
+#: Girl_unDead/scenarios/09_sanctuary.cfg:269
 msgid "That structure looks more like a fortress than a temple."
 msgstr "こいつは聖堂というより要塞だな。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:272
+#: Girl_unDead/scenarios/09_sanctuary.cfg:273
 msgid ""
 "This region is as bright as the day though it is not yet dawn.  And, I can "
 "not know the layout of the building."
@@ -3118,52 +3123,52 @@ msgstr ""
 "か分かんねえ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:276
+#: Girl_unDead/scenarios/09_sanctuary.cfg:277
 msgid "I sense strong magic here.  The Mages may be creating this light."
 msgstr "強い魔力を感じるわ。魔術師の力で光を作っているのね。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:280
+#: Girl_unDead/scenarios/09_sanctuary.cfg:281
 msgid "Will it hinder us?"
 msgstr "ち、なんていう嫌がらせだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:284
+#: Girl_unDead/scenarios/09_sanctuary.cfg:285
 msgid "I don't know.  I do know that we will be unwelcome."
 msgstr "私たちは歓迎されていないようね。"
 
 #. [event]
-#: Girl_unDead/scenarios/09_sanctuary.cfg:299
+#: Girl_unDead/scenarios/09_sanctuary.cfg:300
 msgid "Hendrich"
 msgstr "Hendrich"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_sanctuary.cfg:302
+#: Girl_unDead/scenarios/09_sanctuary.cfg:303
 msgid "Not Kill me! Please forgive me!"
 msgstr "殺さんでくれ！ 勘弁してくれよ！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:306
+#: Girl_unDead/scenarios/09_sanctuary.cfg:307
 msgid "Here is a smelly human mage."
 msgstr "臭い魔術師がいやがるぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:310
+#: Girl_unDead/scenarios/09_sanctuary.cfg:311
 msgid "Are you hiding yourself from us?"
 msgstr "あなた、自分を見えなくするってこと？"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_sanctuary.cfg:314
+#: Girl_unDead/scenarios/09_sanctuary.cfg:315
 msgid "No. I'm escaping from the temple."
 msgstr "違うよ、この聖堂からオサラバするのさ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:318
+#: Girl_unDead/scenarios/09_sanctuary.cfg:319
 msgid "Why?"
 msgstr "どうして？"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_sanctuary.cfg:322
+#: Girl_unDead/scenarios/09_sanctuary.cfg:323
 msgid ""
 "The kingdom is doing abomination experiments with elvish shamans as "
 "materials.  I could not bear it."
@@ -3172,24 +3177,24 @@ msgstr ""
 "えられそうにないな。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:326
+#: Girl_unDead/scenarios/09_sanctuary.cfg:327
 msgid ""
 "Oh! Loana!  I will break the front of the temple even now and go to rescue "
 "you."
 msgstr "おい！ロアナ！ 聖堂の正面を突破して、すぐにも助けに行くからな。"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_sanctuary.cfg:330
+#: Girl_unDead/scenarios/09_sanctuary.cfg:331
 msgid "The front gate is very solid, but the back door protection is loose."
 msgstr "正面はえらく頑丈にできてやがるが、裏口は守りが甘いな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:346
+#: Girl_unDead/scenarios/09_sanctuary.cfg:347
 msgid "Thank you. What do you do after?"
 msgstr "ありがとう。それで、これからどうするんですか？"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_sanctuary.cfg:350
+#: Girl_unDead/scenarios/09_sanctuary.cfg:351
 msgid ""
 "Despite being undead, you look better than a human being. I want to be your "
 "help."
@@ -3197,55 +3202,55 @@ msgstr ""
 "アンデッドのくせに、人間より人間っぽいな。あんたの手助けでもしてやるかな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:354
+#: Girl_unDead/scenarios/09_sanctuary.cfg:355
 msgid "It will be good."
 msgstr "あら、いいんじゃないかしら。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:358
+#: Girl_unDead/scenarios/09_sanctuary.cfg:359
 msgid "Dammit, do it on your own."
 msgstr "ちっ、自分でやってくれ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:378
+#: Girl_unDead/scenarios/09_sanctuary.cfg:379
 msgid "The shroud is cleared."
 msgstr "モヤが晴れたな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:382
+#: Girl_unDead/scenarios/09_sanctuary.cfg:383
 msgid "It is certainly thanks to Hendrich."
 msgstr "まさに Hendrich さんのお陰です。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:386
+#: Girl_unDead/scenarios/09_sanctuary.cfg:387
 msgid "Sometimes even a mage can be useful.."
 msgstr "魔術師もよ、たまには役に立つことがあるってことさ。"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/09_sanctuary.cfg:390
+#: Girl_unDead/scenarios/09_sanctuary.cfg:391
 msgid "I will do my best and I will be more helpful."
 msgstr "頑張って、もっと役に立つようにするよ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:404
+#: Girl_unDead/scenarios/09_sanctuary.cfg:405
 msgid "Oh, it's dazzling!  Withdraw the previous word!"
 msgstr "くそっ、眩しい!  前言撤回だ！"
 
 #. [unit]: id=Loana, type=Elvish Shyde
 #. [unit]: type=Soulless, id=Loana_dead
-#: Girl_unDead/scenarios/09_sanctuary.cfg:579
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1057
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1149
+#: Girl_unDead/scenarios/09_sanctuary.cfg:580
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1058
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1150
 msgid "Loana"
 msgstr "ロアナ"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:607
+#: Girl_unDead/scenarios/09_sanctuary.cfg:608
 msgid "Loana!  I've come to save you."
 msgstr "ロアナ！　助けに来たぞ。"
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/09_sanctuary.cfg:611
+#: Girl_unDead/scenarios/09_sanctuary.cfg:612
 msgid ""
 "Cyclos! Thank you.  I have hoped to see you for quite some time.  "
 "Unfortunately we cannot now return with you.  The hideous experiments we "
@@ -3257,76 +3262,76 @@ msgstr ""
 "かわり命の限り一緒にあなたと共に戦いましょう。"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/09_sanctuary.cfg:616
+#: Girl_unDead/scenarios/09_sanctuary.cfg:617
 msgid "Defeat enemies leader."
 msgstr "敵の指揮官を倒す"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_sanctuary.cfg:620
+#: Girl_unDead/scenarios/09_sanctuary.cfg:621
 msgid "Death of Malica."
 msgstr "マリカの死"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_sanctuary.cfg:624
+#: Girl_unDead/scenarios/09_sanctuary.cfg:625
 msgid "Death of Poet."
 msgstr "詩人の死"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_sanctuary.cfg:628
+#: Girl_unDead/scenarios/09_sanctuary.cfg:629
 msgid "Death of Cyclos."
 msgstr "シクロスの死"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_sanctuary.cfg:632
+#: Girl_unDead/scenarios/09_sanctuary.cfg:633
 msgid "Death of Stella."
 msgstr "ステラの死"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_sanctuary.cfg:636
+#: Girl_unDead/scenarios/09_sanctuary.cfg:637
 msgid "Death of Loana."
 msgstr "ロアナの死"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/09_sanctuary.cfg:640
+#: Girl_unDead/scenarios/09_sanctuary.cfg:641
 msgid "Time over."
 msgstr "時間切れ"
 
 #. [message]: speaker=$shaman_stored.id
-#: Girl_unDead/scenarios/09_sanctuary.cfg:691
+#: Girl_unDead/scenarios/09_sanctuary.cfg:692
 msgid "Ugh, sore..."
 msgstr "うぐあ・・"
 
 #. [message]: speaker=$shaman_stored.name
 #. [message]: speaker=Loana_dead
-#: Girl_unDead/scenarios/09_sanctuary.cfg:710
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1066
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1158
+#: Girl_unDead/scenarios/09_sanctuary.cfg:711
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1067
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1159
 msgid "Uuh...Uuh...Uuh..."
 msgstr "うー、うー、うー・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:801
-#: Girl_unDead/scenarios/09_sanctuary.cfg:905
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1009
+#: Girl_unDead/scenarios/09_sanctuary.cfg:802
+#: Girl_unDead/scenarios/09_sanctuary.cfg:906
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1010
 msgid "Why there are so many corpses ?"
 msgstr "なんでここにこんなにたくさんの死体があるんだ？"
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/09_sanctuary.cfg:810
-#: Girl_unDead/scenarios/09_sanctuary.cfg:914
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1018
+#: Girl_unDead/scenarios/09_sanctuary.cfg:811
+#: Girl_unDead/scenarios/09_sanctuary.cfg:915
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1019
 msgid "They once were shamans as me..."
 msgstr "かつて呪術師たちが居たわよね、私のような..."
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:816
-#: Girl_unDead/scenarios/09_sanctuary.cfg:920
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1024
+#: Girl_unDead/scenarios/09_sanctuary.cfg:817
+#: Girl_unDead/scenarios/09_sanctuary.cfg:921
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1025
 msgid "... No! They were elvish shamans! Why?"
 msgstr "まさか、我らが呪術師たちでは！？　いや、そんなはずは・・・"
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1035
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1036
 msgid ""
 "Cyclos, thank you again for coming.  I love you, but I must now say good bye."
 msgstr ""
@@ -3334,31 +3339,31 @@ msgstr ""
 "ば。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1039
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1040
 msgid ""
 "Loana!  Think!  There must be some cure.  We'll go back home and figure this "
 "out!"
 msgstr "ロアナ！　考え直せ！　きっと助かる方法があるはずだ。一緒に帰ろう！"
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1043
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1044
 msgid "I thank you, but my time is over.  Good bye Cyclos...Ugh!!"
 msgstr ""
 "ありがとう。でも、お別れの時間が来たようだわ。さようならシクロス・・・うぐ"
 "あ！！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1070
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1071
 msgid "Loana...Why did it have to be you.."
 msgstr "ロアナ・・・　なぜこんなことに・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1074
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1075
 msgid "Be gone!  All corpses by my hand!"
 msgstr "我が手のうちの死者よ！　すべて消え失せよ！！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1094
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1095
 msgid ""
 "Was what I did necessary?  I'm sorry, Cyclos, but corpses lose the memories "
 "of their former life.  They exist only in pain."
@@ -3367,12 +3372,12 @@ msgstr ""
 "ちはもう生きていたことさえ忘れているの。存在することは苦痛でしかないの。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1098
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1099
 msgid "I know... Poet, our agreement is fulfilled. Kill me... please!"
 msgstr "分かっている・・・　詩人よ、約束は果たされた。さあ、私を殺すがいい！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1102
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1103
 msgid ""
 "No!  Your life is now mine.  I will decide when you die. You elves need rest "
 "and I need to rebuild my army.  Is there a place nearby where we can hide?"
@@ -3382,7 +3387,7 @@ msgstr ""
 "いかしら？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1106
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1107
 msgid ""
 "At the foot of the Northern Mountains there is a place which human will not "
 "go.  They believe dangerous creatures exist there."
@@ -3391,12 +3396,12 @@ msgstr ""
 "近づかねえぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1110
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1111
 msgid "Poet, lead the way."
 msgstr "そこにしましょう。詩人さん、案内してくださいな。"
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1127
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1128
 msgid ""
 "Cyclos!  Thank you for coming to me.  I love you, but, I must now say good "
 "bye."
@@ -3405,29 +3410,29 @@ msgstr ""
 "ば。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1131
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1132
 msgid "Loana!  No!  There must be a cure.  Return home with me!"
 msgstr "ロアナ！　何を言う！　きっと助かる方法があるはずだ。一緒に帰ろう！"
 
 #. [message]: speaker=Loana
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1135
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1136
 msgid "Thank you, but I have no more time.  Good bye, Cyclos...Ugh!!"
 msgstr ""
 "ありがとう。でも、お別れの時間が来たようだわ。さようならシクロス・・・うぐ"
 "あ！！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1162
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1163
 msgid "Loana...Why you..."
 msgstr "ロアナ・・・　なぜ・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1166
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1167
 msgid "Vanish, all you corpses, by my hand!"
 msgstr "我が手のうちの死者よ！　すべて消え失せよ！！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/09_sanctuary.cfg:1186
+#: Girl_unDead/scenarios/09_sanctuary.cfg:1187
 msgid "Loana!!  No!!"
 msgstr "ロアナ！　死ぬな！！"
 
@@ -3437,12 +3442,12 @@ msgid "a long day"
 msgstr "長い日"
 
 #. [side]
-#: Girl_unDead/scenarios/10_a_long_day.cfg:55
+#: Girl_unDead/scenarios/10_a_long_day.cfg:57
 msgid "Snow Monster"
 msgstr "雪男"
 
 #. [part]
-#: Girl_unDead/scenarios/10_a_long_day.cfg:73
+#: Girl_unDead/scenarios/10_a_long_day.cfg:75
 msgid ""
 "Because Cyclos was sad from the loss of Loana and the other elves were tired "
 "from the fighting, they retreated into the mountains."
@@ -3451,7 +3456,7 @@ msgstr ""
 "たため、彼らは人間が行こうとしない山中でひとときの休息を取ることにした。"
 
 #. [part]
-#: Girl_unDead/scenarios/10_a_long_day.cfg:76
+#: Girl_unDead/scenarios/10_a_long_day.cfg:78
 msgid ""
 "The freed shamans, strange to say, had ceased turning into undead.  It was "
 "thought that Malica's magical powers had cured them."
@@ -3460,30 +3465,30 @@ msgstr ""
 "おそらくマリカの魔力の作用なのだろう。"
 
 #. [part]
-#: Girl_unDead/scenarios/10_a_long_day.cfg:79
+#: Girl_unDead/scenarios/10_a_long_day.cfg:81
 msgid ""
 "Although the shamans had been cured, their magical gift had turned toward "
 "something dark."
 msgstr "その代わりに彼女達には、闇の力に属する能力が加わってしまった。"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/10_a_long_day.cfg:87
+#: Girl_unDead/scenarios/10_a_long_day.cfg:89
 msgid "Kill the animals"
 msgstr "動物を倒す"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:127
+#: Girl_unDead/scenarios/10_a_long_day.cfg:129
 msgid "Are you sure this is a safe place to hide?"
 msgstr "本当にここで大丈夫か？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_a_long_day.cfg:131
+#: Girl_unDead/scenarios/10_a_long_day.cfg:133
 msgid "People fear this place, so few come.  But we may face some monsters."
 msgstr ""
 "人間どもは怖がって来やしねえさ。その代わり、ちょっとばかり獣がでるけどな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:135
+#: Girl_unDead/scenarios/10_a_long_day.cfg:137
 msgid ""
 "We will rest here, but station guards at the entrance of this valley just in "
 "case."
@@ -3492,51 +3497,51 @@ msgstr ""
 "ように。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:139
+#: Girl_unDead/scenarios/10_a_long_day.cfg:141
 msgid "Cyclos, the elves need food and I see a bear over there."
 msgstr ""
 "シクロスさん、エルフさん達に栄養をつけてもらわなければ。ちょうどあそこに熊が"
 "いるわ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:149
+#: Girl_unDead/scenarios/10_a_long_day.cfg:151
 msgid "We do not butcher animals for food."
 msgstr "我々はあまり動物は食べないのだが。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_a_long_day.cfg:153
+#: Girl_unDead/scenarios/10_a_long_day.cfg:155
 msgid ""
 "You look like you have no energy.  Better to hunt so you can regain your "
 "vigor."
 msgstr "敵の姿もないし、気晴らしに狩りでもしてきな。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:157
+#: Girl_unDead/scenarios/10_a_long_day.cfg:159
 msgid "I will go.  Stella, join me."
 msgstr "わかった。行くとしよう。ステラも来るか？"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10_a_long_day.cfg:161
+#: Girl_unDead/scenarios/10_a_long_day.cfg:163
 msgid "Yes I will, glad..."
 msgstr "はい、喜んで・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_a_long_day.cfg:165
+#: Girl_unDead/scenarios/10_a_long_day.cfg:167
 msgid "(Stella! Wait!)"
 msgstr "（ねえちゃん、ちょっと待ちな！）"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/10_a_long_day.cfg:169
+#: Girl_unDead/scenarios/10_a_long_day.cfg:171
 msgid "Ah... I better stay here to guard this magic bow."
 msgstr "あ、私もここに残って見張りをしてます。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:173
+#: Girl_unDead/scenarios/10_a_long_day.cfg:175
 msgid "Stella!  Thank you!  Cyclos, let's go."
 msgstr "ステラさん、ありがとう！　シクロスさん、さあ行きましょう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_a_long_day.cfg:177
+#: Girl_unDead/scenarios/10_a_long_day.cfg:179
 msgid ""
 "Stella, you did the right thing.  Malica knows that you love Cyclos.  He is "
 "the only who who doesn't know.  She has an idea and wanted to be alone with "
@@ -3547,31 +3552,31 @@ msgstr ""
 "と二人だけになりたかったんだろうよ。"
 
 #. [message]: speaker=Troll Child
-#: Girl_unDead/scenarios/10_a_long_day.cfg:181
+#: Girl_unDead/scenarios/10_a_long_day.cfg:183
 msgid "???"
 msgstr "？？？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/10_a_long_day.cfg:185
+#: Girl_unDead/scenarios/10_a_long_day.cfg:187
 msgid "Now, let's take a break in the ruin."
 msgstr "さ、俺たちは中に入って一服しようぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:220
+#: Girl_unDead/scenarios/10_a_long_day.cfg:222
 msgid "I feel some wonderful power arises when we are together.  Don't you?"
 msgstr ""
 "シクロスさんと一緒にいると何だか不思議な力が湧いてくるのを感じるわ。そうじゃ"
 "ない？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:224
+#: Girl_unDead/scenarios/10_a_long_day.cfg:226
 msgid ""
 "I feel it too.  Odd that we are attracted to each other although there is "
 "nothing in common between us."
 msgstr "私もだ。まるで私たち二人には、何か昔からのつながりがあるかのようだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:228
+#: Girl_unDead/scenarios/10_a_long_day.cfg:230
 msgid ""
 "Do you think that?  Consider that the decoration on your sword is very "
 "similar to my ...... "
@@ -3579,53 +3584,53 @@ msgstr ""
 "ねえ、前から思っていたのだけれど、シクロスさんの剣の飾りが何だか私の・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:232
+#: Girl_unDead/scenarios/10_a_long_day.cfg:234
 msgid ""
 "Wait.  Let's attack the bear together.  I feel somthing will happen then."
 msgstr "さあ、熊退治に行こう。何かあるような気がする。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:236
+#: Girl_unDead/scenarios/10_a_long_day.cfg:238
 msgid "Sigh...All right."
 msgstr "あの・・・　わかったわ。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/scenarios/10_a_long_day.cfg:242
+#: Girl_unDead/scenarios/10_a_long_day.cfg:244
 msgid ""
 "Malica and Cyclos have a coordinated attack that occurs only if the two are "
 "adjacent."
 msgstr "マリカとシクロスは隣り合っていると協調攻撃ができるようになった。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:269
-#: Girl_unDead/scenarios/10_a_long_day.cfg:294
+#: Girl_unDead/scenarios/10_a_long_day.cfg:271
+#: Girl_unDead/scenarios/10_a_long_day.cfg:296
 msgid "Oh, a yeti!"
 msgstr "おお、雪男だ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:273
-#: Girl_unDead/scenarios/10_a_long_day.cfg:298
+#: Girl_unDead/scenarios/10_a_long_day.cfg:275
+#: Girl_unDead/scenarios/10_a_long_day.cfg:300
 msgid "Oh, how much meat can we get from the yeti?"
 msgstr "まあ！　何人前のお肉になるかしら？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:277
-#: Girl_unDead/scenarios/10_a_long_day.cfg:302
+#: Girl_unDead/scenarios/10_a_long_day.cfg:279
+#: Girl_unDead/scenarios/10_a_long_day.cfg:304
 msgid "Don't be stupid!  It is very dangerous!"
 msgstr "何言ってんだ！　あいつは危険きわまりないぞ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:313
+#: Girl_unDead/scenarios/10_a_long_day.cfg:315
 msgid "We have killed the big beast."
 msgstr "今日は大物を捕らえることができたわね。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:317
+#: Girl_unDead/scenarios/10_a_long_day.cfg:319
 msgid "Yes, but how do we take it back to our camp?"
 msgstr "そうだな。しかし、どうやって運ぼうか？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:321
+#: Girl_unDead/scenarios/10_a_long_day.cfg:323
 msgid ""
 "My soldiers will carry it later. Ah, this is a beautiful place, isn't it?"
 msgstr ""
@@ -3633,7 +3638,7 @@ msgstr ""
 "い？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:325
+#: Girl_unDead/scenarios/10_a_long_day.cfg:327
 msgid ""
 "Yes. I would not have thought there was a place like this at the foot of "
 "such a steep mountain ..."
@@ -3641,17 +3646,17 @@ msgstr ""
 "そうだな。まさかこんな山奥にこのような場所があるとは思ってもみなかった。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:329
+#: Girl_unDead/scenarios/10_a_long_day.cfg:331
 msgid "I may forget the terrible battle...."
 msgstr "ひどい争いのことなんて忘れてしまいそう・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:333
+#: Girl_unDead/scenarios/10_a_long_day.cfg:335
 msgid "....."
 msgstr "・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:337
+#: Girl_unDead/scenarios/10_a_long_day.cfg:339
 msgid ""
 "You are thinking of Loana.  You would be with her now if we could have "
 "rescued her a little earlier.  I'm sorry."
@@ -3660,7 +3665,7 @@ msgstr ""
 "んもここにいられたでしょうに。ごめんなさいね。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:341
+#: Girl_unDead/scenarios/10_a_long_day.cfg:343
 msgid ""
 "Malica, don't worry.  I apologize that I was upset at the time. I still "
 "grieve about losing her, yet my heart becomes calm in your presence."
@@ -3669,19 +3674,19 @@ msgstr ""
 "ロアナを失った苦しみは消えないが、あなたのおかげで痛みは癒えてきた。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:345
+#: Girl_unDead/scenarios/10_a_long_day.cfg:347
 msgid "It is strange that we talk to one another, instead of being enemies."
 msgstr "不思議なものだ。元々敵同士の我々が共に語り合っているとはな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:349
+#: Girl_unDead/scenarios/10_a_long_day.cfg:351
 msgid "Sure.  I dwell in darkness while you belong to a noble race."
 msgstr ""
 "そうね、私のような闇の存在とシクロスさんのような気高い一族が一緒にいるなん"
 "て。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:353
+#: Girl_unDead/scenarios/10_a_long_day.cfg:355
 msgid ""
 "Sometimes I forget you are undead.  And sometimes I feel I have long known "
 "you."
@@ -3690,22 +3695,22 @@ msgstr ""
 "知っていたような気すらすることがある。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:357
+#: Girl_unDead/scenarios/10_a_long_day.cfg:359
 msgid "Yes, I feel we have some sort of connection..."
 msgstr "そう。私も時々私たち二人にはなにか深い絆があるように感じるわ・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:361
+#: Girl_unDead/scenarios/10_a_long_day.cfg:363
 msgid "The sun will soon go down.  We must return to camp."
 msgstr "さあ、もう夕暮れだ。戻らなければ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/10_a_long_day.cfg:365
+#: Girl_unDead/scenarios/10_a_long_day.cfg:367
 msgid "...Sorry, I speak too much.  Let's go."
 msgstr "ごめんなさい。おしゃべりしすぎたようね。帰りましょう。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/10_a_long_day.cfg:381
+#: Girl_unDead/scenarios/10_a_long_day.cfg:383
 msgid "Loana...forgive me..."
 msgstr "ロアナ・・・　許してくれ・・・"
 
@@ -3715,7 +3720,7 @@ msgid "Intrusion"
 msgstr "潜入"
 
 #. [part]
-#: Girl_unDead/scenarios/11_intrusion.cfg:20
+#: Girl_unDead/scenarios/11_intrusion.cfg:21
 msgid ""
 "Because the guards at the King's castle were numerous and strong, Malica "
 "used the darkness of the night to sneak into the castle."
@@ -3723,107 +3728,107 @@ msgstr ""
 "国王の城の守りは非常に堅いため、マリカ達は夜のうちに城に侵入することにした。"
 
 #. [side]
-#: Girl_unDead/scenarios/11_intrusion.cfg:248
+#: Girl_unDead/scenarios/11_intrusion.cfg:249
 msgid "Mermaid"
 msgstr "マーメイド"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/11_intrusion.cfg:278
+#: Girl_unDead/scenarios/11_intrusion.cfg:279
 msgid ""
 "Get as many units as possible through the castle's gate (Malica must enter "
 "last.)"
 msgstr "できるだけ多くのユニットが入城する（マリカは最後に入ること）"
 
 #. [objective]: condition=lose
-#: Girl_unDead/scenarios/11_intrusion.cfg:286
+#: Girl_unDead/scenarios/11_intrusion.cfg:287
 msgid "Malica and the other heros fail to reach the gate"
 msgstr "マリカか他のヒーロー達が入城し損ねる"
 
 #. [note]
-#: Girl_unDead/scenarios/11_intrusion.cfg:310
+#: Girl_unDead/scenarios/11_intrusion.cfg:311
 msgid "Maximum 23 units can enter the gate (Including Malica)."
 msgstr "マリカを含めて最大23のユニットが城に入れます"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/11_intrusion.cfg:365
+#: Girl_unDead/scenarios/11_intrusion.cfg:366
 msgid "My Princess, we must enter the gate of the castle before morning."
 msgstr "姫様、日が昇る前に城に入るんだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/11_intrusion.cfg:370
+#: Girl_unDead/scenarios/11_intrusion.cfg:371
 msgid "All right.  How do you know about this castle."
 msgstr "わかったわ。ところで、どうして詩人さんはこの城に詳しいの？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/11_intrusion.cfg:374
+#: Girl_unDead/scenarios/11_intrusion.cfg:375
 msgid "Ah... I can't hear you say because it is too cold..."
 msgstr "あー、今夜は冷えるもんで、耳鳴りがしてよく聞こえねえな。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/11_intrusion.cfg:378
+#: Girl_unDead/scenarios/11_intrusion.cfg:379
 msgid "Anyway the lighthouse lights are dazzling."
 msgstr "それにしても灯台ってのは眩しいもんだな。"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/11_intrusion.cfg:387
+#: Girl_unDead/scenarios/11_intrusion.cfg:388
 msgid ""
 "The　great Mage is protecting the castle with the fire of that lighthouse."
 msgstr "大魔導士が、あの灯台の火で城を守っているんだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/11_intrusion.cfg:391
+#: Girl_unDead/scenarios/11_intrusion.cfg:392
 msgid "How?"
 msgstr "どうやって？"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/11_intrusion.cfg:395
+#: Girl_unDead/scenarios/11_intrusion.cfg:396
 msgid "...  Sorry, I've forgotten."
 msgstr ".... ごめん、忘れちまってた。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/11_intrusion.cfg:399
+#: Girl_unDead/scenarios/11_intrusion.cfg:400
 msgid "Damm.  Poor mage is useless!"
 msgstr "まったく。へっぽこ魔術師は使えねえな！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/11_intrusion.cfg:436
+#: Girl_unDead/scenarios/11_intrusion.cfg:437
 msgid "Sorry!  I cann't enter the gate!"
 msgstr "ごめんなさい！　入り損なってしまったわ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/11_intrusion.cfg:465
+#: Girl_unDead/scenarios/11_intrusion.cfg:466
 msgid "Poet!  Don't disappear!"
 msgstr "詩人さん、居なくならないで！"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/11_intrusion.cfg:505
-#: Girl_unDead/utils/gud_utils.cfg:689
+#: Girl_unDead/scenarios/11_intrusion.cfg:506
+#: Girl_unDead/utils/gud_utils.cfg:693
 msgid "Oh, I remember!  We must put out the fire of all the lighthouses."
 msgstr "忘れるもんか！ 全ての灯台の日を消さなきゃならんのだ！"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/11_intrusion.cfg:509
-#: Girl_unDead/utils/gud_utils.cfg:693
+#: Girl_unDead/scenarios/11_intrusion.cfg:510
+#: Girl_unDead/utils/gud_utils.cfg:697
 msgid ""
 "The undead that entered the castle will be burnt out by the sacred fire."
 msgstr "城に侵入するアンデッドは、聖なる炎で焼き尽くされてしまうぞ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/11_intrusion.cfg:561
-#: Girl_unDead/scenarios/11_intrusion.cfg:575
-#: Girl_unDead/scenarios/11_intrusion.cfg:589
+#: Girl_unDead/scenarios/11_intrusion.cfg:562
+#: Girl_unDead/scenarios/11_intrusion.cfg:576
+#: Girl_unDead/scenarios/11_intrusion.cfg:590
 msgid "It's midnight now."
 msgstr "もう、深夜だわ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/11_intrusion.cfg:604
-#: Girl_unDead/scenarios/11_intrusion.cfg:618
-#: Girl_unDead/scenarios/11_intrusion.cfg:632
+#: Girl_unDead/scenarios/11_intrusion.cfg:605
+#: Girl_unDead/scenarios/11_intrusion.cfg:619
+#: Girl_unDead/scenarios/11_intrusion.cfg:633
 msgid "Hurry! The sun rises."
 msgstr "急げ、じきに日が昇るぞ！"
 
 #. [message]: speaker=Mermaid Princess
-#: Girl_unDead/scenarios/11_intrusion.cfg:665
+#: Girl_unDead/scenarios/11_intrusion.cfg:672
 msgid ""
 "Lady Lich, do you remember me?  I shall build a magical bridge to the "
 "castle.  You may cross the bridge."
@@ -3832,28 +3837,28 @@ msgstr ""
 "それを渡るといいわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/11_intrusion.cfg:674
+#: Girl_unDead/scenarios/11_intrusion.cfg:681
 msgid "Mermaid Princess, thank you."
 msgstr "マーメイドのお姫様。ありがとう。"
 
 #. [effect]
-#: Girl_unDead/scenarios/11_intrusion.cfg:713
+#: Girl_unDead/scenarios/11_intrusion.cfg:725
 msgid "staff"
 msgstr "杖"
 
 #. [effect]
-#: Girl_unDead/scenarios/11_intrusion.cfg:721
-#: Girl_unDead/scenarios/11_intrusion.cfg:754
+#: Girl_unDead/scenarios/11_intrusion.cfg:733
+#: Girl_unDead/scenarios/11_intrusion.cfg:766
 msgid "thorns"
 msgstr "とげ"
 
 #. [effect]
-#: Girl_unDead/scenarios/11_intrusion.cfg:746
+#: Girl_unDead/scenarios/11_intrusion.cfg:758
 msgid "faerie touch"
 msgstr "妖精の接触"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/11_intrusion.cfg:779
+#: Girl_unDead/scenarios/11_intrusion.cfg:791
 msgid "Sorry!  I can't enter the gate!"
 msgstr "ごめんなさい！　入り損なってしまったわ！"
 
@@ -3866,7 +3871,7 @@ msgstr "城"
 #. [unit]: type=Necrophage, id=Rotten Mage
 #: Girl_unDead/scenarios/12_castle.cfg:36
 #: Girl_unDead/scenarios/12_castle.cfg:39
-#: Girl_unDead/scenarios/12_castle.cfg:979
+#: Girl_unDead/scenarios/12_castle.cfg:1003
 msgid "White Elder Mage"
 msgstr "大白魔術師"
 
@@ -3887,17 +3892,17 @@ msgstr "親衛隊"
 
 #. [objective]: condition=win
 #: Girl_unDead/scenarios/12_castle.cfg:258
-#: Girl_unDead/scenarios/12_castle.cfg:1032
+#: Girl_unDead/scenarios/12_castle.cfg:1057
 msgid "Defeat the Elder Great Mage"
 msgstr "大魔術師を倒す"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:353
+#: Girl_unDead/scenarios/12_castle.cfg:377
 msgid "My Lord, undead have come."
 msgstr "陛下、アンデッドどもがやって来ました。"
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/12_castle.cfg:357
+#: Girl_unDead/scenarios/12_castle.cfg:381
 msgid ""
 "Ha, they are stupid.  When I capture her, I shall be able to gain perpetual "
 "youth and immortality."
@@ -3906,12 +3911,12 @@ msgstr ""
 "り、永遠の命を手に入れられるのじゃな。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:361
+#: Girl_unDead/scenarios/12_castle.cfg:385
 msgid "Yes, my Lord. (Ha, you are the stupid one.)"
 msgstr "その通りにございます、陛下。（フン、貴様も愚か者の一人だ。）"
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/12_castle.cfg:365
+#: Girl_unDead/scenarios/12_castle.cfg:389
 msgid ""
 "And as we gain more immortal mages, our plan will be fulfilled faster.  Then "
 "we can eradicate all creatures of darkness."
@@ -3920,13 +3925,13 @@ msgstr ""
 "進むことになるじゃろう。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:369
+#: Girl_unDead/scenarios/12_castle.cfg:393
 msgid "Yes, my Lord. (But you won't live to see it.)"
 msgstr ""
 "その通りにございます、陛下。（貴様が生きてそれを見られるかは知らぬがな。）"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:373
+#: Girl_unDead/scenarios/12_castle.cfg:397
 msgid ""
 "(Ah, Malica has come!  Disaster awaits her, but I can't help her.  Sorry, "
 "sorry Malica...)"
@@ -3935,14 +3940,14 @@ msgstr ""
 "は何もできない。マリカ、ごめんなさい・・・）"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:384
+#: Girl_unDead/scenarios/12_castle.cfg:408
 msgid ""
 "I've reached the castle, but I'm afraid to meet Mom because I am too ugly."
 msgstr ""
 "ついに城に入ったわ。でも、こんなに醜い姿をお母さんに見せるのは怖い・・・"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:388
+#: Girl_unDead/scenarios/12_castle.cfg:412
 msgid ""
 "Don't worry.  Your soul is very beautiful.  And I think your mother must be "
 "very gentle and she loves you yet."
@@ -3952,69 +3957,69 @@ msgstr ""
 
 #. [message]: speaker=Malica
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:392
-#: Girl_unDead/scenarios/12_castle.cfg:629
+#: Girl_unDead/scenarios/12_castle.cfg:416
+#: Girl_unDead/scenarios/12_castle.cfg:654
 msgid "Thank you, Cyclos."
 msgstr "ありがとう、シクロスさん。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:396
+#: Girl_unDead/scenarios/12_castle.cfg:420
 msgid "There is nothing more beautiful than a bare skull."
 msgstr "しゃれこうべくらいきれいなものはこの世にねえぜ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:400
+#: Girl_unDead/scenarios/12_castle.cfg:424
 msgid "My Princess, Be careful. This castle is a labyrinth."
 msgstr "姫様、気をつけるんだ。この城はまるで迷宮だからな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:404
+#: Girl_unDead/scenarios/12_castle.cfg:428
 msgid "I see.  Poet, why are you familiar with this castle?"
 msgstr "わかったわ。詩人さん、どうしてそんなにこの城に詳しいの？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:408
+#: Girl_unDead/scenarios/12_castle.cfg:432
 msgid "What?  I can't hear you because of the noise."
 msgstr "はあ？　何か言ったか？　騒がしくて聞こえねえぜ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:474
+#: Girl_unDead/scenarios/12_castle.cfg:498
 msgid "Oh no!  Our race has been burnt out by the sacred fire."
 msgstr ""
 "いやよそんなの！　私たちアンデッドは聖なる炎で焼き尽くされてしまうのよ！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:478
+#: Girl_unDead/scenarios/12_castle.cfg:502
 msgid "Even so why were you not burned?"
 msgstr "それで、なんであなただけ焼けてないわけ？"
 
 #. [message]: speaker=Hendrich
-#: Girl_unDead/scenarios/12_castle.cfg:482
+#: Girl_unDead/scenarios/12_castle.cfg:506
 msgid "I don't know why.  But I feel you are closer to humans than undead"
 msgstr "それが謎なんだ。 思うに、あんたはアンデッドってより、人間に近いよな。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:486
+#: Girl_unDead/scenarios/12_castle.cfg:510
 msgid "...."
 msgstr "・・・"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:490
+#: Girl_unDead/scenarios/12_castle.cfg:514
 msgid "Anyhow now we have to move forward,  my Princess."
 msgstr "どっちにしろ、前進しなきゃなんねえんだ、姫様よ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:505
+#: Girl_unDead/scenarios/12_castle.cfg:530
 msgid "Oh, Mom!!"
 msgstr "お母さん！！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:509
+#: Girl_unDead/scenarios/12_castle.cfg:534
 msgid "Malica!!  I've dreamed of you seeing you again."
 msgstr "マリカ！！　どんなに会いたかったことか！"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:513
+#: Girl_unDead/scenarios/12_castle.cfg:538
 msgid ""
 "Ha ha ha.  Such an impressive reunion.  But listen, undead girl, your mother "
 "is now on our side.  What are you going to do?"
@@ -4023,22 +4028,22 @@ msgstr ""
 "私の配下だ。さあどうする？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:521
+#: Girl_unDead/scenarios/12_castle.cfg:546
 msgid "Gilgant, or Poet, you did a good job to bring the undead girl here."
 msgstr "ギルガント、いや今は詩人か、よくぞアンデッドの娘をここまで連れてきた。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:525
+#: Girl_unDead/scenarios/12_castle.cfg:550
 msgid "Damn.  I did it not for you.  It's Malica's wish to come here."
 msgstr "畜生。お前のためにやったんじゃねえ。姫様が望んだからだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:529
+#: Girl_unDead/scenarios/12_castle.cfg:554
 msgid "What?  Pleace explain for me, Poet."
 msgstr "どういうことなの？詩人さん、説明して。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:537
+#: Girl_unDead/scenarios/12_castle.cfg:562
 msgid ""
 "I will explain in his place.  It was easy to find Varas, after he had "
 "disappeared.  But, I don't catch him, but I've send a  most faithful, most "
@@ -4053,27 +4058,27 @@ msgstr ""
 "い。元の人間の姿に戻してやろう。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:541
+#: Girl_unDead/scenarios/12_castle.cfg:566
 msgid "No!  It isn't truth, Poet!"
 msgstr "うそ！　うそでしょ？　詩人さん？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:545
+#: Girl_unDead/scenarios/12_castle.cfg:570
 msgid "Yes...  It's truth."
 msgstr "いや・・・本当だ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:549
+#: Girl_unDead/scenarios/12_castle.cfg:574
 msgid "Oh..."
 msgstr "ああ、でも・・・"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:553
+#: Girl_unDead/scenarios/12_castle.cfg:578
 msgid "Gilgant, Why did you stop report after we annihilated the village?"
 msgstr "ギルガントよ、なぜ例の村の一件のあとから報告をよこさなくなったのだ？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:557
+#: Girl_unDead/scenarios/12_castle.cfg:582
 msgid ""
 "I noticed that you were wrong, when I knew what happened the village.  The "
 "King who must protect his people, harmed his people."
@@ -4082,12 +4087,12 @@ msgstr ""
 "べき王が自国の民を殺すなんて。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:561
+#: Girl_unDead/scenarios/12_castle.cfg:586
 msgid "Little evil is unavoidable for the greater good."
 msgstr "大きな善を実現するためには小さな悪などたいしたことはないのだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:565
+#: Girl_unDead/scenarios/12_castle.cfg:590
 msgid ""
 "I cann't understand highly political things, but I know you did it only for "
 "your interest."
@@ -4096,101 +4101,101 @@ msgstr ""
 "自分の利益のためにやっているってことはわかっている。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:569
+#: Girl_unDead/scenarios/12_castle.cfg:594
 msgid "Do you against me?  You shuld never return to human."
 msgstr "私に歯向かうのか？　人間の姿に戻れなくてもいいのか？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:573
+#: Girl_unDead/scenarios/12_castle.cfg:598
 msgid "It's good!"
 msgstr "上等だぜ！"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:577
+#: Girl_unDead/scenarios/12_castle.cfg:602
 msgid "SO BE IT!"
 msgstr "勝手にしろ。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:581
+#: Girl_unDead/scenarios/12_castle.cfg:606
 msgid "Young elf."
 msgstr "そこのエルフよ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:585
+#: Girl_unDead/scenarios/12_castle.cfg:610
 msgid "Me?"
 msgstr "・・・私か？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:589
+#: Girl_unDead/scenarios/12_castle.cfg:614
 msgid ""
 "Yes.  I teach you a good news.  The undead who killed your father is in "
 "front of you."
 msgstr "そうだ。いいことを教えてやろう。お前の父親の仇は目の前にいる。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:593
+#: Girl_unDead/scenarios/12_castle.cfg:618
 msgid "What do you mean?"
 msgstr "どういうことだ？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:597
+#: Girl_unDead/scenarios/12_castle.cfg:622
 msgid "Gilgant, no Poet is the undead!  Take revenge of your father with me."
 msgstr ""
 "ギルガント、いや詩人がその仇だ。さあ、私たちと一緒に父親の仇をとろうではない"
 "か。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:601
+#: Girl_unDead/scenarios/12_castle.cfg:626
 msgid "Um..."
 msgstr "うーむ・・・"
 
 #. [message]: speaker=Malica
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/12_castle.cfg:609
-#: Girl_unDead/scenarios/12_castle.cfg:613
+#: Girl_unDead/scenarios/12_castle.cfg:634
+#: Girl_unDead/scenarios/12_castle.cfg:638
 msgid "Cyclos..."
 msgstr "シクロス・・・"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:617
+#: Girl_unDead/scenarios/12_castle.cfg:642
 msgid "Cyclos, please help my daughter.  Defeat Randolf.  Never mind for me."
 msgstr "シクロス、私の娘を助けてあげて。ランドルフを倒して。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:621
+#: Girl_unDead/scenarios/12_castle.cfg:646
 msgid "Mom!?"
 msgstr "お母さん！！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:625
+#: Girl_unDead/scenarios/12_castle.cfg:650
 msgid "Randolf, I defeat you with Malica.  I never lose whom I love any more."
 msgstr ""
 "ランドルフ。私はマリカとともに貴様を倒す。これ以上愛する人を失うようなことは"
 "しない。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:633
+#: Girl_unDead/scenarios/12_castle.cfg:658
 msgid "Thank you..."
 msgstr "ありがとよ・・・"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:637
-#: Girl_unDead/scenarios/12_castle.cfg:652
+#: Girl_unDead/scenarios/12_castle.cfg:662
+#: Girl_unDead/scenarios/12_castle.cfg:677
 msgid "You are fool to fight against me."
 msgstr "私に歯向かうとは愚かな。"
 
 #. [message]: speaker=unit
-#: Girl_unDead/scenarios/12_castle.cfg:662
+#: Girl_unDead/scenarios/12_castle.cfg:687
 msgid "My attack has no effect."
 msgstr "攻撃が効かない！？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:666
+#: Girl_unDead/scenarios/12_castle.cfg:691
 msgid "Fool, I am invincible so long as the woman lives."
 msgstr "バカめ、私はこの女が生きている限り不死だ。"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:670
+#: Girl_unDead/scenarios/12_castle.cfg:695
 msgid ""
 "Malica, you must kill me!  The king intends to make a second sun.  If he "
 "does so, the balance of the world will be shattered."
@@ -4199,12 +4204,12 @@ msgstr ""
 "になったら、世界の平衡が崩れてしまうわ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:674
+#: Girl_unDead/scenarios/12_castle.cfg:699
 msgid "No!  I can't kill you!"
 msgstr "そんな！　お母さんを殺せるわけないわ！"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:678
+#: Girl_unDead/scenarios/12_castle.cfg:703
 msgid ""
 "Only a kinsman of mine is able to kill me.  That is you and no one else.  "
 "Now, be quick about it!"
@@ -4213,37 +4218,37 @@ msgstr ""
 "の。さあ、早く！"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/12_castle.cfg:682
+#: Girl_unDead/scenarios/12_castle.cfg:707
 msgid "Defeat Mother by Malica"
 msgstr "マリカがお母さんを倒す"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:715
+#: Girl_unDead/scenarios/12_castle.cfg:740
 msgid "Ha ha.  No one can hurt me!"
 msgstr "ははは、誰者も私を傷つけることはできないのだ！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:735
+#: Girl_unDead/scenarios/12_castle.cfg:760
 msgid "Ah, sorry, sorry Mom..."
 msgstr "ああ、ごめんなさい、ごめんなさい、お母さん・・・"
 
 #. [message]: speaker=Mother
-#: Girl_unDead/scenarios/12_castle.cfg:739
+#: Girl_unDead/scenarios/12_castle.cfg:764
 msgid "Malica, it's alright.  I thank you.  Good bye, Malica."
 msgstr "マリカ、これでいいの。ありがとうマリカ。さようなら・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:746
+#: Girl_unDead/scenarios/12_castle.cfg:771
 msgid "Mom!!"
 msgstr "お母さん！！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:750
+#: Girl_unDead/scenarios/12_castle.cfg:775
 msgid "Mage Randolf, you are no longer immortal.  Surrender or die!"
 msgstr "ランドルフ、あなたはもう不死ではない。覚悟しなさい！"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:754
+#: Girl_unDead/scenarios/12_castle.cfg:779
 msgid ""
 "Ha Ha Ha.  The heads of undead are certainly empty.  Haven't you noticed, "
 "little girl, that you are already mine?"
@@ -4252,12 +4257,12 @@ msgstr ""
 "我が手中にだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:758
+#: Girl_unDead/scenarios/12_castle.cfg:783
 msgid "What?  Oh!  I can't move my body."
 msgstr "あれ？　体の自由が利かないわ？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:812
+#: Girl_unDead/scenarios/12_castle.cfg:836
 msgid ""
 "Argh!  My Princess no longer belongs to the night.  Randolf, what did you do "
 "to Malica?"
@@ -4265,7 +4270,7 @@ msgstr ""
 "なんてこった！　姫様が敵についてまった。ランドルフ、姫様に何をしやがった？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:816
+#: Girl_unDead/scenarios/12_castle.cfg:840
 msgid ""
 "She is now my captive, as her mother was.  Her gift of life is just as "
 "strong as her mother's was.  And since she has no family, no one can kill "
@@ -4276,7 +4281,7 @@ msgstr ""
 "私もまた決して殺されることはないのだ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:820
+#: Girl_unDead/scenarios/12_castle.cfg:844
 msgid ""
 "Oh, Great Magi, although you appear young, your head is empty because you "
 "have lived too long."
@@ -4285,29 +4290,29 @@ msgstr ""
 "なってしまったようね。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:824
+#: Girl_unDead/scenarios/12_castle.cfg:848
 msgid "That was unexpected, Malica speaks defiantly."
 msgstr "俺の聞き間違えか？　今姫様が毒舌を吐いたように聞こえたが？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:828
+#: Girl_unDead/scenarios/12_castle.cfg:852
 msgid "Huh?  What do you mean?"
 msgstr "はあ、どういうことだ？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:832
+#: Girl_unDead/scenarios/12_castle.cfg:856
 msgid ""
 "My heart is bleeding because of you.  But I do have a  brother... Cyclos, "
 "kill me!"
 msgstr "残念だけど、私には血を分けた兄弟がいるの・・・　シクロス、私を殺して！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:836
+#: Girl_unDead/scenarios/12_castle.cfg:860
 msgid "Malica!?"
 msgstr "マリカ？"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:840
+#: Girl_unDead/scenarios/12_castle.cfg:864
 msgid ""
 "Your father was my father.  Look at this earring.  I know you possess its "
 "match."
@@ -4316,13 +4321,13 @@ msgstr ""
 "りのシクロスさんの剣の飾りが対になっているんでしょ？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:844
+#: Girl_unDead/scenarios/12_castle.cfg:868
 msgid "I have been wondering... But I cannot kill my sister."
 msgstr ""
 "そうではないかと思ってはいたが・・・　しかし、妹を殺すことなどできない。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:848
+#: Girl_unDead/scenarios/12_castle.cfg:872
 msgid ""
 "My body was destroyed long ago.  It is fated that my life disappear "
 "completely, just as it was for my mother.  Cyclos, please!!"
@@ -4331,22 +4336,22 @@ msgstr ""
 "さん、さあ早く！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:852
+#: Girl_unDead/scenarios/12_castle.cfg:876
 msgid "All right..."
 msgstr "わかった・・・"
 
 #. [objective]: condition=win
-#: Girl_unDead/scenarios/12_castle.cfg:856
+#: Girl_unDead/scenarios/12_castle.cfg:880
 msgid "Defeat Malica by Cyclos"
 msgstr "シクロスがマリカを倒す"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:947
+#: Girl_unDead/scenarios/12_castle.cfg:971
 msgid "Oh Malica! My sister!  Sorry, sorry..."
 msgstr "ああ、マリカ！　妹よ！　すまん・・・"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:951
+#: Girl_unDead/scenarios/12_castle.cfg:975
 msgid ""
 "Cyclos. It's alright.  Now, I can be with Mom again.  Bye Cyclos.  I love "
 "you."
@@ -4355,79 +4360,79 @@ msgstr ""
 "しているわ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:958
+#: Girl_unDead/scenarios/12_castle.cfg:982
 msgid "Malica!!"
 msgstr "マリカ！！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:962
+#: Girl_unDead/scenarios/12_castle.cfg:986
 msgid "Randolf!  I kill you.  I never forgive you."
 msgstr "ランドルフ！！　殺してやる。　決して許さない。"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:966
+#: Girl_unDead/scenarios/12_castle.cfg:990
 msgid ""
 "Ha ha.  You are ridiculous, boy.  ..... Uh!  What is happening to my body?"
 msgstr "ははは、バカな小僧め・・・　う！　体が、体が！？"
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/12_castle.cfg:985
+#: Girl_unDead/scenarios/12_castle.cfg:1010
 msgid "No!....No!"
 msgstr "なぜ・・・なぜだ！"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:989
+#: Girl_unDead/scenarios/12_castle.cfg:1014
 msgid "He has become repulsive to look at."
 msgstr "屍喰人に変わった。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:993
+#: Girl_unDead/scenarios/12_castle.cfg:1018
 msgid "That is because his soul was eaten by desire."
 msgstr "欲に魂を食われちまったんだな。"
 
 #. [message]: role=mage
-#: Girl_unDead/scenarios/12_castle.cfg:1014
+#: Girl_unDead/scenarios/12_castle.cfg:1039
 msgid "Oh, there is a monster!"
 msgstr "見ろ！　あそこに化け物がいる！"
 
 #. [message]: role=Kingdom
-#: Girl_unDead/scenarios/12_castle.cfg:1022
+#: Girl_unDead/scenarios/12_castle.cfg:1047
 msgid "Kill it quickly!"
 msgstr "すぐに殺すんだ！！"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/scenarios/12_castle.cfg:1066
+#: Girl_unDead/scenarios/12_castle.cfg:1091
 msgid "I cann't go no more.  I'm sorry.  Good bye."
 msgstr "私はもうだめ。ごめんなさい。さようなら。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:1070
+#: Girl_unDead/scenarios/12_castle.cfg:1095
 msgid "My Princess, don't say sorry!  don't say good bye!  Don't die!"
 msgstr "姫様！謝るんじゃねえ！さよならなんて言うんじゃねえ！死ぬんじゃねえ！"
 
 #. [message]: speaker=$unit.id
-#: Girl_unDead/scenarios/12_castle.cfg:1102
+#: Girl_unDead/scenarios/12_castle.cfg:1127
 msgid "Die, monster!"
 msgstr "化け物め、くたばれ！！"
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/12_castle.cfg:1106
+#: Girl_unDead/scenarios/12_castle.cfg:1131
 msgid "No!  I'm Randolf, the Elder White Mage!"
 msgstr "やめろ、私はランドルフだ。お前達の大白魔術師だ。わからんのか！？"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:1110
+#: Girl_unDead/scenarios/12_castle.cfg:1135
 msgid "Stop!  I will kill him myself!!"
 msgstr "やめろ！　私がそいつを殺すんだ！！"
 
 #. [message]: speaker=Rotten Mage
-#: Girl_unDead/scenarios/12_castle.cfg:1122
+#: Girl_unDead/scenarios/12_castle.cfg:1147
 msgid ""
 "Alas!  I was meant to be filled with the light of all the world, not this."
 msgstr "なんと言うことだ！　この世界を光で満たすはずだったのに。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/12_castle.cfg:1132
+#: Girl_unDead/scenarios/12_castle.cfg:1157
 msgid ""
 "He is dead, the one who took from me all whom I loved.  He died too "
 "easily... You, the men who aided him!  I will kill all of you!!"
@@ -4436,32 +4441,32 @@ msgstr ""
 "皆殺しにしてやる！！"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/12_castle.cfg:1136
+#: Girl_unDead/scenarios/12_castle.cfg:1161
 msgid "Cyclos! Stop! Stop!"
 msgstr "シクロス殿！　やめてください！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/12_castle.cfg:1140
+#: Girl_unDead/scenarios/12_castle.cfg:1165
 msgid "He is dangerous, deranged.  We must move away from him!"
 msgstr "やべえ、小僧っ子が錯乱しちまった。こいつを連れてずらかるぜ！"
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/12_castle.cfg:1183
+#: Girl_unDead/scenarios/12_castle.cfg:1209
 msgid "Randolf, why aren't you helping me?"
 msgstr "ランドルフ。なぜ我が輩を見捨てたのだ？"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:1187
+#: Girl_unDead/scenarios/12_castle.cfg:1213
 msgid "Stupid King.  Many men can take your place, but I am special."
 msgstr "愚かな王よ。私と違って貴様の代わりはいくらでもいるのだ。"
 
 #. [message]: speaker=King
-#: Girl_unDead/scenarios/12_castle.cfg:1191
+#: Girl_unDead/scenarios/12_castle.cfg:1217
 msgid "Guards, kill Randolf!"
 msgstr "衛士よ。反逆者を殺せ！！"
 
 #. [message]: speaker=White Elder Mage
-#: Girl_unDead/scenarios/12_castle.cfg:1195
+#: Girl_unDead/scenarios/12_castle.cfg:1221
 msgid "Do you forget I am immortal?  Stupid King."
 msgstr "つくづく愚か者だな。私が不死であることを忘れたか？"
 
@@ -4471,17 +4476,17 @@ msgid "Epilogue"
 msgstr "エピローグ"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:57
+#: Girl_unDead/scenarios/13_epilogue.cfg:58
 msgid "Thank you, Poet. I now look kindly upon you."
 msgstr "詩人、ありがとう。これまでの助けに感謝する。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:61
+#: Girl_unDead/scenarios/13_epilogue.cfg:62
 msgid "I did only what I wanted to do.  I did not do it for you."
 msgstr "なーに、俺がやりたかったからやっただけよ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:65
+#: Girl_unDead/scenarios/13_epilogue.cfg:66
 msgid ""
 "We shall reach our home tomorrow, but you must not accompany us to the "
 "village."
@@ -4490,12 +4495,12 @@ msgstr ""
 "はいかない。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:69
+#: Girl_unDead/scenarios/13_epilogue.cfg:70
 msgid "I understand.  To tell the truth, I don't like elves."
 msgstr "分かってるさ。ほんと言うと俺はエルフは嫌いだしな。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:73
+#: Girl_unDead/scenarios/13_epilogue.cfg:74
 msgid ""
 "Ha ha ha, To tell the truth, it is difficult to spend time with you.  Still, "
 "I will feel lonely without you.  Where will you go?"
@@ -4504,52 +4509,52 @@ msgstr ""
 "寂しいものだ。これからどこへ行くつもりだ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:77
+#: Girl_unDead/scenarios/13_epilogue.cfg:78
 msgid "Somewhere desolate."
 msgstr "どこか一人になれるところで静かに暮らすさ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:92
+#: Girl_unDead/scenarios/13_epilogue.cfg:93
 msgid "I believe this troll will follow you."
 msgstr "しかし、あのトロールがついて行くぞ。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:96
+#: Girl_unDead/scenarios/13_epilogue.cfg:97
 msgid "I do not think he will.  It was Malica he followed."
 msgstr "誤算だったぜ。あいつが姫様じゃなくて、俺様になついていたとはな。"
 
 #. [message]: speaker=Troll Child
-#: Girl_unDead/scenarios/13_epilogue.cfg:100
+#: Girl_unDead/scenarios/13_epilogue.cfg:101
 msgid "? ? ?"
 msgstr "？？？"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:114
+#: Girl_unDead/scenarios/13_epilogue.cfg:115
 msgid "What are you going to do now?"
 msgstr "お前さんはどうするんだい？"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:118
+#: Girl_unDead/scenarios/13_epilogue.cfg:119
 msgid "I will take care of Cyclos."
 msgstr "私はシクロス様の世話をしようと思う。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:122
+#: Girl_unDead/scenarios/13_epilogue.cfg:123
 msgid "Indeed, he needs help, but that may be difficult."
 msgstr "確かに小僧っ子にゃ子守りが必要だが、大変だぜ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:126
+#: Girl_unDead/scenarios/13_epilogue.cfg:127
 msgid "I know.  So, I have a request of you before you depart."
 msgstr "分かっている。そう、分かれる前にひとつ頼みがあるのだが。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:134
+#: Girl_unDead/scenarios/13_epilogue.cfg:135
 msgid "Please cut off my cursed right arm.  I cannot return home with it."
 msgstr "私の呪われた右手を切り落としてくれ。このまま帰るわけにはいかない。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:138
+#: Girl_unDead/scenarios/13_epilogue.cfg:139
 msgid ""
 "No!  I can't!  You will need both arms to help.  But you must hide the "
 "secret until you die."
@@ -4558,7 +4563,7 @@ msgstr ""
 "隠し通すんだな。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:146
+#: Girl_unDead/scenarios/13_epilogue.cfg:147
 msgid ""
 "Sorry. I have come to hate killing and maiming. Being with Malica has "
 "changed me.  I'm now of no use to the undead."
@@ -4567,22 +4572,22 @@ msgstr ""
 "ド失格だぜ。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/13_epilogue.cfg:162
+#: Girl_unDead/scenarios/13_epilogue.cfg:163
 msgid "Stella!  Come!  Stella!"
 msgstr "ステラ！　どこだ！"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:176
+#: Girl_unDead/scenarios/13_epilogue.cfg:177
 msgid "Oh, he acts like a baby.  Stella, you will have a hard life."
 msgstr "まるっきり赤ん坊だな。ステラ、あんた苦労するぜ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:180
+#: Girl_unDead/scenarios/13_epilogue.cfg:181
 msgid "I know."
 msgstr "分かっている。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:184
+#: Girl_unDead/scenarios/13_epilogue.cfg:185
 msgid ""
 "Cry when you feel the need to cry.  Seek not to defeat weakness, but love "
 "weakness."
@@ -4591,34 +4596,34 @@ msgstr ""
 "け。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:188
+#: Girl_unDead/scenarios/13_epilogue.cfg:189
 msgid "I cannot understand what you say."
 msgstr "何を言っているのかよくわからないが。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:192
+#: Girl_unDead/scenarios/13_epilogue.cfg:193
 msgid "Then forget it.  I am a philosopher, not a poet."
 msgstr ""
 "わからなきゃ忘れてもらっていいぜ。でも俺様は本当は詩人じゃなくて。哲学者なの"
 "さ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:196
+#: Girl_unDead/scenarios/13_epilogue.cfg:197
 msgid "Ha ha ha, thank you anyway."
 msgstr "ははは、とにかく助言ありがとう。"
 
 #. [message]: speaker=Poet
-#: Girl_unDead/scenarios/13_epilogue.cfg:200
+#: Girl_unDead/scenarios/13_epilogue.cfg:201
 msgid "Night has fallen.  You must go to the baby Cyclos.  I say goodbye."
 msgstr "夜も更けたな。小僧っ子の所に行ってやりな。じゃ、あばよ。"
 
 #. [message]: speaker=Stella
-#: Girl_unDead/scenarios/13_epilogue.cfg:214
+#: Girl_unDead/scenarios/13_epilogue.cfg:215
 msgid "Goodbye."
 msgstr "さよなら。"
 
 #. [message]: speaker=Cyclos
-#: Girl_unDead/scenarios/13_epilogue.cfg:239
+#: Girl_unDead/scenarios/13_epilogue.cfg:240
 msgid "Stella!  Where are you?"
 msgstr "ステラ！　どこだ？"
 
@@ -4643,18 +4648,18 @@ msgstr "王室付白魔術師"
 #. [unit_type]: id=Peasant Child, race=human, gender=male,female
 #. [unit_type]: id=Harfdead Child, race=undead, gender=female
 #: Girl_unDead/units/humans/Malica.cfg:21
-#: Girl_unDead/units/humans/Peasant_Child.cfg:36
-#: Girl_unDead/units/humans/Peasant_Child.cfg:201
-#: Girl_unDead/units/humans/Peasant_Child.cfg:20
+#: Girl_unDead/units/humans/Peasant_Child.cfg:38
+#: Girl_unDead/units/humans/Peasant_Child.cfg:205
+#: Girl_unDead/units/humans/Peasant_Child.cfg:21
 #: Girl_unDead/units/s_undead/Harfdead_Child.cfg:21
 msgid "Young and fragile, children are easily finished."
 msgstr "若く脆い子供たちは、簡単に命を落としてしまう。"
 
 #. [attack]: type=blade
 #: Girl_unDead/units/humans/Malica.cfg:42
-#: Girl_unDead/units/humans/Peasant_Child.cfg:58
-#: Girl_unDead/units/humans/Peasant_Child.cfg:134
-#: Girl_unDead/units/humans/Peasant_Child.cfg:222
+#: Girl_unDead/units/humans/Peasant_Child.cfg:60
+#: Girl_unDead/units/humans/Peasant_Child.cfg:137
+#: Girl_unDead/units/humans/Peasant_Child.cfg:226
 #: Girl_unDead/units/s_undead/Harfdead_Child.cfg:42
 msgid "small knife"
 msgstr "小さなナイフ"
@@ -4662,14 +4667,14 @@ msgstr "小さなナイフ"
 #. [male]: race=human, gender=male
 #. [variation]: id=Peasant Child, race=human, gender=male
 #. [unit_type]: id=Peasant Child, race=human, gender=male,female
-#: Girl_unDead/units/humans/Peasant_Child.cfg:23
-#: Girl_unDead/units/humans/Peasant_Child.cfg:188
+#: Girl_unDead/units/humans/Peasant_Child.cfg:24
+#: Girl_unDead/units/humans/Peasant_Child.cfg:191
 #: Girl_unDead/units/humans/Peasant_Child.cfg:7
 msgid "Peasant Child"
 msgstr "百姓の子ども"
 
 #. [female]: gender=female
-#: Girl_unDead/units/humans/Peasant_Child.cfg:110
+#: Girl_unDead/units/humans/Peasant_Child.cfg:112
 msgid "female^Peasant Child"
 msgstr "百姓の子ども"
 
@@ -4761,19 +4766,19 @@ msgstr "銀のチョコ骨"
 
 #. [illuminates]: id=darken
 #: Girl_unDead/utils/abilities.cfg:14 Girl_unDead/utils/abilities.cfg:32
-#: Girl_unDead/utils/abilities.cfg:50
+#: Girl_unDead/utils/abilities.cfg:51
 msgid "darkens"
 msgstr "闇化"
 
 #. [illuminates]: id=darken
 #: Girl_unDead/utils/abilities.cfg:15 Girl_unDead/utils/abilities.cfg:33
-#: Girl_unDead/utils/abilities.cfg:51
+#: Girl_unDead/utils/abilities.cfg:52
 msgid "female^darkens"
 msgstr "闇化"
 
 #. [illuminates]: id=darken
 #: Girl_unDead/utils/abilities.cfg:16 Girl_unDead/utils/abilities.cfg:34
-#: Girl_unDead/utils/abilities.cfg:52
+#: Girl_unDead/utils/abilities.cfg:53
 msgid ""
 "Darkens:\n"
 "This unit untiilluminates the surrounding area, making chaotic units fight "
@@ -4823,34 +4828,34 @@ msgstr "いいえ"
 
 #. [effect]: type=blade
 #. [effect]: type=impact
-#: Girl_unDead/utils/gud_utils.cfg:233 Girl_unDead/utils/gud_utils.cfg:260
-#: Girl_unDead/utils/gud_utils.cfg:291 Girl_unDead/utils/gud_utils.cfg:315
-#: Girl_unDead/utils/gud_utils.cfg:408 Girl_unDead/utils/gud_utils.cfg:435
+#: Girl_unDead/utils/gud_utils.cfg:237 Girl_unDead/utils/gud_utils.cfg:264
+#: Girl_unDead/utils/gud_utils.cfg:295 Girl_unDead/utils/gud_utils.cfg:319
+#: Girl_unDead/utils/gud_utils.cfg:412 Girl_unDead/utils/gud_utils.cfg:439
 msgid "Unison"
 msgstr "ユニゾン"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/utils/gud_utils.cfg:724
+#: Girl_unDead/utils/gud_utils.cfg:729
 msgid "$count_empty units can enter after."
 msgstr "あと $count_empty のユニットが入城できます。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/utils/gud_utils.cfg:744
+#: Girl_unDead/utils/gud_utils.cfg:749
 msgid "Failed some hero enter the castle. "
 msgstr "詩人、シクロス、ステラ、チビの誰かが城に入れなかった。"
 
 #. [message]: speaker=narrator
-#: Girl_unDead/utils/gud_utils.cfg:754
+#: Girl_unDead/utils/gud_utils.cfg:759
 msgid "No more units can enter the castle. "
 msgstr "これ以上のユニットは城に入れません。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/utils/gud_utils.cfg:773
+#: Girl_unDead/utils/gud_utils.cfg:778
 msgid "I have to enter the gate next. "
 msgstr "最後に私が入らなければ。"
 
 #. [message]: speaker=Malica
-#: Girl_unDead/utils/gud_utils.cfg:792
+#: Girl_unDead/utils/gud_utils.cfg:797
 msgid "Sorry! I can't enter the gate! "
 msgstr "ごめんなさい！　入り損ねたわ！ "
 
